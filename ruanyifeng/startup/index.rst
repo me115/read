@@ -1,0 +1,65 @@
+.. _startup:
+
+
+创业
+====================
+
+.. toctree::
+
+
+	201406_airbnb
+	201208_questions_you_need_to_ask_in_an_interview
+	201202_facebook_slogans
+	201111_tisiwi_demo_day
+	201110_dont_call_yourself_a_programmer
+	201108_the_quiet_mode_of_influence
+	201107_stephen_wolfram
+	201107_dont_compete_on_features
+	201105_pang_xiaowei
+	201104_the_dan_plan
+	201104_how_to_get_a_real_education
+	201101_never_check_email_first_thing_in_the_morning
+	201101_five_questions_to_develope_a_project
+	201012_paul_graham_the_disruptor_in_the_valley
+	201012_how_to_interview_a_programmer
+	201010_how_john_vechey_the_founder_of_popcap_did_it
+	201009_getting_rejected
+	201009_50_things_every_startup_should_know
+	201009_thomas_edison_s_first_patent
+	201008_technology_and_income_disparity
+	201008_not_working_hard_for_a_big_company
+	201007_stay_foolish
+	201006_how_to_keep_someone_with_you_forever
+	201006_work_at_a_startup
+	201005_dropbox_startup_lessons_learned
+	201005_dropout_entrepreneur
+	200911_freenomics
+	200911_business_model
+	200909_the_secret_of_surviving_bootstrappers
+	200909_idealist_must_die_in_china
+	200907_big_hole_and_little_shovel
+	200906_da_code
+	200906_why_working_in_a_big_company_is_so_boring
+	200905_10_lessons_from_a_failed_startup_part_two
+	200905_10_lessons_from_a_failed_startup_part_one
+	200903_michael_moritz_on_start-up
+	200901_stuff_that_matters
+	200812_why_to_start_a_startup_in_a_bad_economy
+	200810_an_interview_with_zhu_min_on_internet_start-up
+	200809_how_do_you_live_out_your_career_life
+	200805_jjhou_s_career_suggestions
+	200801_the_future_of_web_startups_part_ii
+	200801_the_future_of_web_startups_part_i
+	200712_ten_things_google_has_found_to_be_true
+	200712_joel_spolsky_talk_at_yale_part_ii
+	200712_joel_spolsky_talk_at_yale_part_i
+	200710_the_worst_jobs_for_the_21st_century
+	200710_does_a_college_degree_matter
+	200707_guy_kawasaki
+	200707_warrent_buffet_quotes
+	200707_steve_jobs_quotes
+	200706_why_not_to_do_a_startup
+	200705_zhu_min
+	200704_buddha_machine
+	200610_letter_from_the_google_founders
+	200509_ibmceo

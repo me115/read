@@ -1,0 +1,28 @@
+.. _200501_dollar:
+
+Dollar（美元）的词源
+=======================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2005/01/dollar.html>`__
+
+这是我查资料时发现的，觉得很有意思啊。
+
+“Dollar”这个词是”thaler”的变体，而thaler又是
+joachimsthaler的简写。Joachimsthaler是一种1519年铸造的德国银币的名字。
+
+|compare\_rev.gif|
+
+关于这个词的来源有两种说法 ，一种说法是银币的正面铸有圣徒St.
+Joachim的头像；另一种说法是，铸币所用的白银产自波希米亚流域的Joachimsthal（今捷克共和国境内）。
+
+对我来说，那种说法正确并不重要。重要的是，只要记住Dollar这个词最早是指银币就可以了，这反映了白银是人类社会最早的金属货币本位的事实。
+
+但是，有一个问题我没有搞清楚。美国独立的时候，主要流通的是西班牙银币（美国直到19世纪初，才自己铸造硬币）。可是Dollar既然来源于德国银币，那么怎么会跟西班牙银币拉上关系的呢？
+
+（完）
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2005/01/dollar.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

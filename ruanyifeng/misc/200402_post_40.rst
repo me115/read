@@ -1,0 +1,39 @@
+.. _200402_post_40:
+
+鲍威尔的谈话
+===============================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2004/02/post_40.html>`__
+
+今天，新浪网\ `新闻头条 <http://news.sina.com.cn/c/2004-02-12/10552839342.shtml>`__\ 是，美国国务卿鲍威尔国会作证时对台湾公投的表态。
+
+有趣的是，想要举行”公投”的台湾和反对举行”公投”的\ `大陆 <http://news.sina.com.cn/c/2004-02-12/18581785924s.shtml>`__\ ，居然都对这段讲话表示欢迎。
+
+同一段话让对立的两方都听出自己想听的东西，这真是”外交语言”的好例子。
+
+鲍威尔是这样说的：
+
+    “美方看不出台湾有必要举行’公投’。但台湾是个民主的地方，可以自行决定要不要举行’公投’。”
+
+英文原文为：
+
+    US Secretary of State Colin Powell told Congress on Wednesday the
+    Bush administration “doesn’t really see a need” for the Taiwan
+    referendum question, and opposes action that would change the status
+    quo in the region.
+
+    In a testimony before the House International Relations Committee,
+    Powell said: “Taiwan is a democratic place, if they choose to have a
+    referendum, they can have a referendum. We’ve made clear to them,
+    however, that we do not want to see these actions lead in any way to
+    change in the situation.”
+
+（顺便说一句，我在Google上没有找到任何西方媒体报道这一段话的，相关新闻来源只有两个：\ `新华社 <http://news.xinhuanet.com/english/2004-02/12/content_1312081.htm>`__\ 和\ `中国日报 <http://www.chinadaily.com.cn/english/doc/2004-02/12/content_305501.htm>`__\ 。）
+
+| （完）
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2004/02/post_40.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

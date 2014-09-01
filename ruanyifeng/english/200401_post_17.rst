@@ -1,0 +1,58 @@
+.. _200401_post_17:
+
+《关雎》的两种英译
+=====================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2004/01/post_17.html>`__
+
+《关雎》是《诗经》的名篇，”窈窕淑女，君子好逑”更是千古名句。
+
+网上有两种英译，我仔细研读，真是受益多多。
+
+|image0|
+
+第一种译文出自英国传教士理雅各（James Legge，1815-1897）。
+
+    | 关关雎鸠，Guan-guan go the ospreys, 在河之洲。On the islet in the
+    river.
+    |  窈窕淑女，The modest, retiring, virtuous, young lady: —
+    |  君子好逑。For our prince a good mate she.
+
+第二种译文出自汉学家阿瑟·韦利（Arthur Waley，1889-1966）。
+
+    | 关关雎鸠，Guan! Guan! Cry the fish hawks 在河之洲。on sandbars in
+    the river:
+    |  窈窕淑女，a mild-mannered good girl,
+    |  君子好逑。fine match for the gentleman.
+
+前一种译文是19世纪风格，用词文雅，语法讲究；后一种译文是20世纪风格，贴近口语，简洁明了。
+
+前者将”淑女”译成lady，后者译成good
+girl，生动地反映了两个时代的差异。前者用mate（伴侣）形容”女朋友”，后者用了match（交友）。至于”君子”，前者是our
+prince，后者是gentleman，我怀疑21世纪的译者会不会直接用boy？
+
+后面的翻译，”求之不得，寤寐思服。悠悠哉哉，辗转反侧”，也很有意思。
+
+前者的译文：
+
+    | 求之不得，He sought her and found her not, 寤寐思服。And waking
+    and sleeping he thought about her.
+    |  悠悠哉哉，Long he thought; oh! long and anxiously;
+    |  辗转反侧。On his side, on his back, he turned, and back again.
+
+后者的译文：
+
+    | 求之不得，I search but cannot find her, 寤寐思服。awake, asleep,
+    thinking of her,
+    |  悠悠哉哉，endlessly, endlessly,
+    |  辗转反侧。turning, tossing from side to side.
+
+两种译文都令我倾倒！表达得如此传神，可见古今中外，思慕之苦，人皆有之啊！
+
+| （完）
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2004/01/post_17.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

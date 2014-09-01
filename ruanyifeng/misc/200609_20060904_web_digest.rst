@@ -1,0 +1,56 @@
+.. _200609_20060904_web_digest:
+
+[今日网摘] 高尔夫球场及其他（2006年9月4日）
+==============================================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2006/09/20060904_web_digest.html>`__
+
+上午我在网上随意浏览，下面就是一些偶然看到的，我觉得值得记录的东西。
+
+**没收高尔夫球场 建穷人住宅**
+
+委内瑞拉首都加拉加斯市长胡安·巴雷托下令将两座高尔夫球场充公，用于为低收入阶层的平民建造住宅区。
+
+巴雷托在接受国家电视台的采访时说：
+
+    面对大片的简易房屋，有人还在打着高尔夫球，真是让人感到羞耻。
+
+巴雷托同时表示，市政府还准备没收那些被用于投资并且长期空置的房屋。
+
+链接：\ `新闻来源 <http://www.google.com/search?q=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89+%E9%AB%98%E5%B0%94%E5%A4%AB&hl=en&lr=&newwindow=1&lr=&start=10&sa=N>`__
+
+**Purge of Mao**
+
+上海最新的中学历史课本中，大大压缩了关于社会主义的内容，关于1979年前中国的共产主义，只提到一句话，毛泽东也只被提到了一次。《奥兰多哨兵报》发表社论说：
+
+    Today’s leadership in China wants its high-schoolers to view the
+    future through the eyes of Bill Gates, not Mao Zedong…. It’s another
+    sign that, as China plows ahead into the high-tech global market, it
+    remains opposed to free exchange of ideas.
+
+链接：\ `《奥兰多哨兵报》 <http://www.orlandosentinel.com/news/opinion/orl-ed02206sep02,0,7682543.story?coll=orl-opinion-headlines>`__
+
+**500强企业创造中国GDP的78％**
+
+最新公布的报告显示，2005年中国最大的500公司的产值占到全国GDP的78％，2001年这个数字是55.7％，2004年是73.5%。这实际上说，占总数99.9％的其他公司对宏观经济的影响是很微弱的。
+
+就像我以前\ `提到 <http://www.ruanyifeng.com/blog/2006/08/how_to_treat_the_increased_earnings_inequality.html>`__\ 过的，财富正在加速向大公司和富裕阶层集中，没有资源的小公司和个人，在经济上将越来越不重要，他们是无法分享经济增长的。
+
+链接：\ `The Financial
+Express <http://www.financialexpress.com/fe_full_story.php?content_id=139315>`__
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2006/09/20060904_web_digest.html>`__
+
+Evernote
+
+**
+
+Highlight
+
+Remove Highlight
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2006/09/20060904_web_digest.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

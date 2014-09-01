@@ -1,0 +1,127 @@
+.. _200602_post_175:
+
+韦伯斯特的故事
+=================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2006/02/post_175.html>`__
+
+最权威美语字典总是挂着”韦伯斯特”四个字，这是为什么？美国英语和英国英语的一个很大区别是单词拼写，这是如何出现的？
+
+下面的文章里有很好的解释，摘自《为什么是英语》（戴问天，东方出版社，2003年3月）。
+
+
+=============================================
+
+正式提出”美语” (American
+Language)，并且为之做了很多工作、产生重要影响的第一个人，是韦伯斯特(Noah
+Webster，1758—1843)。他出生在康涅狄格州，受教育于耶鲁大学，本来学的是法律，但因”本行”事业进展不顺利，改行当教师，这使他得以发现学校使用的从英国进口的书籍不能令人满意；而且由于两次对英战争，就连这样的书也往往不能保证供应。于是他编写了三本小学英语课本(拼写、语法、阅读各一册)，分别于1783、1784和1785年出版，总书名十分响亮，叫做《A
+Grammatical Institute of the English
+Language》。这套书讲拼写的第一册获得预想不到的成功，所以很快就以《The
+American Spelling
+Book》的名字多次再版，据统计在约一百年时间里总共发行了8000万册，平均每年80万册。对于一个人口不到一亿的国家，不能不说是很惊人的了。1789年韦伯斯特发表了一篇题为《Dissertations
+On the English language，with Notes Historical and
+Critical》的论文，1806年又出版了一本小词典，那可算他后来工程巨大、1828年出版的《An
+American Dictionary of the English
+Language》的”前奏”。在他的所有这些著作、以及其他一些文章里，韦伯斯特所表达的都是同样一个意思，那就是这个国家所说的英语，应该是一种”American
+thing”(美国国粹)；应该从独立的、美国的角度来看待它，并且承认它有自己的发展道路。
+
+| 
+| 
+其实，在语言问题上，韦伯斯特并不是一开始就非常”激进”的。一身多任、同时是美国著名政治家、外交家、科学家、作家和出版家的富兰克林(Benjamin
+Franklin，1706—1790)，早在1768年就提出过一个改革英语字母和单词拼写的方案，全名《A
+Scheme for a New Alphabet and a Reformed Mode of
+Spelling》，并为之专门制作了一套铅字字体。他曾经邀请韦伯斯特到费城参加他的工作，但后者表示自己有不同看法。那时韦伯斯特还认为，引进一套新的字母和提出一种新的”orthography”(正字法)，既不实际，又无必要。但21年以后他的观点改变了，在1789年出版的《Dissertation
+on the English
+Language》一文中，韦伯斯特写道：”我曾经认为正字法改革是不切实际也没有必要的，但现在我同意富兰克林博士的意见，那是可行的，也是非常必要的。”在这本书的附录里，他建议：
+
+1)省去所有冗余的(superfluous)和不发音(silent)的字母，例如”bread”里面的”a”，”give”里面的”e”；
+
+2)用”k”代替发[k]音的字母组合”ch”，例如把”character”写作”karacter”，”chorus”写作”korus”；
+
+| 3)用字母组合”ee”代替”mean”、”speak”、”grieve”、”key”等单词里面的”ea”、”ie”和”ey”。
+| 
+在他第二年出版的另一本书里，韦伯斯特为自己的建议作了”示范”，写了下面这样—些词：”ritten”(written)，”riting”(writing，但是”writer”的写法没变)，”alternativ”(alternative)，”reezon”(reason)，”iz”(is)，”waz”(was)，”wurds”(words)，”yeer”(year)，”proov”(prove)。
+
+然而，韦伯斯特对单词拼写所作的这些”改进”，并没得到多少人赞同，所以在他1806年出版的那本”小词典”里(原名《A
+Compendious Dictionary of the English
+Language》（简明英语词典），这些词又都恢复了原来的形式。在这本词典、以及在后来(1828)那部影响更大的《An
+American Dictionary Of the English
+Language》里，韦伯斯特在单词拼写上提出的改革主要有七条：
+
+| 1)”musick”、”Physick”、”logick”这样一些原来以”-ck”结尾的词，省去末尾的”k”，成为”music”、”physic”和”logic”。不过对于这一条韦伯斯特坚持得并不彻底，所以词典里仍然出现了”traffick”
+| 
+(traffic，交通，交易)、”almanack”(almanac，历书，年鉴)、”frolick”(frolic，嬉戏，欢乐的)、”havock”(havoc，浩劫)等老的形式；
+
+2)英语里原来像法语那样拼写作”-re”的词尾，改作”-er”，例如”center”(中心)、”fiber”(纤维)、”liter”(公升)、”meter”(米)、”scepter”(节杖，笏)和”theater”(剧场)；
+
+3)英语里原来拼写作”-our”的词尾，省去其中的”u”，例如”color”(颜色)、”favor”(喜爱，恩惠)、”honor”(荣誉)、”labor”(劳动)和”vapor”(蒸汽)；
+
+4)英语里原来拼写作”-que”的词尾，改作”-k或”-ck”，例如”check”(支票)、”mask”(面具)和”risk”(风险)；
+
+5) 英语名词原来拼写作”-ce”的词尾，改作”-se”，例如
+“defense”(防卫)、”pretense”(主张)和”recompense” (报偿) ；
+
+6)在不列颠英语里由动词构成过去式、过去分词、现在分词或者派生名词时要双写的辅音字母”l”，在韦伯斯特词典里不再双写。这样，动词”travel”(旅行)的过去式和过去分词，不列颠英语是”travelled”，美国英语则是”traveled”；由它派生出来的名词”旅行者、旅客”，不列颠英语是”traveller”，美国英语则是”traveler”。与此类似的还有”dialled”(拨号，dialed)、”levelled”(夷平，leveled)、equalled”(等于，equaled)等等。在韦伯斯特提出的减省冗余字母的建议里，这大概是惟一被采纳了的一条；
+
+7)去掉词尾的”-e”，例如”determin”(决定)、”examin”(调查，考试)、”doctrin”(学说，教条)、”medicin”(医药)。
+
+除最后一条外，韦伯斯特的其他六条拼写改革后来都被他的同胞采纳了，并且一直保持到今天。而且，除第一条以外，其他五条都成了美国英语(American
+English)与不列颠英语(British
+English)的明显区别点。第一条没有成为两种英语的区别，是因为后来不列颠英语也采纳了韦伯斯特提出来的拼写方式；而且连我们举出的他没有改变的几个词，例如”traffick”、”almanack”、”frolick”和”havock”，也都改变了。
+
+第二、三、四条所涉及的词，基本上都是从法语引进的借词，不列颠英语一般保持了与法语相同、至少是相近的形式，而美国英语则拉开了距离。下面我们不妨作一对比：
+
+| 美国英语 不列颠英语 法语 meter(米) metro metre scepter(笏，节杖)
+sceptre sceptre theater(剧场) theatre th6atre color(颜色) colour couleur
+honor(荣誉) honour honneur favor(喜爱) favour faveur check(支票) cheque
+cheque
+|  mask(面具) mask masque
+|  risk(风险) risk risque
+
+要注意的是，表示”仪表”的”meter”，以及由它和其他构词成分组合而成的表示仪器的词，例如”thermometer”(温度计)、”barometer”(气压计)、”colorimeter”(比色计)和”spectrometer”(分光，计，波谱仪)，不列颠英语与美国英语形式相同，都拼写作”meter”。”check”除了是表示”支票”、”账单”、”(验证)记号”的名词以外，还有”检查”、”核对”、”(象棋)将军”等好几个动词，也都拼写作”check”，而且在不列颠英语和美国英语里拼写形式都相同。
+
+不列颠英语至今仍保留了好几个带有词尾”-logue”的组合词，例如”catalogue”(目录)、”proloque”(序诗，序幕，开场白)、”epilogue’(结束语，尾声，收场白)、”dialogue”(对话)和”monologue”(独白，独角戏)，它们都是经过法语或者拉丁语的中介，最终来自希腊语的，希腊语”logos”意思便是”speech”(说话)。这些词在不列颠英语里的拼写与法语相同，在韦伯斯特词典里却简化成”-log”：catalog，prolog，dialog，epilog，monolog。
+
+单词拼写既涉及语言的书面形式，也涉及语音、特别是学校里老师教给孩子的语音，所以韦伯斯特的《The
+American Spelling
+Book》一书，虽然是讲拼写的，但对美国英语的发音(pronunciation)
+也产生了不可忽视的影响。这种影响主要表现在两个方面。其一，它使美国英语的发音较为统一；其二，它使美国英语里单词的非重读音节读得较为清晰。在他那本发行量极大的书里，韦伯斯特曾经表白说他之所以提出这个拼写系统，就是为了”introduce
+uniformity and accuracy of pronunciation into common
+schools”(把一个统一的、准确的发音引入普通学校)。这本书曾经在美国学校里广泛使用，而老师在课堂上教学生读单词的一般方式，便是由字母拼成音节，再把音节组合成单词，例如：a-d
+ad，m-i mi，admi；r-a ra，admira；t-i-o-n
+shun，admiration(钦佩，羡慕)。这除了使单词里的非重读音节读得较为清晰以外，还使美国英语中发”spelling
+pronunciation”(拼写音)的情况比不列颠英语常见。例如地名”Magdalen”在英格兰读作[modlln]，而在美国便读作[maegdolin]。
+
+在韦伯斯特1828年出版的《An American Dictionary of the
+English》(美国英语词典)里，除了采用不同的拼写方式、强调单词的美国发音和美国用法，并且收入许多美国特有的词汇以外，还从美国人的著作里摘引了很多例句。——不过值得注意的是，也还有大量例句是从英国文学作品里摘引的，这表明真要与不列颠英语彻底”告别”，并非易事。
+
+在韦伯斯特编写的三本小学英语课本里，关于语法的一册大概是影响最小的，实际上后来几乎没有人再提到它。但这并不说明韦伯斯特在讲语法的时候就”技穷”了，而是因为在语法这个领域，美国英语是最不容易与不列颠英语相区别的。实际上，不只是英语，对于任何一种语言，与语音和词汇相比，语法都是更稳定、更不容易改变、更”核心”的部分。不能确定出一种”独立”的语法，美国人要想把自己说的语言确定为一种独立的”美语”，也就成为不可能的事。
+
+实际上，包括富兰克林和韦伯斯特在内，几乎所有的人为建立独立于英语之外的”美语”而作的努力，主要都是出于政治上的原因，而不是出于语言自身发展的要求。这从韦伯斯特1789年发表的《Dissertation
+on the English Language》一文可以看得很清楚，在这篇文章里他写道：”As an
+independent nation，our honor requires us to have a system of our
+own，in language as well as
+government．”(作为一个独立的民族，我们的荣誉要求我们拥有一个自己的体系；政府如此，语言也如此)”A
+national language is a band of union．Every engine should be employed to
+render the people Of this country national；to call their attachments
+home to their own country；and to inspire them with the pride of
+national
+character．”(一种民族语言是一个团结的纽带，应该用一切办法来唤醒人们的民族意识，让他们把自己的”家”附着于自己的”国”，激励人们的民族自豪感)。
+
+但是，政治毕竟不等同于语言。所以，韦伯斯特在美国仅仅被看作是一位对这个国家的语言产生了重大影响的词典编纂者（lexicographer)，而不是一名语言学家(linguist)，其地位大概与英国的约翰逊相当。值得注意的是，直到今天，在美国比较有影响的语言学家里，从惠特尼(W．D．Whitney，1827—1894)到鲍阿斯(F．Boas，1858—1942)和萨丕尔(E．Sapir，1884—1939)，再到布龙菲尔德(L．Bloomfield，1887—1949)、哈里斯(Z．S．Harris，1909—)和乔姆斯基(N．Chomsky，1928一)，始终没有哪一位提出过独立于英语之外的”美浯”的问题。
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2006/02/post_175.html>`__
+
+Evernote
+
+**
+
+Highlight
+
+Remove Highlight
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2006/02/post_175.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

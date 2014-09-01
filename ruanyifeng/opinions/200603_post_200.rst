@@ -1,0 +1,243 @@
+.. _200603_post_200:
+
+谢国忠《改革的成本》
+=======================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2006/03/post_200.html>`__
+
+昨天，我在摩根斯坦利的网站上，看到了谢国忠对中国经济的\ `一篇分析 <http://www.morganstanley.com/GEFdata/digests/20060321-tue.html>`__\ 。他提出，中国经济的快速增长，有部分原因是以人民福利的下降换来的。真是卓识啊！
+
+我完全同意他的思路。首先，中国经济是投资导向型的，就是说经济增长主要靠投入增加。随着经济规模越来越大，想要继续增长，所需的投资也必然越来越多。但是，政府拿不出那么多新增资源来投资。
+
+怎么办呢？就把原本应由公共部门承担的社会福利支出，转嫁到了普通家庭身上，主要是住房、教育和医疗这三项。国有企业因此节省了大量支出，得以将这部分省下的资源用来投资；而普通家庭为了应对这些新增支出，不得不提高储蓄率，新增储蓄通过银行系统也转化为投资。正是这些投资支持了中国经济的进一步增长，这就是过去10年中发生的事情。
+
+于是，就出现了一种可悲的分离。中国经济增长越快，人民感到的经济压力就越大，各种社会问题丛生。
+
+谢国忠因此断言，下一步中国经济的发展将有质的变化，发展的重点将从经济增长转向解决社会问题。它的深层含义是，中国经济增长的动力必须从投资和出口转为消费。
+
+他的这篇分析，我没有时间全部译成中文。我把最重要的段落译了出来（请用鼠标往下拉）。
+
+
+======================
+
+**China: Addressing Backlash Against Reform**
+
+中国：改革的成本
+
+Andy Xie (Hong Kong)
+
+谢国忠（香港）
+
+**Summary & Conclusions**
+
+结论
+
+China is experiencing the most intense debate in a decade on the merits
+of its reform and open-door policy. Rising inequality and rising
+household financial burdens are the triggers. The debate is another
+factor that will shift China’s priority from growth to non-growth
+issues, I believe.
+
+改革开放政策到底是否正确？中国正在经历10年来最激烈的争论。导火索是越来越大的贫富分化和家庭生活负担。我认为，这场争论是使中国经济发展首要问题从经济增长转向非经济增长问题的因素之一。
+
+The growth target in the 11th five-year plan (2006-2010) is 7.5%,
+compared with 9.5% for the past 25 years. By setting a low target, the
+government has room to focus on urgent issues, such as income
+inequality, education, healthcare, housing, and pollution. By addressing
+these issues, the Chinese economy will shift away from investment and
+exports to consumption, in my view.
+
+过去25年中，平均经济增长速度是9.5%，而第11个五年计划（2006-2010）中的经济增长目标只有7.5%。因为发展速度目标降低了，政府就有更大的主动来关注那些迫切的问题，比如贫富分化、教育、医疗、住房和污染。在我看来，在解决这些问题的过程中，中国经济的动力将从投资和出口转向消费。
+
+**Debating the reform and open-door policy**
+
+对改革开放政策的争论
+
+China’s GDP expanded by 57.3% in constant price terms and 83.8% in
+current price terms between 2000 and 2005, according to China’s National
+Statistics Bureau. Negative sentiment towards the economy has increased
+rapidly, despite the fast growth. The latest manifestation of this is
+the resurgence of anti-reform sentiment.
+
+Extreme income inequality and other ills in China’s economy have always
+elicited strong opinions. However, until recently, the reform and
+open-door policy had not been questioned seriously for a decade. The
+current debate centres on whether the reforms have caused the problems
+and have gone too far — that is, questioning the merit of the reform and
+open-door policy.
+
+One concrete example of the backlash is the negative sentiment towards
+the sales of state-owned assets to foreign capital. Private equity
+firms, for example, are facing more difficulty in acquiring state-owned
+enterprises. Even the IPOs of state-owned companies in Hong Kong are
+being questioned. The rallying cry is that China is selling its assets
+to foreign capital too cheaply.
+
+Concerns about structural problems in the economy are often linked to
+doubts about foreign capital, since the rising influence of foreign
+capital in China’s economy is one of the most visible signs of its open
+door policy. I estimate that one-fifth of China’s GDP (over half in the
+export sector) is produced by foreign-owned firms, which would make
+China the most open large economy in the world.
+
+Negative sentiment over foreign capital seems to derive mostly from a
+small elite, worried that foreign capital may be undermining the
+development of indigenous companies. The lack of internationally
+competitive Chinese firms has fanned the flames of such suspicion.
+
+The sentiment towards foreign capital among the population is mostly
+positive. Most local governments still tout the amounts of foreign
+capital that they attract to their populations.
+
+**‘Retreating is no way out’**
+
+“倒退没有出路”
+
+China’s top leaders have reaffirmed their commitment to the reform and
+the open-door policy. The Premier has stated that retreating is no way
+out. The risk of a substantial policy reversal is still low, in my view.
+Despite the ills in the economy, most people are far better off than 15
+years ago, when China was still quite closed. There is little popular
+support for a step backwards.
+
+While the public at large support the reform and open-door policy, they
+also want their concerns to be addressed. I believe the main concerns
+are (1) rural poverty, (2) rising income inequality, (3) escalating
+costs of education and healthcare, (4) declining property affordability,
+(5) pollution, and (6) work safety. Public demand for government action
+on these issues looks likely to escalate in the coming years.
+
+China’s economic policy has tended to be about sustaining fast growth.
+Whenever growth has looked like slackening, the government has
+introduced another wave of reforms to revive momentum. China has trusted
+in growth as the solution for the country’s problems.
+
+Developments in the current boom have shaken this faith in growth.
+Despite the magnitude of the boom, popular discussions about the economy
+relate mostly to escalating problems rather than the accomplishments of
+growth (e.g. infrastructure development). This shift in sentiment is
+likely to have a significant impact on China’s policy development in the
+coming years, I believe.
+
+The growth target in the 11th five-year plan (2006-2010) is 7.5%,
+compared with a realized growth rate of 9.5% over the past 25 years. The
+government’s aim in setting a relatively low target is to leave room to
+address non-growth issues. The 11th five-year plan is likely to be a
+period of consolidation for the Chinese economy, in my view.
+
+Over the next five years, I think the Chinese government needs to
+implement policies to address the issues that negatively affect
+livelihoods. If the problems continue to escalate, the doubts about
+China’s reform and open-door policy could spread from a small elite to
+the masses.
+
+**Diverging trends of economy and household welfare**
+
+经济增长与国民福利的分离
+
+The fixation with growth is to blame for many of today’s problems. To
+mobilize resources to support investment-led growth, central and local
+governments have been shifting financial burdens to the masses.
+Education, healthcare and housing are the most important items. Merely
+10 years ago, most people took for granted that the public sector would
+finance these three necessities. Today, they have come to represent the
+biggest outlays in household expenditure. This is why, despite income
+growth, most people feel under more pressure than they did 10 years ago.
+
+不健康的经济增长方式带来了很多问题。为了支持投资导向的经济增长，必须投入越来越多的资源，中央和地方政府就把筹集资源的负担转嫁到了社会大众身上。教育、医疗和住房是其中最主要的项目。仅仅在10年前，大多数人都认为国家会理所当然的提供这三种必需品。但是今天，这三项支出却成了家庭消费中的最大项目。这就是为什么，尽管收入在增长，大多数人却感到比十年前的压力更大了。
+
+As the state sector has shed its burdens, it has used its improved
+financial situation to list assets on the stock market and increase
+investment. The rise in expenditure on infrastructure, for example, is
+due partly to the state sector shifting its financial burdens to the
+household sector.
+
+当国有企业卸走了它的负担后，财务状况得到了改善，于是国有企业增加了投资，到证券市场上上市融资。比如，基础设施的投入增加，部分原因就是国有部门将其财务负担转嫁到普通家庭身上。
+
+The privatization of the housing market has played an important role in
+increasing investment. Sales of residential properties increased from 2%
+of GDP in 1998 to 6.2% in 2005. As household income is about 56% of GDP,
+this implies that property purchases equate to around 11.1% of household
+income. The fear of rising property prices is a major driver of rising
+demand for properties. This item clearly features very prominently in
+household expenditure, but did not exist 10 years ago.
+
+在投资增加的过程中，住房市场私有化扮演了一个很重要的角色。住宅销售从1998年GDP的2%上升到了2005年的6.2%。因为家庭收入大约是GDP的56%，所以这表明家庭要用其收入的11.1%来购买住房。房地产的需求上升，很大程度上是因为人们害怕房地产价格会不断上涨。这个开支现在在家庭支出中扮演重要角色，但是10年前它是不存在的。
+
+The 1Q06 central bank survey on urban consumption and saving behaviour
+showed that willingness to consume has reached a historical low and
+education expenditure is the principal deterrent against consumption.
+China’s education system has a serious flaw, in my view. Schools are
+state-owned monopolies, but have flexibility when it comes to charging
+students. Considering the importance that Chinese households attach to
+education, schools have great pricing power to raise charges on all
+sorts of pretexts. Chinese schools behave neither like public schools,
+which have a mission to serve, nor private schools, which must compete
+to succeed.
+
+2006年第一季度，中央银行对城镇居民消费和储蓄行为的调查显示，消费意愿达到了历史上的最低点，人们不愿消费的首要原因是教育费用。在我看来，\ **中国的教育体系有一个很重大的缺点。学校都是国有垄断的，但是却有权利自主决定如何对学生收费。**\ 考虑到中国家庭对教育的重视，学校会以各种借口运用其定价权来提高费用。\ **中国的学校既不像提供义务教育的公立学校，也不像必须靠教育质量来确保生存的私立学校。**
+
+The latest report from the World Health Organization ranks China fourth
+from bottom among over 190 countries on social equity of healthcare.
+China had a healthcare system completely funded by the government only
+10 years ago. The dramatic reversal has had a traumatic impact on
+livelihoods. Similar to schools, Chinese hospitals are state-owned
+monopolies that have pricing flexibility. In healthcare, the bargaining
+position of the patient is essentially nil. It is not surprising that
+the current system is the cause of considerable resentment.
+
+世界卫生组织的最新医疗公平的报告，将中国在190个国家中列在倒数第四位。仅仅在10年前，中国的医疗体系完全由政府来承担。体制的变化对普通人的生活造成了灾难性的影响。同教育体系相类似，中国的医院也是国有垄断的，且有价格自主权。病人对价格几乎完全没有异议能力。现在的医疗体系在人民中造成巨大怨恨，是毫不奇怪的。
+
+The new and large burdens from shouldering education, healthcare and
+housing expenses explain why China’s impressive growth has not generated
+the same increase in household welfare — because the growth has taken
+place partly at households’ expense. The China Youth Daily recently
+published a survey showing that 85.3% of the population feel a heavier
+financial burdens now than 10 years ago.
+
+在教育、医疗和住房上新增的开支不断增大，解释了为什么中国引人注目的经济增长不能在国民福利上体现出来，因为这种经济增长一部分是以国民福利为代价而换来的。《中国青年报》最近公布的一项调查显示，85.3%的人感到现在比10年前经济负担更重。
+
+The contrast between economic growth and household welfare is due to the
+three ‘mountains’ of education, healthcare and housing, which weigh down
+on household pocketbooks. Indeed, one major reason behind China’s fast
+economic growth is the shift in these financial burdens from the state
+to the household sector.
+
+经济增长与国民福利分离的原因是”三座大山”：教育、医疗和住房。它们压在普通家庭的钱包上。实际上，\ **中国经济快速增长背后的一个主要原因就是，将社会福利支出转移到了普通家庭的身上。**
+
+**Policy implications**
+
+政策建议
+
+Change appears to be in the air. The recently completed National
+People’s Congress focused on the big social issues rather than growth
+per se. I expect most policy changes in the coming months to address the
+imbalances in China’s economy.
+
+The first area likely to see action move is minimum wages. The city of
+Shenzhen has just announced an increase in its minimum wage from Rmb
+690/month to Rmb 800/month. Senior government leaders are increasingly
+expressing support for increased minimum wages. I see this as a key
+ingredient in addressing China’s economic imbalances.
+
+More affordable housing is the next objective that needs to be met to
+increase household welfare, in my view. Many cities are talking about
+this, but not doing enough, because such a solution is not sufficiently
+profitable for either property developers or city governments. I would
+expect to see some new policies implemented this year.
+
+The central government is targeting commercial corruption in hospitals
+and schools as a temporary measure to respond to popular unhappiness.
+However, reforms are necessary to make these two sectors function
+efficiently on their own. I believe China needs to introduce
+government-funded basic education and healthcare and to promote private
+capital market competition as much as possible to make these two
+industries efficient.
+
+（完）
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2006/03/post_200.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

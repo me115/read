@@ -1,0 +1,62 @@
+.. _200508_post_144:
+
+四种自由
+===========================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2005/08/post_144.html>`__
+
+1941年1月6日，罗斯福总统在致第77届美国国会的国情咨文中提出，未来的世界必须建立在四种自由的基础上。
+
+    1.言论自由。
+
+    2.宗教信仰自由。
+
+    3.免于匮乏的自由。
+
+    4.免于恐惧的自由。
+
+我相信，这是任何正常的人类社会存在的基础。一个国家的公民没有这四种自由，这个国家就不算一个好国家。
+
+只把人权理解为生存权是不够的，生而为人就必须有这四种自由。否则，生存也是低质量和没有保障的。
+
+这四种自由应该是社会发展的目标。
+
+
+====================================
+
+**Franklin Roosevelt, State of the Union Address, 1941:**
+
+In the future days which we seek to make secure, we look forward to a
+world founded upon four essential human freedoms.
+
+The first is freedom of speech and expression —everywhere in the world.
+The second is freedom of every person to worship God in his own way —
+everywhere in the world. The third is freedom from want, which,
+translated into world terms, means economic understandings which will
+secure to every nation a healthy peacetime life for its
+inhabitants—everywhere in the world. The fourth is freedom from fear,
+which, translated into world terms, means a world-wide reduction of
+armaments to such a point and in such a thorough fashion that no nation
+will be in a position to commit an act of physical aggression against
+any neighbor — anywhere in the world.
+
+That is no vision of a distant millennium. It is a definite basis for a
+kind of world attainable in our own time and generation. That kind of
+world is the very antithesis of the so-called “new order” of tyranny
+which the dictators seek to create with the crash of a bomb. To that new
+order we oppose the greater conception —the moral order. A good society
+is able to face schemes of world domination and foreign revolutions
+alike without fear. Since the beginning of our American history we have
+been engaged in change, in a perpetual, peaceful revolution, a
+revolution which goes on steadily, quietly, adjusting itself to changing
+conditions without the concentration camp or the quicklime in the ditch.
+The world order which we seek is the cooperation of free countries,
+working together in a friendly, civilized society.
+
+（完）
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2005/08/post_144.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

@@ -1,0 +1,54 @@
+.. _200401_post_27:
+
+一些趣味图片（第一部分）
+===========================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2004/01/post_27.html>`__
+
+为大家送上一些我在网上发掘到的好玩的图片，:-)
+
+**1、”超人”松鼠**
+
+| 
+| **2、天空中的Teddy熊**
+
+| 
+| **3、偷窥**
+
+| 
+| **4、万圣节喝醉的南瓜**
+
+| 
+| **5、冷库中的汽车**
+
+| 
+| **6、流动电话亭**
+
+| 
+| **7、鲨鱼来了！**
+
+| 
+| **8、请资助酒精研究**
+
+| 
+| **9、但丁的《地狱篇》？**
+
+|bm401289.gif|
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2004/01/post_27.html>`__
+
+Evernote
+
+**
+
+Highlight
+
+Remove Highlight
+
+.. |bm401289.gif| image:: http://home.bomoo.com/mt-archives/images/bm401289.gif
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2004/01/post_27.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

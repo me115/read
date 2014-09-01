@@ -1,0 +1,74 @@
+.. _200605_post_222:
+
+关于司法的英语单词
+=====================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2006/05/post_222.html>`__
+
+| 前几天，我转载了去年普利策奖的最佳国际报道：《纽约时报》\ `“依法治国”系列报道 <http://www.ruanyifeng.com/blog/2006/05/post_217.html>`__\ ，一共8篇。在通读的过程中，我收集了一些关于司法的英语单词，想做个系统的整理。
+
+整理过程分为两个步骤。
+
+**第一个步骤是整理出与司法有关的所有人物。**
+
+（1）首先，一个案件的发生，必须有受害者（victim），通常情况下，受害方也是原告（plaintiff）。
+
+（2）既然有犯罪，那就一定有罪犯（criminal），不过在没有被定罪前，只能叫做嫌疑犯（suspect）。通常情况下，他也是被告（defendant）。
+
+（3）警察（police）负责案件的侦破，具体的经办人员侦察员（detective/investigator）。在美国，地方警察在口语中被叫做cop，联邦警察是agent。
+
+（4）在刑事犯罪的情况下，必须有检察官（prosecutor）来充当起诉方（accuser）。
+
+（5）起诉后，原告和被告都会找律师（lawyer），书面的称呼是attorney，英国的高等律师又叫barrister。美国律师协会叫做American
+Bar Association，ABA。Bar指律师，我只见过这一例。
+
+（6）既然上了法庭，审判由法官（judge）主持。
+
+（7）审讯过程中，法庭会传唤证人（witness），目击证人就是eyewitness 。
+
+（8）是否有罪由陪审团（jury）里的陪审员（juror）投票决定。
+
+**第二个步骤是列出与人物相关的一些事件。**
+
+在此之前，一般案件都叫case，如果是民事案件的话，可以用lawsuit。当检察官将案件向法庭提交时，审判（trial）过程就开始了。
+
+下面按照对象的不同，将单词分成几个大类。
+
+（1）检察官：检察官主要的工作就是起诉案件，这叫做公诉（prosecute），也可以叫控告（indict），起诉书就是indictment。上面两个词主要用在刑事案件中，民事案件中表示起诉的词就比较多了：charge,
+sue, accuse, litigate, action, process, file a
+suit。也许还有。它们之间到底有什么区别，我也搞不清楚。
+
+（2）罪犯：在法庭上，罪犯可以认罪（confession），也可以提出自己是无罪的（innocence）。在审理过程中，他可以被保释（bail），否则就要被拘留（detain
+/
+custody）。如果最后他被判有罪（guilty），他的财产可能会被没收（confiscation），也可能要赔偿损失（restitution），也可能要服刑（incarceration），最长就是无期徒刑（life
+sentence）。如果此人罪大恶极，就会被判处死刑(death
+capital)，被处决（execute），在美国是用电椅（electrocution）或注射（injection），在中国是用枪毙（shoot）。如果他不服的话，可以上诉（appeal）。
+
+（3）警察：警察对嫌疑犯会拘留（custody /
+detention），在拘留过程中，进行审讯（interrogate），可能会有逼供（coerce）和诱供（deduce）。最后，如果证据充足，可以向检察院申请正式逮捕（arrest
+/ apprehend）。
+
+（4）律师：律师的主要工作当然是辩护（defense）,对证人进行盘诘（question
+[STRIKEOUT:witnesser] witness/ cross-examine），以及检查证据（examine
+evidence）。
+
+（5）法官：法官主要是主持审理（try），当宣判（find /
+adjudicate）时，给出判决（verdict /
+ruling）。他可以宣布被告有罪（convict），并决定刑罚（find
+sentence）。他也可以宣布被告无罪或者没有责任（exonerate）。在某些情况下，法官会发出禁令（injunction）。在审理过程中，法庭中间会休庭（adjourn）。
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2006/05/post_222.html>`__
+
+Evernote
+
+**
+
+Highlight
+
+Remove Highlight
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2006/05/post_222.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

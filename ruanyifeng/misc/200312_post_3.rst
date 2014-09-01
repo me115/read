@@ -1,0 +1,42 @@
+.. _200312_post_3:
+
+天空为什么这样红？
+=====================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2003/12/post_3.html>`__
+
+上图是挪威著名现代画家蒙克（Edvard
+Munch,1863-1944）画于1893年的名作《呐喊》（Scream）。
+
+这幅画一直被看作反映现代人焦虑和恐惧的杰作。
+
+网上有这样的介绍：
+
+    “……画面表现的是一个形似婴儿的小人张着口从桥上跑来，远景是海湾和落日景象。天空像滚动着的血红色波浪，令人感到震颤和恐怖。仿佛整个自然都在流血。
+
+    蒙克后来在谈及此画时说：’我和两个朋友一起走着。夕阳西沉，天空变得像血一样红。我忽然无精打采，极度疲倦地止住脚步。黝黑色的海峡和道路，显示着血与火一样的光舌。朋友走着，我却一个人停在那里因不安而颤抖着，我感到了自然强烈的呐喊。’”
+
+    引自 http://art.wx-e.com/painter/p3.htm 。
+
+针对画中的天空为什么会是火红的，最近美国得克萨斯州立大学的天文学家Olson教授，找到了答案。
+
+2004年2月号的《sky and
+Telescope》杂志上，将刊登Olsin教授的研究成果（http://skyandtelescope.com/aboutsky/pressreleases/article\_1118\_1.asp）。
+
+他认为天空变红的原因是远在半个地球以外的印尼喀拉喀托火山（Krakatoa）喷发，大量的火山灰进入大气，造成了1883年11月至1884年2月间欧洲的红色天空，当时奥斯陆的报纸对此曾有过详细报道。所以，蒙克的这幅作品不是出于想象，而是在实景的启发下画出的。
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2003/12/post_3.html>`__
+
+Evernote
+
+**
+
+Highlight
+
+Remove Highlight
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2003/12/post_3.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

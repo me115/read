@@ -1,0 +1,165 @@
+.. _200401_post_21:
+
+菜谱”凉拌摘耳根”怎么译？
+===========================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2004/01/post_21.html>`__
+
+这是我在《经典搜索案例1001》一文中读到的一个例子。我把它引用过来，希望通过这个例子，可以帮助大家更好地利用搜索引擎。
+
+
+============================================
+
+**利用搜索引擎寻找”凉拌摘耳根”的译法**
+
+首先，估计汉英词典可能查不到这样的词。所以选GOOGLE做检索起点。
+
+基于这样一种思路：即中文关键词+英文关键的搜索，可以找到某一词语或句子的英文翻译。
+
+如果拿不准”凉拌”的”凉”是不是cold，可以用”\ **凉拌
++of**\ “做关键词搜索，OF是搜索忽略词，所以前面加上一个”+”强制搜索。
+
+| 浏览一下查询结果，我们看到有这么多”凉拌”：
+
+    -  凉拌海蜇 Cold & dressed jelly fish
+    -  Do you like tossed salad? 你喜欢凉拌生菜吗？.
+    -  SALAD:色拉,
+       凉拌生菜,莴苣、甘蓝、芹菜、洋葱等蔬菜与色拉酱或蛋黄酱搅拌而吃的生菜食品,有时也加些火腿、罐头鱼肉、水果、马铃薯等。也叫”沙拉”
+    -  Cold shredded potato with garlic 凉拌土豆丝
+    -  Cold mixed vegetables 凉拌素什锦
+    -  Cold stir shallot with bean-curd 小葱拌豆腐
+
+用”\ **凉拌 cold**\ “重新搜索，缩小一下范围：
+
+    -  凉拌榨菜 Cold and dressed hot pickled mustard tuber with sauce
+    -  凉拌米线 Cold noodles
+    -  凉拌粉丝 Seasoned Potato Noodle & Vegetable Cold Platter
+    -  凉拌鱿鱼 Cold dish squid
+    -  凉拌黄瓜 Shredded cucumber
+    -  你有没有做过凉拌黄瓜? Have you ever made cold-dressed cucumbers?
+    -  凉拌贡菜 Cold preserved vegetable
+
+这沙拉不是那沙拉，用salad似乎不妥。黄瓜之类强调切片或拍一拍，所以加了个shredded，”凉拌素什锦”、”小葱拌豆腐”等两种以上主原料，强调混和，所以加了mixed，stir。如果是凉拌摘耳根，看来只突出一下”凉”和”调味”就够了，用cold
+and dressed。
+
+在GOOGLE搜索框键入”摘耳根”，游览给出的检索结果，发现”摘耳根”是四川土话，”鱼腥草”更正规些。再用”鱼腥草”搜索，可以查到”\ **鱼腥草**\ “的拉丁文：
+
+    -  Houuuynia cordate Thunb
+    -  Houttuynla cordata Thunb
+    -  Houtuynia cordata Thunb
+    -  Houttuymia cordata Thuunb
+    -  Houttuynia Cordata Thund
+    -  Houttuynia Cordata Thunb
+
+还有两个台湾的网页，还提到鱼腥草的英名是Pig thigh
+
+这些鱼腥草的学名里面肯定只有一个对的，浏览更多的网页，我们猜测Houttuynia
+Cordata Thunb可能是正确的。用”Houttuynia Cordata Thunb Pig
+thigh”检索，发现只有2个网页，对鱼腥草的英文名字是Pig
+thigh这种说法我们表示存疑。
+
+为了更准确一些，用”Houttuynia Cordata Thunb”继续检索，给出第1个网页是
+
+    Plant Profile for Houttuynia cordata Thunb：
+
+    http://plants.usda.gov/cgi\_bin/plant\_profile.cgi?symbol=HOCO3
+
+“Classification”给出了鱼腥草的类种属，Scientific Name与 Common
+Name的对照栏里，查不到它的英文常用名。在网页的最底部，得知这个网页是美国农业部的植物数据库，应该是比较权威和学术的，检索到此结束。
+
+凉拌摘耳根，就译成”Cold and Dressed Zhaiergen”吧。（曹溪）
+
+来源：\ `《经典搜索案例1001》 <http://www.9238.net/examples.htm>`__
+
+
+=====================================
+
+**Google搜索语法**
+
+**1. 搜索结果要求包含两个及两个以上关键字**
+
+在多个关键字之间加上空格就可以了。
+
+**2. 搜索结果要求不包含某些特定信息**
+
+Google用减号”-“表示逻辑”非”操作。”A
+-B”表示搜索包含A但没有B的网页。注意操作符与作用的关键字之间，不能有空格。比如”搜索引擎
+-
+文化”，搜索引擎将视为关键字为”搜索引擎”和”文化”的逻辑”与”操作，中间的”-“被忽略。
+
+**3. 搜索结果至少包含多个关键字中的任意一个**
+
+Google用大写的”OR”表示逻辑”或”操作。搜索”A OR
+B”，意思就是说，搜索的网页中，要么有A，要么有B，要么同时有A和B。
+
+**4. 通配符问题**
+
+Google对通配符支持有限。它目前只可以用”\*”来替代单个字符，而且包含”\*”必须用”“引起来。比如，”“以\*治国”“，表示搜索第一个为”以”，末两个为”治国”的四字短语，中间的”\*”可以为任何字符。
+
+**5. 关键字的字母大小写**
+
+Google对英文字符大小写不敏感，”GOD”和”god”搜索的结果是一样的。
+
+**6. 搜索整个短语或者句子**
+
+用短语做关键字，必须加英文引号，否则空格会被当作”与”操作符。
+
+**7. 搜索引擎忽略的字符以及强制搜索**
+
+Google对一些网路上出现频率极高的英文单词，如”i”、”com”、”www”等，以及一些符号如”\*”、”.”等，作忽略处理。如果要对忽略的关键字进行强制搜索，则需要在该关键字前加上明文的”+”号。另一个强制搜索的方法是把上述的关键字用英文双引号引起来。注意，大部分常用英文符号（如问号，句号，逗号等）无法成为搜索关键字，加强制也不行。
+
+**8. 对搜索的网站进行限制**
+
+“site”表示搜索结果局限于某个具体网站或者网站频道，如”www.sina.com.cn”、”edu.sina.com.cn”，或者是某个域名，如”com.cn”、”com”等等。如果是要排除某网站或者域名范围内的页面，只需用”-网站/域名”。示例”搜索引擎
+技巧
+site:edu.cn”。注意，site后的冒号为英文字符，而且，冒号后不能有空格，否则，”site:”将被作为一个搜索的关键字。此外，网站域名不能有”http://”前缀，也不能有任何”/”的目录后缀；网站频道则只局限于”频道名.域名”方式，而不能是”域名/频道名”方式。
+
+**9. 在某一类文件中查找信息**
+
+“filetype:”是Google开发的非常强大实用的一个搜索语法。也就是说，Google不仅能搜索一般的文字页面，还能对某些二进制文档进行检索。目前，Google已经能检索微软的Office文档如.xls、.ppt、.doc，.rtf，WordPerfect文档，Lotus1-2-3文档，Adobe的.pdf文档，ShockWave的.swf文档（Flash动画）等。如”资产负债表
+filetype:doc OR filetype:xls OR filetype:ppt”。
+
+**10. 搜索的关键字包含在URL链接中**
+
+“inurl”语法返回的网页链接中包含第一个关键字，后面的关键字则出现在链接中或者网页文档中。有很多网站把某一类具有相同属性的资源名称显示在目录名称或者网页名称中，比如”MP3”、”GALLARY”等，于是，就可以用INURL语法找到这些相关资源链接，然后，用第二个关键词确定是否有某项具体资料。注意，”inurl:”后面不能有空格，Google也不对URL符号如”/”进行搜索。例如，Google会把”cgi-bin/phf”中的”/”当成空格处理。
+
+“allinurl”语法返回的网页的链接中包含所有作用关键字。
+
+这个查询的关键字只集中于网页的链接字符串。
+
+**11. 搜索的关键字包含在网页标题中**
+
+“intitle”和”allintitle”的用法类似于上面的inurl和allinurl，只是后者对URL进行查询，而前者对网页的标题栏进行查询。
+
+搜索的关键字包含在网页的”锚”（anchor）链点内：所谓”锚”，就是在同一个网页中快速切换链接点。与URL和TITLE类似，Google提供了两种对anchor的检索，”inanchor”和”allincnchor”。对此不作详述。
+
+**12. 搜索所有链接到某个URL地址的网页**
+
+如果你拥有一个个人网站，估计很想知道有多少人对你的网站作了链接。而”link”语法就能让你迅速达到这个目的。如”link:www.newhua.com”。注意，”link”不能与其他语法相混合操作，所以”link:”后面即使有空格，也将被Google忽略。另外还要说明的是，link只列出Google索引链接很小一部分，而非全部，所以如果你用Google没有搜到链到你的主页的链接，也不必灰心丧气。
+
+**13. 查找与某个页面结构内容相似的页面**
+
+“related”用来搜索结构内容方面相似的网页。例：搜索所有与中文新浪网主页相似的页面（如网易首页，搜狐首页，中华网首页等），”related:www.sina.com.cn/index.shtml”。Google自己对这一功能的介绍是：”如果您对某一网站的内容很感兴趣，但又嫌资料不够，类似网页会帮您找到其他有类似资料的网站；如果您在寻找产品信息，类似网页会为您提供相关信息，供您比较，使您尽可货比三家；如果您在某一领域做学问，类似网页会成为您的助手，帮您快速找到大量资料。但网页越有个性，能找到的类似网页就越少。例如，独树一帜的个人主页就很难有类似网页。”
+
+**14. 从Google服务器上缓存页面中查询信息**
+
+“cache”用来搜索Google服务器上某页面的缓存，通常用于查找某些已经被删除的死链接网页，相当于使用普通搜索结果页面中的”网页快照”功能。
+
+**15. 其他**
+
+其它罕用语法如info、stock等不一一介绍，有兴趣的读者可以参阅\ `Google大全 <http://www.google.com/intl/zh-CN/help.html>`__\ 。
+
+Google图像搜索目前支持的语法包括基本的搜索语法如” “、”-“、”OR”、”site”和
+“filetype:”。其中”filetype:”的后缀只能是几种限定的图片类似，如JPG，GIF等。
+
+来源：\ `《Google搜索从入门到精通v4.0》 <http://www.9238.net/stone/google40.htm>`__\ 。
+
+**更多关于搜索引擎的知识，请访问\ `搜索研究院 <http://www.9238.net/>`__\ 。**
+
+（完）
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2004/01/post_21.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

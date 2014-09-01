@@ -1,0 +1,90 @@
+.. _200606_un_in:
+
+前缀un-和in-
+===============================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2006/06/un_in.html>`__
+
+前缀un-和in-都表示否定的意思，有时很难区分什么时候应该用un-，什么时候应该用in-。
+
+1.
+
+一般来说，un-是通常的形式，它与大多数简单的词干搭配。
+
+比如，unfair, unclean, uneven, or unripe。
+
+如果一个词的后缀是英语后缀，通常用un-。
+
+比如，unceasing（-ing）, unmindful(-ful), unwealthy(-y),
+unselfish(-ish), or unwholesome(-some)。
+
+2.
+
+如果一个词的后缀是拉丁语后缀，通常用in-。
+
+比如，inaccurate（-ate）, incapacity（-ty）, indivisible(-ible),
+insignificant(-ant), illegal(-al), impossible(-able), or irregular(-ar)
+。
+
+3.
+
+有时两个单词仅仅因为词尾不同，而选用不同的前缀。
+
+| unjust－injustice unable－inability
+|  unquiet－inquietude
+|  uncivil－incivility
+
+4.
+
+以-ed结尾的单词用un-，不用in-。
+
+| undigested－indigestible unanimated－inanimate uncompleted－incomplete
+undetermined－indeterminate unlettered－illiterate
+unlimited－illimitable
+|  unredeemed－irredeemable
+|  unreconciled－irreconcilable
+
+5.
+
+以-ing结尾的词用un-，不用in-。
+
+| unceasing－incessant
+|  undiscriminating－indiscriminate
+
+6.
+
+有些拉丁后缀的词也与 un-连用。
+
+比如unadventurous, unceremonious, unconditional, and unconventional。
+
+7.
+
+有些词使用不同的前缀，意思不同。
+
+| ummoral（不道德的）－immoral（道德败坏的）
+unapt（不合适的）－inapt（无能的）
+unartistic（非艺术的，与艺术无关的）－inartistic（缺乏艺术性的，无艺术修养的）
+| 
+unreligious（不信教的，与宗教无关的）－irreligious（亵渎的，不敬神的）
+|  unhuman（非人类的）－inhuman（野蛮的）
+
+8.
+
+在l之前，in-通常转化为il-；在r之前，转化为ir-；在 b
+，m和p之前，转化为im-。
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2006/06/un_in.html>`__
+
+Evernote
+
+**
+
+Highlight
+
+Remove Highlight
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2006/06/un_in.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

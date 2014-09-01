@@ -1,0 +1,53 @@
+.. _200401_blog:
+
+四种Blog程序
+===============================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2004/01/blog.html>`__
+
+下面是我搭建这个Blog的一些经过和感想，希望能对那些想自己安装Blog程序的朋友有一点参考价值。
+
+我先后用过四个Blog程序：Dlog、BlogMX、Blosxom和Movable
+Type。前两个使用ASP动态网页，后两个则使用cgi程序。
+
+**1. Dlog**
+
+网址：\ `http://www.duoluo.com/webdream/ <http://www.duoluo.com/webdream/>`__
+
+说明：在使用ASP语言的Blog程序中，它可能是目前最适合国内用户的了，功能非常强大和齐全。而且更难得的是，它的内容和外观分离，可以方便编辑HTML网页模板，使其符合自己的设计。但是，它采用了”注册观员”这个奇怪的概念，我不太习惯。
+
+**2. BlogMX**
+
+网址：\ `http://www.dreamlettes.net <http://www.dreamlettes.net%20>`__
+
+说明：我最早就是使用这套程序的，但是很遗憾，原作者已经放弃了开发，现在在他的网站上一点影子都找不到了。大家可以到\ `http://www.happyface.dk <http://www.happyface.dk>`__\ 看到它的原始样子。我就是喜欢它的这种朴素感觉。不过，这套程序极不完善，我做了大量的源代码修改才勉强能使用。
+
+**3. Blosxom**
+
+网址：\ `www.blosxom.com/ <http://www.blosxom.com/>`__
+
+说明：这是我见过的最神奇的Blog程序，大小只有5K，所有代码不超过150行，就能实现基本的Blog功能。千万不要小看它，配上各种plugins，它几乎无所不能。而且，它还有一个很大的优点，就是每篇内容就是一个文本文件，所以添加和删除内容只要操作文件就可以了。不过，要把它玩好，恐怕非懂一点perl语言不可。
+
+**4. Movable Type**
+
+网址：\ `http://www.movabletype.org <http://www.movabletype.org>`__
+
+说明：目前全世界最流行的Blog程序，确实名不虚传，也是我现在的选择。
+
+除此以外，我还想提一下Drupal(\ `http://www.drupal.org/ <http://www.drupal.org/>`__)，它并不是单纯的Blog程序，而是一个完整的内容管理系统。我还没有用过，所以说不出更多的意见，不过我推荐大家去试一下，也许会有惊喜的。
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2004/01/blog.html>`__
+
+Evernote
+
+**
+
+Highlight
+
+Remove Highlight
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2004/01/blog.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

@@ -1,0 +1,45 @@
+.. _200312_post_12:
+
+《冷山》：电影和小说
+=======================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2003/12/post_12.html>`__
+
+12月18日，美国电影金球奖公布提名，《冷山》入围了8个奖项，是最大的赢家。
+
+但是令人惊讶的是，它的首映日期是在一周后的12月25日圣诞节。还没有上映，就能得到那么多提名，可见受关注的程度。也许最大的原因是它的同名原著是本著名小说，曾经得过1997年的美国国家图书奖。
+
+《冷山》讲述了这样一个故事，在南北战争即将结束的时候，一个名叫英曼的受伤士兵偷偷逃出了战地医院，返回北卡莱纳州的老家。路途上交通不便，他只有步行回家，因为天气逐渐寒冷，再加上他的伤还没有完全好透，所以一路上非常艰辛。当时，美国正处在战争时期，国家一片混乱，他不断遇到地痞和强盗，有好心人帮助他，但更多是有人故意刁难他，但无论遇到什么困难，英曼都不为所动，他的目标很清楚，一定要回到故乡的冷山，见到战前的恋人艾达。
+
+下面是我翻译的小说的第一段。
+
+    “伴随着黎明的第一道曙光，苍蝇们嗡嗡乱飞。它们被英曼的眼睛和脖子上长长的伤口吸引住了，它们扇动翅膀的声音和落在皮肤上的感觉能让人马上醒来，比满院子的公鸡还有效。他就这样开始了在医院里的新的一天。他一边用手拍打着苍蝇，一边目光穿过床的另一头，看着三叶窗外。和往常一样，他看见红土的道路、橡树和低矮的砖墙。再往后看，是一大片田野和一直延伸到西边地平线的矮松树林。那是平原上很远的地方了，因为医院建在唯一的高地上，所以可以看得很远。但天还没有亮，不能看得很清楚。窗户可能还是漆成灰色的好。”
+
+    At the first gesture of morning, flies began stirring. Inman’s eyes
+    and the long wound at his neck drew them, and the sound of their
+    wings and the touch of their feet were soon more potent than a
+    yardful of roosters in rousing a man to wake. So he came to yet one
+    more day in the hospital ward. He flapped the flies away with his
+    hands and looked across the foot of his bed to an open triple-hung
+    window. Ordinarily he could see to the red road and the oak tree and
+    the low brick wall. And beyond them to a sweep of fields and flat
+    piney woods that stretched to the western horizon. The view was a
+    long one for the flatlands, the hospital having been built on the
+    only swell within eyeshot. But it was too early yet for a vista. The
+    window might as well have been painted grey.
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2003/12/post_12.html>`__
+
+Evernote
+
+**
+
+Highlight
+
+Remove Highlight
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2003/12/post_12.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

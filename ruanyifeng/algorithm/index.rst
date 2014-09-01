@@ -1,0 +1,31 @@
+.. _algorithm:
+
+算法与数学 
+===========
+
+
+.. toctree::
+
+
+	201312_naive_bayes_classifier
+	201303_similar_image_search_part_ii
+	201303_automatic_summarization
+	201303_cosine_similarity
+	201303_tf-idf
+	201301_poisson_distribution
+	201211_gaussian_blur
+	201210_spelling_corrector
+	201209_imaginary_number
+	201203_ranking_algorithm_bayesian_average
+	201203_ranking_algorithm_wilson_score_interval
+	201203_ranking_algorithm_newton_s_law_of_cooling
+	201203_ranking_algorithm_stack_overflow
+	201203_ranking_algorithm_reddit
+	201202_ranking_algorithm_hacker_news
+	201111_dice_portrait
+	201108_bayesian_inference_part_two
+	201108_bayesian_inference_part_one
+	201107_principle_of_similar_image_search
+	201107_mathematical_constant_e
+	200901_what_is_a_circle
+	200812_a_puzzle_from_terrence_tao

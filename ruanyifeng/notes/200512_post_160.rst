@@ -1,0 +1,52 @@
+.. _200512_post_160:
+
+生活不是五月天的游戏
+=======================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2005/12/post_160.html>`__
+
+最近，我读到了一段19世纪的英国散文，很有感触。
+
+这段话来自汤玛斯·卡莱尔(Thomas
+Carlyle，1795一1881）的《过去与现在》(Past and Present，1843)。
+
+    生命对于人们从来不是五月天的游戏；在所有的时候，哑巴似的几百万群众为劳作而生，他们的命运总是漆黑的，承受多种苦难，冤曲，沉重的负担，可避免的和不可避免的：毫无游戏，只有苦活，干得筋骨酸痛，心头愤怒。……
+
+    我还相信，自从有了人类社会，从来没有一个时候哑巴般的几百万劳动者的命运象眼前这样完全无法忍受。使一个人悲惨的不是死，甚至不是饿死；无数的人死过，所有的人都必死——我们所有的人都将在火焰车的痛苦里寻到最后归宿。悲惨的是活得可怜，而不知为什么；是工作得筋骨酸痛而无所得；是心酸，疲惫，却又孤立无援，被冷冰冰的普遍的自由放任主义紧紧裹在中间；是整个一生都在慢慢死去，被禁闭在一种不闻。不动，无边的不正义之中，就象被扔进了暴君的铜牛的该死的铁肚里一般。对于上帝所造的所有的人，这是——而且永远是——不能忍受的。
+    那么，又为什么要对法国革命、宪章运动、三日叛乱感到奇怪，当前这时代，如果我们仔细想想，真是史无前例的。（王佐良译）
+
+说得多好啊，\ **“使一个人悲惨的不是死，是活得可怜，而不知为什么；是工作得筋骨酸痛而无所得；是心酸，疲惫，却又孤立无援，被冷冰冰的普遍的自由放任主义紧紧裹在中间；是整个一生都在慢慢死去，被禁闭在一种不闻不动，无边的不正义之中，就象被扔进了暴君的铜牛的该死的铁肚里一般。”**
+
+在中国有多少人是”可怜的活着，而不知为什么”？\ **……心酸，疲惫，孤立无援，周围是一片不闻不问、冷冰冰的自由放任主义和无边的不正义**\ ……生命为什么会是这样呢？
+
+
+==========================================
+
+附：英语原文
+
+Life was never a May-game for men; in all times the lot of the
+dumb-millions born to toil was defaced with manifold sufferings,
+injustices, heavy burdens, avoidable and unavoidable; not play at all,
+but hard work that made the sinews sore, and the heart sore. …
+
+And yet I will venture to believe that in no time, since the beginnings
+of Society, was the lot of those same dumb millions of toilers so
+entirely unbearable as it is even in the days now passing over us. It is
+not to die, or even to die of hunger, that makes a man wretched; many
+men have died; all men must die; - the last exit of us all is in a Fire
+Chariot of Pain. But it is to live miserable we know not why; to work
+sore and yet gain nothing; to be heart-worn, weary, yet isolated,
+unrelated, girt in with a cold universal Laissez-faire: it is to die
+slowly all our life long, imprisoned in a deaf, dead Infinite Injustice,
+- as in the accursed iron belly of a Phalaris Bull! This is and remains
+forever intolerable to all men whom God has made. Do we wonder at French
+Revolutions, Chartisms Revolts of Three Days? The times, if we will
+consider them, are really unexampled.
+
+（完）
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2005/12/post_160.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

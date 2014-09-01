@@ -1,0 +1,42 @@
+.. _200607_post_264:
+
+英语姓名的由来
+=================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2006/07/post_264.html>`__
+
+在中世纪的后期，英国人口开始增长，人口流动也在增加，这导致底层社会中英国人的名字不够用了。以前，一个英国农民叫约翰（John）、汤姆（Tom）、约伯（Job）就可以了，现在不行了，人多了有重名，必须发明新的名字了。
+
+最早的办法是在名字后面附加son，表示是某人的儿子，比如约翰逊（Johnson），汤姆逊（Thomson），约伯逊（Jobson）。
+
+其他的办法还有：
+
+（1）以居住地来判别。比如，布鲁克斯（Brooks，小溪），里维斯（Rivers，河流），希尔（hill，小山），代尔（dale，溪谷）。
+
+（2）以职业来判别。比如，德莱弗（”Drivers”，赶牲口的人）、布切尔（Butcher，屠夫）、亨特（Hunter，猎人）、格罗弗（Glover，制手套的人）、萨德勒（saddler，鞍工），米勒（Miller，磨坊主）、库珀（Cooper，制桶工人）、威福（Weaver，织工）、波特（porter，搬运工人）、卡朋特（Carpenter，木匠）、梅森（Mason，石匠）、撒切尔（Thatcher，盖屋顶工）、萨尔特（Salter，制盐人）、瓦克斯曼（Waxman，蜡工）、巴伯（barber，理发师）、鲍曼（Bowman，弓箭手）、普利斯特（Priest，牧师）、阿伯特（Abbot，男修道院院长）、派珀（Piper，吹风笛的人）、哈泼（Harper，竖琴师）、康斯塔布尔（Constable，警察）。
+
+（3）有一部分家庭是外来的，比如弗莱明（Fleming，佛兰芒人）、法兰奇（French，法国人）、霍兰德（Holland，荷兰）。
+
+（4）有一部分采用了威尔士的名字，比如埃文斯（Evans），欧文斯（owens），里斯（Rhys），弗洛伊德（Floyd），劳埃德（Lloyd）。
+
+（5）在苏格兰语中，Mc和Mac是表示son of的意思。
+
+（6）诺曼法国人的入侵，带来了一些法国人的姓，比如杰拉德（Gerald）、雷蒙德（Raymond）、弗朗西斯（Francis）。
+
+－－摘自Robert McCrum的《The Story of English》的中译本
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2006/07/post_264.html>`__
+
+Evernote
+
+**
+
+Highlight
+
+Remove Highlight
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2006/07/post_264.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

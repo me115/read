@@ -1,0 +1,58 @@
+.. _200509_post_149:
+
+英语《圣经》的版本
+=====================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2005/09/post_149.html>`__
+
+我想了解《圣经》英译本的版本和历史，结果发现相当复杂，因为版本太多了，可能有上百种吧。
+
+我做了几个基本版本的笔记，供大家参考。
+
+**1.The King James Version (KJV) ，1611**
+
+詹姆斯国王钦定版。英语《圣经》第一个通行版本，具有里程碑式的意义，已经成为英国文学的一部分。
+
+**2. Revised Version，1881**
+
+KJV的一个修订版，使其能够符合当代英语的标准。
+
+**3. American Standard Version (ASV), 1901**
+
+这是针对Revised Version的一个再修订版，目标是使其符合美国使用的需要。
+
+**4.Bible In Basic English (BBE) ，1941**
+
+目标是用最简单的英语翻译《圣经》，使用的单词在1000个常用词之内。
+
+**5. Revised Standard Version (RSV) ，1946**
+
+该版本在ASV的基础上进行修订，直接参考了希腊文和希伯来文的《圣经》，在20世纪中期一度非常流行。
+
+**6. New World Translation of the Holy Scriptures (NWT) ，1950**
+
+直接来自希腊文手稿的一个翻译版本。
+
+**7. New American Standard Bible (NASB) ，1971**
+
+这个版本被认为是20世纪翻译得最有文学性的《圣经》版本。它至今仍在更新，最新版是1995年出版。
+
+**8. New International Version (NIV) ，1978**
+
+这是由100多个来自全世界各个英语国家的学者，合力翻译完成的版本。
+
+9. New King James Version (NKJV)，1979
+
+用当代英语对KJV的一个修订。
+
+对英语版本的一个全面介绍请看\ `这里 <http://en.wikipedia.org/wiki/History_of_the_English_Bible#The_first_.22authorised_version.22>`__\ 。
+
+英语版本的历史演变图请看\ `这里 <http://en.wikipedia.org/wiki/Origin_and_Growth_of_the_English_Bible>`__\ 。
+
+（完）
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2005/09/post_149.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

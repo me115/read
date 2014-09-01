@@ -1,0 +1,107 @@
+.. _200410_post_87:
+
+读书公园的四个版本
+=====================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2004/10/post_87.html>`__
+
+今天下午，我对读书公园的页面又做了一些修改。然后就想到，在不知不觉间，这居然已经是网站的第四个版本了。它的面貌变化真是太大了。
+
+下面，大家就跟着我的记忆，来依次回顾吧。
+
+首先，必须要提一下卡尔维诺中文站，那是我所有工作的起点。我就是从它开始学会写网页的。
+
+| 0. **卡尔维诺中文站**
+|  上网时间：2001年4月
+|  网址：\ `http://calvino.bomoo.com <http://calvino.bomoo.com>`__
+
+|bm0410311.jpg|
+
+
+==========================================
+
+后来，我觉得静态网站已经不够用了，卡尔维诺中文站也无法满足我的兴趣爱好，所以用了asp+mdb做了一个动态网站。
+
+| 1. **读书公园（V. 1.0）**
+|  上网时间：2003年7月
+| 
+网址：\ `http://asp.bomoo.com/olddefault.asp <http://asp.bomoo.com/olddefault.asp>`__
+
+|bm0410312.jpg|
+
+
+========================================
+
+新网站开张几个月后，为了丰富网站内容，我开始写Blog了。用的第一个程序叫BlogMX，我觉得它有一个页面设计很不错，就决定套用到整个网站。于是，就有了读书公园的第二版。这也是我第一次用css控制网站外观。
+
+| 2. **读书公园（V. 2.0）**
+|  上网时间：2003年11月
+|  网址：\ `http://asp.bomoo.com <http://asp.bomoo.com>`__
+
+|bm0410313.jpg|
+
+
+==========================================
+
+因为我原先设想的模式不完善，随着时间流逝，越来越感到读书公园有点走进了死胡同。
+
+于是，我决定彻底改版，将读书公园定位在”开放式电子书籍数据库”，后台程序也彻底改成php+mysql
+。这次，整个网站的程序是我自己写的，这对我真的是很大的挑战，不过我还是做到了，呵呵。
+
+| 3.\ **读书公园（V. 3.0）**
+|  上网时间：2004年7月
+| 
+网址：\ `http://home.bomoo.com/sql/pages/ <http://home.bomoo.com/sql/pages/%20>`__\ （备注：原来首页再现不了了，大家只能看一个大概的页面风格了。）
+
+|bm0410314.jpg|
+
+
+=======================================
+
+新改版等于重做了一个网站，一切从头开始。很多事情只能慢慢来。很多朋友反映，原来的页面设计不是很好看，于是再三准备以后，我把网站风格彻底改掉了。现在，第四版改版还没有结束，还是施工中。这也是读书公园的最新版本了。
+
+| 4. **读书公园（V. 4.0）**
+|  上网时间：2004年10月
+|  网址：\ `http://www.bomoo.com <http://www.bomoo.com>`__
+
+|bm0410315.jpg|
+
+
+========================================
+
+好了，上面就是读书公园的所有版本。这些年的大部分业余时间都花在这个上面了，我自以为是有些成绩的。
+
+回首过去，许多往事历历在目，心中只有感慨。网站慢慢的变化、成长，其实这就是我自己的变化、成长。
+
+很多时候，实际上并没有一定要改变的原因，而只是我希望去尝试新事物，将网站变得更好，就会不由自主的动起手来。我不知道自己是不是做到这个目标了，改版以后，新版反而不如旧版，这也是经常发生的。
+
+但是不管怎样，只要不满意，就要去改变，这就是我的性格。以后，我还会不断动手，继续改动下去的。
+
+亲爱的朋友，看了上面的图片，你有什么感想吗。哪个版本更和谐，设计更可取，或者哪个版本缺点太突出。都欢迎你来点评和提出建议啊，也欢迎你说说自己心目中读书公园应该是什么样。
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2004/10/post_87.html>`__
+
+Evernote
+
+**
+
+Highlight
+
+Remove Highlight
+
+.. |bm0410311.jpg| image:: http://www.ruanyifeng.com/mt-archives/images/bm0410311.jpg
+   :target: http://calvino.bomoo.com
+.. |bm0410312.jpg| image:: http://www.ruanyifeng.com/mt-archives/images/bm0410312.jpg
+   :target: http://asp.bomoo.com/olddefault.asp
+.. |bm0410313.jpg| image:: http://www.ruanyifeng.com/mt-archives/images/bm0410313.jpg
+   :target: http://asp.bomoo.com
+.. |bm0410314.jpg| image:: http://www.ruanyifeng.com/mt-archives/images/bm0410314.jpg
+   :target: http://home.bomoo.com/sql/pages/
+.. |bm0410315.jpg| image:: http://www.ruanyifeng.com/mt-archives/images/bm0410315.jpg
+   :target: http://www.bomoo.com
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2004/10/post_87.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

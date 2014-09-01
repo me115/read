@@ -1,0 +1,131 @@
+.. _200603_post_187:
+
+马太福音和马太效应
+=====================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2006/03/post_187.html>`__
+
+| 昨天，我贴了一首弥尔顿十四行诗的\ `翻译 <http://www.ruanyifeng.com/blog/2006/03/post_186.html>`__\ 。
+
+这首诗第3行里有这样一个短语：
+
+    “\ **a talent which is death to hide**\ “。
+
+写成现代英语应该是
+
+    “I have a talent, to hide which means death to me”
+
+意思是”我有一种才能，把它隐藏起来，对我就意味着死亡”。但是，这句话并不是字面上那样简单，实际上弥尔顿在这里用了《马太福音》中的一个典故。
+
+为了把这个典故说清楚，首先要来解释一下talent这个词。
+
+talent在现代英语中表示才能，但是在古代，它是指一种货币单位，
+直译为”塔兰特”，使用于古代希腊、罗马和中东。《圣经》中用到talent的地方，都是指货币单位。从这里也可以推测talent的现代涵义是古代涵义的引申。
+
+《马太福音》第25节的第14～30句，是一个非常著名的故事。主人出门，给了三个仆人三笔钱。甲和乙都去做买卖了，都赚了。丙把那笔钱埋在地里。主人回家后，见到甲和乙赚钱，非常高兴，给了他们更多的钱。见了丙没有赚钱，非常生气，夺过他所有的钱，并把他关在门外的黑暗里。这也就是弥尔顿所说的”a
+talent which is death to
+hide”的意思，显然弥尔顿在这里用了双关，talent既指才能，又指上帝的赐予。
+
+我把原文抄录如下：
+
+    25:14 天国又好比一个人要往外国去，就叫了仆人来，把他的家业交给他们。
+
+    25:15
+    按着各人的才干，给他们银子。一个给了五千，一个给了二千，一个给了一千。就往外国去了。
+
+    25:16 那领五千的，随即拿去做买卖，另外赚了五千。
+
+    25:17 那领二千的，也照样另赚了二千。
+
+    25:18 但那领一千的，去掘开地，把主人的银子埋藏了。
+
+    25:19 过了许久，那些仆人的主人来了，和他们算账。
+
+    25:20
+    那领五千银子的，又带着那另外的五千来，说，主阿，你交给我五千银子，请看，我又赚了五千。
+
+    25:21
+    主人说，好，你这又良善又忠心的仆人。你在不多的事上有忠心，我要把许多事派你管理。可以进来享受你主人的快乐。
+
+    25:22 那领二千的也来说，主阿，你交给我二千银子，请看，我又赚了二千。
+
+    25:23
+    主人说，好，你这又良善又忠心的仆人。你在不多的事上有忠心，我要把许多事派你管理。可以进来享受你主人的快乐。
+
+    25:24
+    那领一千的，也来说，主阿，我知道你是忍心的人，没有种的地方要收割，没有散的地方要聚敛。
+
+    25:25 我就害怕，去把你的一千银子埋藏在地里。请看，你的原银子在这里。
+
+    25:26
+    主人回答说，你这又恶又懒的仆人，你既知道我没有种的地方要收割，没有散的地方要聚敛。
+
+    25:27
+    就当把我的银子放给兑换银钱的人，到我来的时候，可以连本带利收回。
+
+    25:28 夺过他这一千来，给那有一万的。
+
+    25:29 \ **因为凡有的，还要加给他，叫他有余。没有的，连他所有的，也要夺过来。**
+
+    25:30 把这无用的仆人，丢在外面黑暗里。在那里必要哀哭切齿了。
+
+下面是英语原文。
+
+    | 25:14 For it is as when a man, about to take a journey, got his
+    servants together, and gave them his property. 25:15 And to one he
+    gave five talents, to another two, to another one; to everyone as he
+    was able; and he went on his journey. 25:16 Straight away he who had
+    been given the five talents went and did trade with them, and made
+    five more. 25:17 In the same way he who had been given the two got
+    two more. 25:18 But he who was given the one went away and put it in
+    a hole in the earth, and kept his lord’s money in a secret place.
+    25:19 Now after a long time the lord of those servants comes, and
+    makes up his account with them. 25:20 And he who had the five
+    talents came with his other five talents, saying, Lord, you gave
+    into my care five talents: see, I have got five more. 25:21 His lord
+    said to him, Well done, good and true servant: you have been true in
+    a small thing, I will give you control over great things: take your
+    part in the joy of your lord. 25:22 And he who had the two talents
+    came and said, Lord, you gave into my care two talents: see, I have
+    got two more. 25:23 His lord said to him, Well done, good and true
+    servant: you have been true in a small thing, I will give you
+    control over great things: take your part in the joy of your lord.
+    25:24 And he who had had the one talent came and said, Lord, I had
+    knowledge that you are a hard man, getting in grain where you have
+    not put seed, and making profits for which you have done no work:
+    25:25 And I was in fear, and went away, and put your talent in the
+    earth: here is what is yours. 25:26 But his lord in answer said to
+    him, You are a bad and unready servant; if you had knowledge that I
+    get in grain where I did not put seed, and make profits for which I
+    have done no work, 25:27 Why, then, did you not put my money in the
+    bank, and at my coming I would have got back what is mine with
+    interest?
+    |  25:28 Take away, then, his talent and give it to him who has the
+    ten talents.
+    |  25:29 **For to everyone who has will be given, and he will have
+    more: but from him who has not, even what he has will be taken
+    away.**
+    |  25:30 And put out the servant who is of no profit into the outer
+    dark: there will be weeping and cries of sorrow.
+
+请注意我标黑体的第29句。这句话就是”马太效应”这个名词的出处。
+
+马太效应＝富人愈富，穷人愈穷。
+
+我记得好像是一个美国政治家（记者？）说过：”我要做的就是使富人难于更富有，穷人难于更贫穷。”
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2006/03/post_187.html>`__
+
+Evernote
+
+**
+
+Highlight
+
+Remove Highlight
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2006/03/post_187.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

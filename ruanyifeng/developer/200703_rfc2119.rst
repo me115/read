@@ -1,0 +1,55 @@
+.. _200703_rfc2119:
+
+Rfc2119：表示要求的动词
+==========================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2007/03/rfc2119.html>`__
+
+`RFC <http://www.ietf.org/rfc.html>`__\ （Request For
+Comments）指的关于互联网标准的正式文件，它们的内容必须写得非常清楚。
+
+表达的时候，必须严格区分哪些是”建议”（suggestion），哪些是”要求”（requirement）。所以，RFC2119专门对一些词语的涵义做出了规定，定义了五个关键词，表示”要求”的严格程度。
+
+**1. MUST**
+
+表示绝对要求这样做。
+
+REQUIRED或者SHALL，与之同义。
+
+**2. MUST NOT**
+
+表示绝对不要求这样做。
+
+SHALL NOT与之同义。
+
+**3. SHOULD**
+
+表示一般情况下应该这样做，但是在某些特定情况下可以忽视这个要求。
+
+RECOMMENDED与之同义。
+
+**4. SHOULD NOT**
+
+表示一般情况下不应该这样做，但是在某些特定情况下可以忽视这个要求。
+
+NOT RECOMMENDED与之同义。
+
+**5. MAY**
+
+表示这个要求完全是可选的（optional），你可以这样做，也可以不这样做。
+
+OPTIONAL与之同义。
+
+[参考链接]
+
+1. `RFC2119 英文版 <http://rfc.net/rfc2119.html>`__
+
+2. `RFC2119 中文版 <http://oss.org.cn/man/develop/rfc/RFC2119.txt>`__
+
+| （完）
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2007/03/rfc2119.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

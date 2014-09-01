@@ -1,0 +1,26 @@
+.. _200712_50_top_10_lists_of_2007:
+
+2007年的50张”十大”名单
+=========================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2007/12/50_top_10_lists_of_2007.html>`__
+
+12月24日出版的美国《时代》杂志，是2007年的回顾号，一口气列出了\ `50张清单 <http://www.time.com/time/specials/2007/top10/0,30576,1686204,00.html>`__\ 。
+
+其中，有常规的\ `“十大新闻” <http://www.time.com/time/specials/2007/top10/article/0,30583,1686204_1690170_1691130,00.html>`__\ 、\ `“十大照片” <http://www.time.com/time/specials/2007/top10/article/0,30583,1686204_1690170_1692452,00.html>`__\ 、\ `“十大电影” <http://www.time.com/time/specials/2007/top10/article/0,30583,1686204_1686244_1692009,00.html>`__\ 、\ `“十大小说” <http://www.time.com/time/specials/2007/top10/article/0,30583,1686204_1686244_1691840,00.html>`__\ 、\ `“十大网站” <http://www.time.com/time/specials/2007/top10/article/0,30583,1686204_1686305_1691135,00.html>`__\ 等等，也有不那么常规的\ `“十大动物明星” <http://www.time.com/time/specials/2007/top10/article/0,30583,1686204_1686303_1690779,00.html>`__\ 、\ `“十大尴尬事” <http://www.time.com/time/specials/2007/top10/article/0,30583,1686204_1686303_1690779,00.html>`__\ 、\ `“T恤上最常见的10句口号” <http://www.time.com/time/specials/2007/top10/article/0,30583,1686204_1686303_1690284,00.html>`__\ 。
+
+但是很奇怪，《时代》杂志的网站上，其实还有一张”十大”名单，却没有被包括在内。那就是\ `《2007年最奇特的十幢新建筑》 <http://www.time.com/time/magazine/article/0,9171,1694467,00.html>`__\ 。
+
+说起来，这最后一张名单其实与中国的关系最大，因为十大建筑物中有三幢在北京。详细的报道可以看新浪网的\ `翻译 <http://tech.sina.com.cn/d/2007-12-17/10331916937.shtml>`__\ 。
+
+我对这些奇特的建筑物很感兴趣，就写了一个简单的网页，可以抓取flickr.com上的相关照片。其实，这个网页才是我写这篇Blog的真正目的，因为自我感觉我的网页技术又有进步。这个应用完全不占用服务器端资源，所有代码只有5k。
+
+请\ `**点击进入** <http://www.ruanyifeng.com/php/architecture/>`__\ 。
+
+（完）
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2007/12/50_top_10_lists_of_2007.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

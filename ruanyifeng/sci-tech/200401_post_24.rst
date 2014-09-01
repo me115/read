@@ -1,0 +1,32 @@
+.. _200401_post_24:
+
+网络图像的拼贴画
+===================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2004/01/post_24.html>`__
+
+今天发现了一个很有趣的网站。
+
+WebCollage：\ `http://www.jwz.org/webcollage/ <http://www.jwz.org/webcollage/>`__
+
+这个网站随机从网络上抓取图片，不考虑任何主题和相关性，生成一幅拼贴画，每过一分钟就更新一次。然后你可以点击自己感兴趣的图片，进入放置它的原始网页。
+
+这个创意很好玩，但要是问它的意义何在，我想我说不出来。我只知道网络甚至整个世界本来就是以这种方式展现在我们面前的。
+
+如果你想开始一次随意的网络探索，这就是一个很好的起点。
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2004/01/post_24.html>`__
+
+Evernote
+
+**
+
+Highlight
+
+Remove Highlight
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2004/01/post_24.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

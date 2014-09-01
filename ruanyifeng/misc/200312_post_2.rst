@@ -1,0 +1,38 @@
+.. _200312_post_2:
+
+十佳太阳照片
+===============================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2003/12/post_2.html>`__
+
+为了纪念12月2日太阳观测飞船SOHO\*（The Solar and Heliospheric
+Observatory）升空8周年，权威的Space.com网站推出了一项评选最佳太阳照片的活动。
+
+主办者选出SOHO拍下的30张太阳照片放在网上供网民投票，每人可选5张，最终将根据得票多少，选出最受欢迎的10张照片。
+
+现在，\ `结果已经揭晓 <http://story.news.yahoo.com/news?tmpl=story&u=/space/20031125/sc_space/thewinnerstop10sunimagesfromsoho>`__\ ，下图就是名列第一位的照片，共有47.8%的人选择了它。
+
+我翻译的这张照片的说明：
+
+    “虽然总体上太阳的温度都非常高，但是通过观察不同的温度下太阳释放的化学物体，有助于科学家了解太阳内部正在发生的变化。这颗橙色恒星是一个彩色的实验室。本图是SOHO的远紫外线成像望远镜（Extreme
+    ultraviolet Imaging Telescope，EIT)
+    在不同波长下拍摄的太阳图像的合成。它显示了在三种不同的温度状态下（全部超过100万摄氏度）都有离子形态的铁元素存在。”
+
+[注]
+SOHO的含义是”太阳和日光层观测站”，由美国宇航局和欧洲太空总署联合发起。这个旨在探测太阳活动情况的工程曾有过3次几近”夭折”的纪录，大难不死的它迄今为止已提供了许多至关重要的可能会摧毁卫星，破坏高压输电线网的太空气候变化的预报。科学家高度称赞了SOHO，说它的预报避免了经济损失和破坏的发生。
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2003/12/post_2.html>`__
+
+Evernote
+
+**
+
+Highlight
+
+Remove Highlight
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2003/12/post_2.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

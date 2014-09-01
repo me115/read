@@ -1,0 +1,26 @@
+.. _200403_post_47:
+
+程荣的美术作品
+=================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2004/03/post_47.html>`__
+
+下面是程荣的一个Flash动画作品。
+
+他是美国的一个数字艺术家，我很喜欢他的风格，大家看了就知道了。文件比较大，有1.5M，请耐心等待。
+
+上面是一个广告，是程荣为CompUSA公司的数字生活中心做宣传的。
+
+程荣的英文名是Ron Chan，个人网站是
+`http://www.ronchan.com <http://www.ronchan.com>`__
+,这段动画就是从网站上下载的。
+
+我再来转贴几张他的作品吧。
+
+（完）
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2004/03/post_47.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

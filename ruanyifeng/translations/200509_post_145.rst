@@ -1,0 +1,111 @@
+.. _200509_post_145:
+
+燕子，记住他们
+=================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2005/09/post_145.html>`__
+
+五月份的时候，我翻译了1996年诺贝尔文学奖得主波兰女诗人希姆博尔斯卡（Wislawa
+Szymborska）的诗歌\ `《一见钟情》 <http://www.ruanyifeng.com/blog/2005/05/post_122.html>`__\ 。
+
+事实上，我更喜欢她的另一首诗Commemoration，但是因为不理解的地方太多，就没有公开自己的翻译。
+
+今天，我看到了希姆博尔斯卡的诗集中译本《呼唤雪人》（林洪量译，桂林：漓江出版社，2000年1月），其中也有这首诗的翻译。我读后觉得译者根本没有读懂原诗，错误很多。不过，他对一些疑难之处的理解启发了我。于是，我找出了以前的翻译，做了彻底的修改。
+
+下面就是我的翻译，希望大家喜欢这首美丽动人的诗。
+
+
+====================================
+
+**纪念**
+
+作者：[波兰]希姆博尔斯卡
+
+译者：阮一峰
+
+| 他们在榛树丛中做爱 上方的露珠就像一颗颗的太阳，
+|  他们的头发沾上了
+|  森林的碎片。
+
+| 燕子的心啊，
+|  给他们一点怜悯吧。
+
+| 他们跪在湖边， 梳走头发中的泥土和树叶，
+|  鱼群游到水边，
+|  彷佛是微微闪光的星星。
+
+| 燕子的心啊，
+|  给他们一点怜悯吧。
+
+| 树木的倒影 在涟漪中冒烟。
+|  哦，燕子，让这一刻的记忆
+|  被永远铭记吧。
+
+| 哦，燕子，你是云中的荆棘， 你是空气中的锚，
+|  你是改进后的伊卡洛斯【注】，
+|  你是着正装的飞天使者。
+
+| 哦，燕子，你是书法家， 你是永恒的秒针，
+|  你是鸟类中早期的哥特式建筑师，
+|  你是天空中注视的眼睛。
+
+| 哦，燕子，你是尖锐的寂静， 你是充满欢乐的丧服，
+|  你是情人们头上的光晕，
+|  请给他们一点怜悯吧。
+
+| 【注】伊卡洛斯：希腊神话中建筑师和雕刻家代达罗斯Daedalus之子,
+他用蜡和羽毛造成翼翅逃出克里特Crete岛时, 因过分飞近太阳, 蜡翼受热后融化,
+坠海而死, 古代多作为绘画题材。
+|  ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+附：英文原诗
+
+**Commemoration**
+
+| They made love among the hazel shrubs beneath the suns of dew,
+|  entangling in their hair
+|  a leafy residue.
+
+| Heart of the swallow
+|  have mercy on them.
+
+| They knelt down by the lake, combed out the earth and leaves,
+|  and fish swam to the water’s edge
+|  shimmering like stars.
+
+| Heart of the swallow
+|  have mercy on them.
+
+| The reflections of trees were steaming off the rippling waves.
+|  O swallow let this memory
+|  forever be engraved.
+
+| O swallow, thorn of clouds, anchor of the air,
+|  Icarus improved,
+|  Assumption in formal wear,
+
+| O swallow, the calligrapher, timeless second hand,
+|  early ornithogothic,
+|  a crossed eye in the sky,
+
+| O swallow, pointed silence, mourning full of joy,
+|  halo over lovers,
+|  have mercy on them.
+
+（阮一峰，2005年9月4日）
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2005/09/post_145.html>`__
+
+Evernote
+
+**
+
+Highlight
+
+Remove Highlight
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2005/09/post_145.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

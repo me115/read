@@ -1,0 +1,80 @@
+.. _200605_post_226:
+
+英语诗歌的格律
+=================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2006/05/post_226.html>`__
+
+1.
+
+一首诗（a
+poem）往往包含有若干诗节（stanze或strophe），每节又分为若干行（line
+或verse），每个诗行由若干音步（foot）组成，音步则是由一定数目的重读音节（arsis或ictus）和非重读音节（thesis）按照一定规律排列而成。
+
+音步的排列方式构成英诗的格律（meter 或 measure）。
+
+2.
+
+依照每一音步中重读音节（扬）和非重读音节（抑）的排列方式，可以把音步分成不同种类，即格律。
+
+常见的英语诗歌格律有四种。
+
+| a)抑扬格（Iambus; the Iambic
+Foot）：一个音步由一个非重读音节加上一个重读音节构成。
+b)扬抑格（Trochee; the Trochaic
+Foot）：一个音步由一个重读音节加上一个非重读音节构成。
+|  c)扬抑抑格（Dactyl）：一个音步由一个重读音节加上两个非重读音节构成。
+|  d)抑抑扬格（Anapaest; the Anapaestic
+Foot）：一个音步由两个非重读音节加上一个重读音节构成。
+
+不常见的几种格律。
+
+| e)抑扬抑格（Amphibrach; the Amphibrachy
+Foot）：一个音步由三个音节组成，其中第一、三个音节为非重读音节，第二个音节为重读音节。
+|  f)扬扬格（Spondee）：一个音步由两个重读音节构成。
+|  g)抑抑格（Pyrrhic）：一个音步由两个非重读音节构成。
+
+3.
+
+音步也有完整和不完整之分。诗行中每个音步的格律都相同，则为完整音步（actalectic
+foot）；如果诗行最末一个音步缺少一个音节，则为不完整音步（cactalectic）。
+
+4.
+
+诗的各行音步数目不定，诗行按音步数量分为以下几种：
+
+| 一音步（monometer） 二音步（dimeter） 三音步（trimeter）
+四音步（tetrameter） 五音步（pentameter） 六音步（hexameter）
+|  七音步（heptameter）
+|  八音步（octameter）
+
+超过八音步的诗行在英语诗歌中较为少见。
+
+5.
+
+音步的数目与格律结合起来，又可进一步细分为许多小类，如抑扬格一音步（iambic
+monometer），扬抑格一音步（trochaic
+monometer），抑抑扬格三音步（anapaestic
+trimeter），扬抑格四音步（trochaic tetrameter），抑扬格五音步（iambic
+pentameter），扬抑格六音步（trochaic hexameter）等。
+
+从音步数目上看，三音步、四音步和五音步最为常见，尤其是抑扬格五抑，如十四行诗体（sonnet）、英雄双行体（heroic
+couplet）、素体诗或无韵诗（blank verse）等均以抑扬格五音步的诗行写成。
+
+| （摘自罗良功《英诗概论》，武汉大学出版社，2002）
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2006/05/post_226.html>`__
+
+Evernote
+
+**
+
+Highlight
+
+Remove Highlight
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2006/05/post_226.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

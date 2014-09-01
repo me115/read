@@ -1,0 +1,47 @@
+.. _literature:
+
+文学
+====================
+
+.. toctree::
+
+
+	201006_pain_the_poem
+	200911_recollections_of_east_china_normal_university
+	200810_translator_fang_ping_passed_away
+	200805_white_pebble_beach
+	200803_federico_garcia_lorca_poems
+	200802_a_message_by_zhangmi
+	200801_maze_and_an_infinite_book
+	200709_william_shakespeare_quotations
+	200706_the_little_mute_boy_by_federico_garcia_lorca
+	200703_the_saigon_of_marguerite_duras
+	200703_northern_rivers_by_zhang_chengzhi
+	200702_buddha_s_level
+	200702_quotes_from_ranbindranath_tagore
+	200701_guestbook
+	200611_atlas_shrugged_by_ayn_rand
+	200611_ralph_waldo_emersons_transcendentalism_literature
+	200610_miniatures_in_my_name_is_red
+	200609_winesburg_ohio_by_sherwood_anderson
+	200609_midnight_s_children_now_published_on_the_internet
+	200609_brothers_is_tremendous_or_trash
+	200608_the_blue_sky
+	200608_a_flower_a_phone_call_and_a_girl
+	200608_poems_by_a_cockroach
+	200608_i_wanted_as_badly_as_he_wanted_to_fry_himself
+	200608_fictions_is_just_for_the_female
+	200608_tristan_tzara
+	200608_mrs_dalloway
+	200608_un_amour_de_swann
+	200605_when_i_heard_the_learnd_astron
+	200605_doctor_zhivago
+	200604_the_darwin_conspiracy
+	200604_the_women_in_orwells_life_eile
+	200603_post_184
+	200602_post_174
+	200601_post_169
+	200512_del_jameswithout_you
+	200511_post_156
+	200404_post_60
+	200404_post_58

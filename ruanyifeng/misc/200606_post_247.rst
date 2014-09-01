@@ -1,0 +1,26 @@
+.. _200606_post_247:
+
+夸张的解说词
+===============================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2006/06/post_247.html>`__
+
+有一篇解说词，这样介绍南京的雨花石：
+
+“雨花石，不是花，不是雨，是无形的音乐，无声的诗歌，流动的绘画，静止的戏剧，宏观和微观的交响，抽象和具象的对比，短暂与永恒的融合，未来与现实相依，亿万年的沉默，亿万年的孕育，世上有说不清的事，石上有说不清的迷。”
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2006/06/post_247.html>`__
+
+Evernote
+
+**
+
+Highlight
+
+Remove Highlight
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2006/06/post_247.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

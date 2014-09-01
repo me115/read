@@ -1,0 +1,38 @@
+.. _200707_ubuntu:
+
+安装了Ubuntu
+===============================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2007/07/ubuntu.html>`__
+
+昨天晚上，我为自己的台式机安装了\ `Ubuntu <http://www.ubuntu.com/>`__\ 操作系统。
+
+这是我用过的第三个Linux发行版了。三年前，我第一次安装Linux时，用的是\ `Red
+Hat <http://www.redhat.com/>`__
+9.0，一年后又装了一个\ `Fedora <http://fedoraproject.org/>`__ Core
+4。我对它们都不是很满意。
+
+后来，我一心想尝试\ `Debian <http://www.debian.org/>`__\ ，可是校园网不支持Linux上网，只能作罢。再后来，ubuntu的名气越来越大，于是我的选择也就变成了它。
+
+ubuntu
+7.04的安装过程非常傻瓜，一共只有7步，好像除了需要人工填写登录密码以外，其他都可以一路回车。尤其令我惊喜的是，它能自动读取硬盘的windows分区。
+
+安装后，遇到了两个问题：
+
+（1）root帐号无法登录。
+
+（2）无法调用中文输入法。
+
+好在Google一下，很容易就解决了。
+
+今天白天，我都在忙着调试这个新系统，安装了一大堆软件（apache,php,mysql,ssh,ftp…），我由衷地感到apt安装包真是太方便了，比rpm安装包强多了。
+
+如果不出意外，今后一年中，这将是我主要的日常工作平台。我的目标是熟练应用unix平台，希望能够做到。
+
+（完）
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2007/07/ubuntu.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

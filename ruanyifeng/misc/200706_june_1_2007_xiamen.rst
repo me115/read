@@ -1,0 +1,16 @@
+.. _200706_june_1_2007_xiamen:
+
+Xiamen - June 1, 2007
+========================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2007/06/june_1_2007_xiamen.html>`__
+
+背景情况请参见\ `《二起政府行为》 <http://www.ruanyifeng.com/blog/2007/05/how_government_operates_in_china.html>`__\ 。
+
+（完）
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2007/06/june_1_2007_xiamen.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

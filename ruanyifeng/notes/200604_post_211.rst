@@ -1,0 +1,35 @@
+.. _200604_post_211:
+
+老子说：知其雄，守其雌
+=========================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2006/04/post_211.html>`__
+
+老子说：\ **知其雄，守其雌；知其白，守其黑；知其荣，守其辱**\ 。（《道德经》第28章）
+
+这些话早就读过，但是昨天偶然又看到了，就一直想着它，琢磨它的意思，总觉得里面有我现在应该有的态度。
+
+今天晚上，查了几本注书，看看老子的原意是什么。各种说法，莫衷一是。这倒反而让我透彻了，不必在意别人怎么理解，反正我从里面读到了自己想要的东西。
+
+弥尔顿的那首《\ `When I consider how my light is
+spent <http://www.ruanyifeng.com/blog/2006/03/post_197.html>`__\ 》的最后几行，也许可以和它放在一起。
+
+    | thousands at his bidding speed
+    |  And post o’er land and ocean without rest;
+    |  They also serve who only stand and wait.”
+
+既然说到老子，再贴几段。这些话应该经常看一下。
+
+    知人者智，自知者明。胜人者有力，自胜者强。知足者富。强行者有志。
+
+    信言不美。美言不信。善者不辩。辩者不善。知者不博。博者不知。
+
+    抱朴守一。
+
+（完）
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2006/04/post_211.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

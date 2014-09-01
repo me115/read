@@ -1,0 +1,151 @@
+.. _200603_post_197:
+
+弥尔顿的《十四行诗之十九》（续）
+===================================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2006/03/post_197.html>`__
+
+| 前几天，anna在\ `读书公园论坛 <http://forum.bomoo.com/showthread.php?t=1222>`__\ 上贴出了弥尔顿这首诗的详细注解。
+
+我读了以后，觉得很有帮助。现在每一个词我都很有把握的搞懂了。但是，脸上也在发烧，想到我那么冒冒然就敢\ `动笔翻译 <http://www.ruanyifeng.com/blog/2006/03/post_186.html>`__\ ，真是不严谨。
+
+下面就是注释。
+
+    **On His Blindness**
+
+    | When I consider how my light(1)is spent Ere half my days(2) in
+    this dark world and wide(3), And that one talent(4) which is death
+    to hide(5) Lodged(6) with me useless, though my soul more bent(7) To
+    serve therewith my Maker, (8) and present My true account, lest He,
+    returning, chide, “Doth God exact day-labour, light denied?” (9) I
+    fondly ask. (10) But Patience, to prevent That murmur, (11) soon(12)
+    replies, “God doth not need Either man’s work or his own gifts. Who
+    best Bear his mild yoke, they serve him best. (13) His state Is
+    kingly: thousands(14) at his bidding speed
+    |  And post(15) o’er(16) land and ocean without rest;
+    |  They also serve who only stand and wait.” (17)
+
+[注 释] 弥尔顿于1651年左眼失明，1652年因写《为英国人民声辩》(A Defenseof
+the English People)，劳累过度，双目失明。
+
+本诗标题On His Blindness并非原诗所有，而是纽顿(Thomas
+Newton)在1794—1752年间编纂的诗选中加上的，其实并不恰当。弥尔顿在诗中显然避而不用blind或blindness等字眼，因为blindness只有肉体上的含义，而弥尔顿想要表现的乃是肉体和精神方面的双重含义。参见下面注
+(1)。
+
+(1)
+light：主要指”视力”。但light一词是具有肉体和精神上的多重涵义的，在本诗中可以指：(a)视力。参见《力士参孙》第70行，失明的参孙说：”Light
+the prime work of God to me is extinct”(上帝首创的光啊，于我是无份了)。
+(b)照亮内心的神圣真理。参见《失乐园》第3卷第1—55行：”thou Celestial
+Light／Shine
+inward”(神圣的光啊，请你照耀我内心)。对清教徒诗人弥尔顿来说，
+“神圣真理”主要指”上帝的话”，即《圣经》。弥尔顿说他的”光”随视力的丧失而”耗尽”(spent)，意味着他不能再阅读《圣经》，这部圣书对他已经合上。(c)基督徒所传扬的神圣真理。参见《马太福音》
+(5：16)：”Let your light so shine before men that they may see your good
+works and glorify your Father which is in
+heaven”(你们的光，也应当这样照耀人间，好让人看见你们的好行为，就赞扬父神)。弥尔顿确信自己投身于革命，乃是在为上帝的正义事业而奋斗，即传扬神圣的真理，但他由于丧失视力而无法继续接受神圣真理，也就不再能传扬它了。(d)生命。参见《力士参孙》第90—9l行：”Since
+light so necessary to life／And almost life
+itself”(光既是生命不可缺少的，即可以说是生命的本身)；另参见莎士比亚《奥瑟罗》
+(Othello)第5幕第2场第7行，奥瑟罗手持蜡烛扼杀苔丝德蒙娜之前也说：”Put out
+the light，and then the
+light”(让我熄灭这盏灯光，然后熄灭你生命之光)。前一个light指烛光，后一个light指生命。总之，上述各种含义都包含在light一词之中，而且相互之间也具有内在的联系：对弥尔顿来说，由于他丧失了视力，不能继续接受神圣真理，更不能继续传扬神圣真理，其结果便无异于生命的死亡。由此可以体会弥尔顿失明后内心的极度悲痛。
+
+| (2) Ere half my days：before half my
+days，还没到半生。有的批评家指出，据柏拉图所说，人的正常寿命为百年(《理想国》[Republic]，X
+615)，《圣经》中也有百年之说(《新约·以赛亚书》65：20)。
+|  弥尔顿全盲时年44岁，因此”还没到半生”。
+
+(3) dark world and wide：dark and wide
+world，弥尔顿常用形容词十名词+形容词结构。
+
+(4) And that one talent：and(when l consider how)that one
+talent。Talant是古希伯莱人计算银子的单位。根据《新约·马太福音》(25：14—30)的寓言，有一个主人出门远行，走前交给他三个仆人中的一个仆人一个talent，但那个仆人却挖了个洞，把talent藏在里面，未能用之获利，因此受到归来的主人严厉斥责。但弥尔顿先用talent来指自己的light(第l行)，后面又用来指自己的文学才能(literary
+talent)。弥尔顿认为，正如钱财必须加以充分利用，不可像守财奴那样埋在地下，他也必须充分施展才能，否则同样会受到主人(上帝)的严厉斥责。
+
+(5)which is death to hide：正常的语序是to hide which is
+death(埋起talent就无异于死亡)。根据《新约·马太福音》的故事，主人归来时对埋起talent的仆人发怒说：”把这无用的仆人，扔到外面黑暗里去，让他切齿痛哭吧!”“外面黑暗”原文是outer
+darkness，即《失乐园》(第l卷第72行；第3卷第16行)中所说的utter
+darkness，是”地狱”的象征，意味着death。
+
+(6) Lodged：(is)lodged。
+
+(7)though my soul more bent：though my soul (be) more
+bent，虽然我一心想。though后省略了be，并用虚拟语气。bent：eager。
+
+(8) To serve therewith my Maker：用它来为我的造物主服务。therewith：with
+which(指talent)。
+
+| (9) Doth God exact day-labour，light
+denied?：上帝要我做日工，又不给我光?《新约·约翰福音》(9：4)说：”We must
+work the works of him that sent me，while it is day：the night
+cometh，when no man can
+work”(我们必须趁着白日，赶快完成那差我来者的工作，因为时间不多，天一黑，就不能工作了)。light
+denied是独立结构，相当于条件子句，即if light is denied。 (10)I fondly
+ask：fondly相当于foolishly，此句是主语，前面七行均附属于此。第l～8行为一整句，正常的语序是I
+fondly ask，”Doth God exact day-labour，light denied?” when l consider
+(a) how my light is spent ere half my days in this dark and wide world
+and (b)(how) that one talent，to hide which is death，(is)lodged with me
+useless，though
+|  my soul(be)more bent to serve therewith my Maker，and (to) present my
+true account，lest he，returning，(should) chide(me)。
+
+(11)to prevent／That
+murmur：预先阻止那种抱怨。murmur：complaint，抱怨，尤指没有发出声音的抱怨。
+
+(12)soon：quickly。
+
+(13)who best／Bear his mild yoke，they serve him
+best：以who引导的子句作定语，修饰they。此句的正常语序是They who best
+bear his mild yoke serve him best。mild
+yoke：温和的羁轭，指上帝加在人肩上的责任和义务。《新约·马太福音》(11：30)说：”For
+my yoke is easy，and my burden is
+light”(我的轭是宽适的，我的担子是轻省的)。
+
+(14)thousands：thousands(of
+angels)。参见弥尔顿《失乐园》(第4卷，第677～678行)：”millions of
+spiritual creatures walk the earth／Unseen．both when we wake and when
+wesleep”(无论我们是睡还是醒，大地上都活动着看不见的成百万精灵[指天使])。
+
+(15)post：hasten，快速。
+
+(16) o’er：over。
+
+(17)They also serve who only stand and
+wait：以who引导的子句作定语，修饰they；此行的语序也可变为They who only
+stand and wait also
+serve，侍立左右的(天使)也同样为他服务。在第12～14行中，侍立左右的天使(They
+who only stand and wait)与奔驰海陆的天使(speed and post o’er land and
+ocean)仿佛形成对照，但两者并无根本区别，因为”奔驰海陆”的其实也是”侍立左右”的，否则就不能随时听从吩咐(at
+his
+bidding)了。无论是”奔驰海陆”(工作)，还是”侍立左右”(忍耐)，只要忠于信仰，坚韧不拔，都同样是为上帝服务。
+
+| 
+| **哀失明**
+
+| 想到了在这茫茫黑暗的世界里， 还未到半生这两眼就已失明，
+想到了我这个泰伦特，要是埋起来，
+会招致死亡，却放在我手里无用，虽然我一心想用它服务造物主，
+免得报账时，得不到他的宽容； 想到这里，我就愚蠢地自问，
+“神不给我光明，还要我做日工?”但”忍耐”看我在抱怨，立刻止住我：
+“神并不要你工作，或还他礼物。
+谁最能服从他，谁就是忠于职守，他君临万方，只要他一声吩咐，
+|  万千个天使就赶忙在海陆奔驰，
+|  但侍立左右的，也还是为他服务。”
+
+(殷宝书 译)
+
+（出自胡家峦编著的《英国名诗详注》）
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2006/03/post_197.html>`__
+
+Evernote
+
+**
+
+Highlight
+
+Remove Highlight
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2006/03/post_197.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

@@ -1,0 +1,62 @@
+.. _200602_google_4:
+
+工作在Google
+===============================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2006/02/google_4.html>`__
+
+今天，在\ `cathayan的blog <http://blog.cathayan.org/item/1202>`__\ 上得知，《Time》杂志发表了\ `一组Google员工生活的照片 <http://www.time.com/time/photoessays/2006/inside_google/>`__\ 。
+
+我非常喜欢这种自由而美妙的工作环境，就把这些照片都转载过来了。
+
+1.各种办公桌上的小玩意显示出Google自由不羁的企业哲学。
+
+|image0|
+
+2.电脑失灵？Google有现场修理师为你修电脑。
+
+|image1|
+
+3.Google总部的袖珍游泳池旁，有救生员随时准备。
+
+|image2|
+
+4.两位Google雇员正在”创意墙”下喝咖啡，那是一块大帆布，上面随意涂写着各种奇思妙想，比如Google宇宙飞船。
+
+|image3|
+
+5.Google有休息室，可以供大家打台球。
+
+|image4|
+
+6.Google请来发型师为员工提供时尚的发型。
+
+|image5|
+
+7.当下午活动时间来到，Google公司所在的高地就充满了户外活动的欢乐。
+
+|image6|
+
+8.Google很注意美食，员工的一日三餐都是免费的。食堂墙上的艺术作品都出本公司雇员创作的。
+
+|image7|
+
+9.Google公司还有玩具角，既为员工的子女服务，也为那些童心未泯的Google人服务。
+
+|image8|
+
+10.当工作疲倦的时候，有按摩师为你按摩。
+
+|image9|
+
+11.员工可以带狗上班（但是不能带猫）。
+
+|image10|
+
+（完）
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2006/02/google_4.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

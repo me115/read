@@ -1,0 +1,54 @@
+.. _200606_post_248:
+
+一段很不容易的翻译
+=====================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2006/06/post_248.html>`__
+
+今天，我翻译了一道1720年的英国法令，难度真不小。以前，我翻译过的最难的东西，是\ `蒲柏的《艾洛伊斯致亚伯拉德》 <http://www.ruanyifeng.com/blog/2005/08/post_134.html>`__\ （Eloisa
+to Abelard，1713），好多地方都是猜译的。这道法令只比这首诗容易一点。
+
+中文：
+
+    地点，白厅 （Whitehall）枢密室（Council
+    Chamber）；时间，1720年7月12日；出席人员，枢密院全体大法官阁下。
+
+    枢密院大法官阁下讨论了那些以各种目的发行股票的项目给公众带来的诸多困扰，注意到许多国王陛下的臣民已经被引诱在这些项目上投入金钱，而他们所得到的保证是完全虚假的，那些项目并没有得到获准实施的专利权和特许状。为了防止类似的欺诈，大法官阁下当日命令将上述项目的申请书，以及此后得到的来自商会（Board
+    of Trade）、国王陛下的司法大臣（his Majesty’s
+    Attorney）和助理司法大臣（Solicitor
+    General）处的类似报告，一同在他们面前展示。经过反复考虑，并且根据来自国王陛下枢密院的建议，大法官阁下一致同意将上述申请书予以废除，它们的具体名单如下：
+
+英文：
+
+    At the Council Chamber, Whitehall, the 12th day of July, 1720.
+    Present, their Excellencies the Lords Justices in Council.
+
+    “Their Excellencies, the Lords Justices in council, taking into
+    consideration the many inconveniences arising to the public from
+    several projects set on foot for raising of joint stock for various
+    purposes, and that a great many of his Majesty’s subjects have been
+    drawn in to part with their money on pretence of assurances that
+    their petitions for patents and charters, to enable them to carry on
+    the same, would be granted: to prevent such impositions, their
+    Excellencies, this day, ordered the said several petitions, together
+    with such reports from the Board of Trade, and from his Majesty’s
+    Attorney and Solicitor General, as had been obtained thereon, to be
+    laid before them, and after mature consideration thereof, were
+    pleased, by advice of his Majesty’s Privy Council, to order that the
+    said petitions be dismissed, which are as follow :
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2006/06/post_248.html>`__
+
+Evernote
+
+**
+
+Highlight
+
+Remove Highlight
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2006/06/post_248.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

@@ -1,0 +1,53 @@
+.. _200701_quotes_of_confucius:
+
+《论语》摘抄
+===============================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2007/01/quotes_of_confucius.html>`__
+
+从小就读《论语》，但是真正有所领悟，也就是最近这几年。
+
+下面是几句我觉得经常有必要看看的话。都是关于为人处事的。在我看来，它们讲的是做人的正道，值得追随。
+
+1。
+
+**君子惠而不费，劳而不怨，欲而不贪，泰而不骄，威而不猛。（尧曰）**
+
+2。
+
+**仁者不忧，智者不惑，勇者不惧。（宪问）**
+
+3。
+
+**居处恭、执事敬、与人忠。（子路）**
+
+4。
+
+**君子食无求饱，居无求安，敏于事而慎于言。（学而）**
+
+5。
+
+另外，《礼记》中的这句也不错：
+
+**藏焉，修焉，息焉，游焉。**
+
+[参考链接]
+
+\*
+`《老子》摘录 <http://www.ruanyifeng.com/blog/2006/04/post_211.html>`__
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2007/01/quotes_of_confucius.html>`__
+
+Evernote
+
+**
+
+Highlight
+
+Remove Highlight
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2007/01/quotes_of_confucius.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

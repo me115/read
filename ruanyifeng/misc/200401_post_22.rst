@@ -1,0 +1,64 @@
+.. _200401_post_22:
+
+金星表面的照片
+=================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2004/01/post_22.html>`__
+
+最近\ `美国”勇气”号探测器登陆火星 <http://photojournal.jpl.nasa.gov/targetFamily/Mars>`__\ 吸引了无数目光，其实早在30多年前的1970年，前苏联的探测器就曾登陆过金星，并且发回了大量珍贵的照片。
+
+|venus01.jpg|
+
+**金星的概况**\ ，请看\ `这里 <http://earth.fg.tp.edu.tw/learn/solar/venus.htm>`__\ （繁体）。
+
+**金星与火星的对比**
+
+**火星** **金星** **与太阳的平均距离** 2.28亿公里 1.082亿公里
+**直径(km)** 6800 12100 **质量(M/M地球)** 0.53 0.95 **密 度(g/cm3)** 3.9
+5.2 **表面温度(℃)** 22 至-169 450 **公转周期** 686天 226天 **自转周期**
+24小时37分钟 243天
+
+**前苏联金星号探测器**
+
+1961年2月12日，前苏联发射了金星1号探测器，但却在距地球756万公里时通信中断。无法得到探测结果。1967年6月12日发射的金星4号探测器，经过大约三亿五千万公里的飞行，进入金星大气层，成功登陆金星表面。由于金星大气的压力和温度比预想的要高得多，使着陆舱受损，未能发回金星探测结果。1970年12月15日，金星7号在金星实现软着陆，成功传回金星表面温度等数据资料。测得金星表面温度为摄氏447度，气压密度约为地球的100倍。此后，前苏联又相继发射了九个金星号探测器。金星9号和10号在金星表面各拍摄了一张金星全景照片，金星13号和14号拍得四张金星表面彩色照片，金星表面覆盖着褐色的砂土，岩石结构像光滑的层状板块；金星15号和16号通过雷达对金星表面进行了综合考察。
+
+**金星9号传回的照片**\ （1975）
+
+|Venera\_9.jpg|
+
+**金星10号传回的照片**\ （1976）
+
+|Venera\_10.jpg|
+
+**金星13号传回的照片**\ （1982）
+
+|V\_V13bigimage.jpg|
+
+**金星14号传回的照片**\ （1982）
+
+|Venera14Camera2.jpg|
+
+| 
+| **更多内容请访问：\ `苏联的金星探索 <http://www.mentallandscape.com/V_Venus.htm>`__\ （英文）。**
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2004/01/post_22.html>`__
+
+Evernote
+
+**
+
+Highlight
+
+Remove Highlight
+
+.. |venus01.jpg| image:: http://home.bomoo.com/mt-archives/images/venus01.jpg
+.. |Venera\_9.jpg| image:: http://home.bomoo.com/mt-archives/images/Venera_9.jpg
+.. |Venera\_10.jpg| image:: http://home.bomoo.com/mt-archives/images/Venera_10.jpg
+.. |V\_V13bigimage.jpg| image:: http://home.bomoo.com/mt-archives/images/V_V13bigimage.jpg
+.. |Venera14Camera2.jpg| image:: http://home.bomoo.com/mt-archives/images/Venera14Camera2.jpg
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2004/01/post_22.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

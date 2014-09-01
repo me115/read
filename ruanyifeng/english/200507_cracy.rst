@@ -1,0 +1,48 @@
+.. _200507_cracy:
+
+谈谈-cracy
+=============================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2005/07/cracy.html>`__
+
+这两天，我在学习Linux的技术文档。
+
+文档中讲到Linux社区采用的管理方式是meritocracy。我不认识这个词，查了一下字典，意思是”能人统治”。我不由一下子记起来，”民主”这个单词的拼写是democracy，两者都是以-cracy结尾的。
+
+于是，我很好奇，英语中到底有多少以-cracy结尾的单词，它们的意思又分别是什么。
+
+这一看，真是大开眼界。此类单词之多，意思之丰富，真是令人意想不到。
+
+    | 　　androcracy，男性统治。 　　dulocracy，奴隶统治。
+    　　demonocracy，魔鬼统治。 　　ergatocracy，劳工统治。
+    　　ethnocracy，一族统治。 　　expertocracy，专家统治。
+    　　foolocracy，愚人统治。 　　gerontocracy，老人统治。
+    　　gynocracy，女权统治。 　　hagiocracy，圣徒统治。
+    　　hierocracy，僧侣统治。 　　kakistocracy，恶人政治。
+    　　kleptocracy，盗贼统治。 　　millionocracy，财阀统治。
+    　　ochlocracy，暴民统治。 　　pedantocracy，腐儒统治。
+    　　plantocracy，大庄园主统治。 　　pornocracy，淫妇统治。
+    　　psytocracy，精神独裁统治。 　　ptochocracy，穷人统治。
+    　　sciocracy，科学统治。
+    |  　　stratocracy，军阀统治。
+    |  　　theocracy，神权统治。
+
+-cracy是一个后缀，意思是”统治”。它来自希腊语词根
+-kratia，表示能力。所有以-cracy结尾的单词都是与统治这个意思有关的。
+
+先说meritocracy，merit是”优点、长处”的意思，由有优点的人来统治，当然是能人统治啦。
+
+再看democracy，demo-是表示人口的前缀，比如demography就是人口统计学，所以按人口分摊权力的统治就是民主。那么，由一个人或一个集团进行的统治，当然就是独裁monocracy了（mono-是表示”单一”的前缀，比如monopoly，垄断）。
+
+进一步说，mobocracy是”暴民统治”
+（mob，暴徒），technocracy是技术统治，bureaucracy是官僚统治，aristocracy是贵族统治，plutocracy是富豪统治，
+
+这么多的-cracy，从一个侧面反映了西方的政治理论发展到了什么程度。
+
+| （完）
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2005/07/cracy.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

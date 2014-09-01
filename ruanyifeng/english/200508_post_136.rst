@@ -1,0 +1,183 @@
+.. _200508_post_136:
+
+《万物简史》中文版翻译质量低劣
+=================================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2005/08/post_136.html>`__
+
+《万物简史》（A Short History Of Nearly
+Everything）是一本难得的科普佳作。
+
+    “本书2003年5月在美国出版后，连续数十周高居《纽约时报》、《泰晤士报》排行榜最前列，荣登亚马逊网站2003年度十大畅销书之列，在年度科学类图书排行榜中，本书更是勇夺桂冠。2004年初，被美国《科学》杂志评选为2003年度最佳科学著作之一。2004年6月，又一举夺得了由英国皇家学会颁布的世界最著名的科普图书大奖——安万特（Aventis）奖。”（引自中文版的”关于本书”。）
+
+就是这样一本好书，它的中文版（严维明、陈邕译，接力出版社，南宁，2005）的翻译质量却是异常低劣，活生生把这本好书给糟蹋了。
+
+在阅读中文版之前，我其实对它是满怀期待的，准备非常认真地阅读。但是，只读了几页引言，就感到很不顺。尤其是读到下面的句子，更是异常费解。
+
+    “我用过的教科书全都出自那些怀有一种挺有意思的想法的男人（始终都是男人）的笔下，美国的孩子们会喜欢各个章节的结尾都带有问题部分，供他们在自己的时代冥思苦想。”（引言第5页，摘自2005年2月第一版第一次印刷的版本，以下同。）
+
+我怎么都想不明白，什么是美国孩子”他们自己的时代”？于是，不得不去查了一下原版。真是不查不知道，一查吓一跳，译文离原文偏差得何止十万八千里啊。
+
+原文是
+
+    “All mine were written by men (it was always men) who held the
+    interesting notion that everything became clear when expressed as a
+    formula and the amusingly deluded belief that the children of
+    America would appreciate having chapters end with a section of
+    questions they could mull over in their own time.”
+
+正确的译文应该是
+
+    “我用过的所有教科书都是这样一种人（永远都是男人）写的，他们都抱有一种有趣的想法，认为所有东西只有用公式表示出来，才是清晰易懂的。他们还抱有一种令人好笑的自欺欺人的信念，即美国的孩子们都喜欢每一章的结尾部分带有习题，好使他们在闲暇时间琢磨。”
+
+可以看到，译者不仅有错译，还有漏译。
+
+然后，紧接着这一句的下面一句，翻译也有问题。原文是：
+
+    “So I grew up convinced that science was supremely dull, but
+    suspecting that it needn’t be, and not really thinking about it at
+    all if I could help it.”
+
+中文版的翻译是
+
+    “因此，我在成长过程中确信，科学是极其枯燥的，但同时我又认为大可不必如此：科学也可以是非常有趣的，要是我办得到的话。”
+
+后半句的翻译完全是错的，正确的应该是
+
+    “因此，我在成长过程中确信，科学是极其枯燥的，但同时我又怀疑大可不必如此，不过我从来没有真正想过是否我能帮助改变这种状况。”
+
+对照完这一段以后，我就像吞了一只苍蝇一样恶心，原先对中文版的好感和信任全部消失了。但是，还是硬着头皮继续读下去。
+
+谁知越读越恶心，错误层出不穷，甚至还有把”half a million
+years”（正文第3页）译成”1.5万年”这样匪夷所思的低级错误。
+
+当读到下面这一段时，我再也没有办法忍受这个中文版了。
+
+    “要是你把观望宇宙深处比做是在美国纽约帝国大厦的100层上往下看（假设100层代表现在，街面代表大爆炸的时刻），那么在彭齐亚斯和威尔逊发现那个现象的时候，已经有人发现的最远的星系是在大约60层，最远的东西—类星体—是在大约20层。彭齐亚斯和威尔逊的发现，把我们对宇宙可见部分的认识在大厅的地板上推进了约1厘米。”（正文第6页）
+
+请译者告诉我，什么叫”在大厅的地板上推进了约1厘米”？
+
+原文是
+
+    “If you think of peering into the depths of the universe as like
+    looking down from the hundredth floor of the Empire State Building
+    (with the hundredth floor representing now and street level
+    representing the moment of the Big Bang), at the time of Wilson and
+    Penzias’s discovery the most distant galaxies anyone had ever
+    detected were on about the sixtieth floor, and the most distant
+    things—quasars—were on about the twentieth. Penzias and Wilson’s
+    finding pushed our acquaintance with the visible universe to within
+    half an inch of the sidewalk.”
+
+正确的译法应该是
+
+    “把我们对宇宙可见部分的认识推进到离人行道只有半英寸的距离之内了。”
+
+至此，我对中译本彻底失望，放弃对其的阅读。
+
+纵观我已经阅读过的那些部分，充满了错译、漏译，甚至还有窜改原意和自行编造。根据我的不完全统计，单单是引言的第一页和第二页，短短1000多个汉字中，就有9处翻译错误（详见附录）。按照这种比例推算的话，这本450页左右的书中可能会有将近2000处的翻译错误。
+
+为了防止更多的读者，像我一样上当受骗，我在这里郑重提醒，请大家不要购买此书的中文版。
+
+我还想说，根据书中的译者介绍，两位译者都是专业的翻译工作者。而且，此书还有以北大许智宏校长为首的科学顾问，北大哲学系组成的”中译本译文审定专家小组”。在这种情况下，出现如此质量低劣的译文，不仅令人遗憾，而且令人惊讶。
+
+附录：
+
+**《万物简史》中文版引言（第一页和第二页）的9处翻译错误**
+
+[注] 页码和引文根据2005年第一版第一次印刷的版本。
+
+**1. 第一页第4行**
+
+中文版：”复杂而又奇特的方式”。
+
+英文版：”an intricate and intriguingly obliging manner”。
+
+[点评] 正确的译法应该是”一种复杂，又很有意思的乐于助人的方式。”
+
+**2. 第一页第5行**
+
+| 中文版：”我希望”。
+|  英文版：”we hope”。
+|  [点评] 正确的译法应该是”我们希望”。
+
+**3．第一页第7行**
+
+中文版： “让你经历一次极其惬意而又赏心悦目的旅程”。
+
+英文版：”you experience the supremely agreeable but generally
+underappreciated state”。
+
+[点评] “generally
+underappreciated”的意思是”通常没有被充分认识”，而不是”赏心悦目”。
+
+**4．第二页第1行**
+
+中文版：”原子很脆弱”。
+
+英文版：”atoms are fickle”。
+
+[点评] 正确的译文应该是”原子们的心思是变幻无常的”。
+
+**5． 第二页第2行**
+
+中文版：”寿命很长的人也总共只活大约100万个小时”。
+
+英文版：”Even a long human life adds up to only about 650,000 hours”。
+
+[点评] 不知何故，译者擅自把原文的65万改动成了100万。
+
+**6． 第二页第9～10行**
+
+中文版：”不说别的，从化学的角度来说，生命只有这个世界上才有，真是不可思议”。
+
+英文版：”Whatever else it may be, at the level of chemistry life is
+curiously mundane”。
+
+[点评]
+正确的译文应该是”不说别的，从化学元素的角度看，生命真是出奇的普通。”
+
+**7．第二页第17行**
+
+中文版：”使宇宙如此动人、如此具体的任何别的东西。”
+
+英文版：”any of the other things that make the universe so usefully
+material”。
+
+[点评] 正确的译文应该是”使宇宙成为如此有用物质的任何别的东西”。
+
+**8. 第二页第18～19行**
+
+中文版：”我们很容易忽视它们实际存在的必要性”。
+
+英文版：”we easily overlook that they needn’t actually exist at all”。
+
+[点评] 正确的译文应该是”我们很容易忽视它们实际上根本不必存在”。
+
+**9. 第二页第26行**
+
+中文版：”在地球上幸存下来，这是一件非常微妙的事”。
+
+英文版：”Survival on Earth is a surprisingly tricky business”。
+
+[点评] 正确的译文应该是”在地球上幸存下来，困难得让人吃惊”。
+
+（阮一峰，2005-08-12）
+
+注：本文已在”新语丝”上发表（2005年8月12日）。
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2005/08/post_136.html>`__
+
+Evernote
+
+**
+
+Highlight
+
+Remove Highlight
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2005/08/post_136.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

@@ -1,0 +1,378 @@
+.. _200601_j:
+
+《j.阿尔弗瑞德.普鲁弗洛克的情歌》阅读笔记（上）
+==================================================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2006/01/j.html>`__
+
+一
+
+喜欢英语诗歌的朋友，大概都知道T. S. 艾略特（T. S.
+Eliot，1888-1965）这个名字。他是公认的大诗人，诺贝尔文学奖获得者，现代主义诗歌大家。他的《荒原》和《四个四重奏》是20世纪的名篇，影响深远。
+
+很早的时候，大概我还在中学里，就在上海文艺出版社四卷本的《外国现代派作品选》上读过他的诗歌。那时当然是看不懂，因此留下了一个印象，觉得自己不太可能看懂艾略特。有这种思想作祟，以后的很多年里，我都没有再去读他的作品。
+
+前些天，很偶然地，我在一本书上读到对艾略特作品的分析。我意外地发现一点都不难懂，我完全可以看懂他的原诗。惊奇之余，我试着完整地读了一下他的几首长诗，居然从头到尾都啃下来了，并且还有很多心得。
+
+我发现，这种现代派的长诗，真是不能只读翻译，必须去读原作，否则只会越读越糊涂。
+
+就拿《J.阿尔弗瑞德.普鲁弗洛克的情歌》（The Love Song of J. Alfred
+Prufrock）这首诗来说，我在网上找到了两个中译本（全部译本一共可能有五六种吧），一是查良铮译的，另一个是汤永宽译的。虽说都是出自名家，但是两个译本都令人不满意，而且都没有注解。我可以很有把握地说，如果你只通过这两个译本来读这首诗，你是不太可能读懂的。
+
+因为这是一首名诗，现代主义诗歌经典，艾略特的代表作之一，语言优美，富有思想性，所以我决定为这首诗做一个详细的笔记。
+
+笔记采用两个中译本和英文原诗逐行对照的形式，然后我会对两个译本进行比较，并且谈一下我对原诗的理解。
+
+我的目标是，读完这篇笔记以后，理解这首诗歌就不会有任何困难了。
+
+二
+
+在开始详细的笔记前，我先介绍一些基本情况。
+
+《J.阿尔弗瑞德.普鲁弗洛克的情歌》写于1910-1911年间，当时艾略特23岁，刚刚从美国来到欧洲，思想正处在急剧转变的过程中。这首诗标志着他已经完全转向了现代主义诗歌。
+
+艾略特写这首诗的时候，年纪虽然很轻，但是作品本身已经非常成熟了。诗歌中的主人公普鲁弗洛克是一个青年男人，具体的年龄诗中没有透露。诗歌描写他在黄昏的时候，穿过大街，去参加一个宴会。全诗就是他的自述，通篇都是第一人称。
+
+普鲁弗洛克属于当代社会中很常见的一类青年，他们内心敏感，有自己的理想和追求，对日益冷漠的工业化城市感到不满，但是他们没有力量挣脱。在愤怒和痛苦的同时，他们最终只能选择怯懦的忍受现实。
+
+虽然《J.阿尔弗瑞德.普鲁弗洛克的情歌》名为情歌，但实际上是一曲悲歌，是主人公内心挣扎的写照。
+
+| 
+|  三
+
+艾略特的原诗篇首有一段意大利文的引文。
+
+    | S’io credesse che mia risposta fosse A persona che mai tornasse al
+    mondo, Questa fiamma staria senza piu scosse. Ma percioche giammai
+    di questo fondo
+    |  Non torno vivo alcun, s’i’odo il vero,
+    |  Senza tema d’infamia ti rispondo.
+
+这段话出自但丁的《神曲.地狱篇》（第27章，61-66），是一个名叫圭多.蒙泰菲尔特罗的伯爵（Count
+Guido da Montefeltro）对但丁说的一段话，中文大意如下：
+
+    假使我的回话是向着一个可以回到阳间的人，那么我的火光就不再闪烁了；但是，没有一个人可以从这里再走出去（假使我听到的这句话是真的），那么我就是回答了你也不怕什么。（引自《神曲》，王维克译，人民文学出版社，1999）
+
+可以想见，作者通过这段引文在提醒读者：做好思想准备吧，你在下面读到的这首爱情诗可能不会很让人愉快，我要把我真实的内心袒露给你，哪怕它是丑恶的。
+
+四
+
+下面就是诗歌的正文。
+
+引用:
+
+    1 Let us go then, you and I,
+
+    2 When the evening is spread out against the sky
+
+    3 Like a patient etherized upon a table;
+
+    | 那么我们走吧，你我两个人，
+    |  正当朝天空慢慢铺展着黄昏
+    |  好似病人麻醉在手术桌上；（查良铮译，以下简称”查译”）
+
+    | 那么就让咱们去吧，我和你，
+    |  趁黄昏正铺展在天际
+    |  像一个上了麻醉的病人躺在手术台上；（汤永宽译，以下简称”汤译”）
+
+开首第1行是”那么我们走吧，你和我”（Let us go then, you and
+I），标准的爱情诗的开头，但是值得注意的是虽然说是”你和我”，但实际上此时只有普鲁弗洛克一个人在街上走。这句话的意思是，在他想像中，他希望爱人在精神上和自己在一起，希望自己不那么孤独。这个”你”表面上指他的爱人，但本质上是他内心中的一个倾诉对象。
+
+第2行和第3行将黄昏的天空比做一个手术台上被麻醉的病人，这是一个非常有名的比喻，现代主义气息十足，表明在主人公看来，就连天空也已经被毒素扭曲了，一点生气也没有了。
+
+查译将第2行译作”正当朝天空慢慢铺展着黄昏”，虽说完全符合原句，但是汉语表达不符合常规。
+
+引用:
+
+    4 Let us go, through certain half-deserted streets,
+
+    5 The muttering retreats
+
+    6 Of restless nights in one-night cheap hotels
+
+    7 And sawdust restaurants with oyster-shells:
+
+    | 我们走吧，穿过一些半清冷的街， 那儿休憩的场所正人声喋喋；
+    |  有夜夜不宁的下等歇夜旅店
+    |  和满地蚌壳的铺锯末的饭馆；（查译）
+
+    | 让咱们去吧，穿过几条行人稀少的大街小巷， 到那临时过夜的廉价小客店
+    到满地是锯屑和牡蛎壳的饭店
+    |  那夜夜纷扰
+    |  人声嘈杂的去处：（汤译）
+
+第4行虽然说是”我们走吧”（Let us
+go），但依然是主人公一个人在走着。这时他的视线已经从天空转移到了周围。他开始描述身边冷清的街道。
+
+查译将”half-deserted”译成”半清冷”不符合汉语习惯，一半的清冷是怎么样的清冷呢？这里汤译的处理”行人稀少”要更好一些。
+
+第5行到第7行是一句完整的句子，这里查译和汤译都把意思译错了。”retreats”是整句话的谓语动词，作者为了压韵，将其提前了。完整的句子应该是
+The muttering of restless nights in one-night cheap hotels and sawdust
+restaurants with oyster-shells retreats.
+
+正确的译法应该是
+
+    | 在下等旅馆与
+    |  满地锯屑和牡蛎壳的饭店里
+    |  传出的嘈杂夜声正在退却
+
+在那些小餐馆里，地上洒锯末是为了吸收客人漏到地上的啤酒。
+
+整个这一句表明，随着夜色降临，外界纷纷扰扰的嘈杂开始消退了，普鲁弗洛克内心的声音慢慢发出来了。
+
+引用:
+
+    8 Streets that follow like a tedious argument
+
+    9 Of insidious intent
+
+    10 To lead you to an overwhelming question …
+
+    11 Oh, do not ask, “What is it?”
+
+    12 Let us go and make our visit.
+
+    | 街连着街，好象一场讨厌的争议 带着阴险的意图
+    要把你引向一个重大的问题……
+    |  唉，不要问，”那是什么？”
+    |  让我们快点去作客。（查译）
+
+    | 街巷接着街巷像一场用心诡诈冗长乏味的辩论
+    要把你引向一个令人困惑的问题……
+    |  “那是什么？”哦，你别问，
+    |  让咱们去作一次访问。（汤译）
+
+在普鲁弗洛克看来，一条条空荡荡的大街都像是一个个巨大的问号，加剧了他的痛苦。此时，他不得不想到他内心一直有着”an
+overwhelming
+question”。查译为”一个重大的问题”，汤译为”一个令人困惑的问题”，都不算很确切，译成”一个压倒一切的问题”会更好一些。
+
+但是一想到这个问题，普鲁弗洛克的内心就有一个声音跳出来，告诫他别去想这个问题，还是赶路重要，别忘了”我们要去做客”（make
+our visit），这表明他是参加某种活动。
+
+引用:
+
+    13 In the room the women come and go
+
+    14 Talking of Michelangelo.
+
+    | 在客厅里女士们来回地走，
+    |  谈着画家米开朗基罗。（查译）
+
+    | 房间里的女人们来往穿梭
+    |  谈论着米凯朗琪罗。（汤译）
+
+这两句说明普鲁弗洛克所要参加的，正是那种空虚的、附庸风雅的上流社会的聚会。
+
+引用:
+
+    15 The yellow fog that rubs its back upon the window-panes,
+
+    16 The yellow smoke that rubs its muzzle on the window-panes,
+
+    17 Licked its tongue into the corners of the evening,
+
+    18 Lingered upon the pools that stand in drains,
+
+    19 Let fall upon its back the soot that falls from chimneys,
+
+    20 Slipped by the terrace, made a sudden leap,
+
+    21 And seeing that it was a soft October night,
+
+    22 Curled once about the house, and fell asleep.
+
+    | 黄色的雾在窗玻璃上擦着它的背， 黄色的烟在窗玻璃上擦着它的嘴，
+    把它的舌头舐进黄昏的角落， 徘徊在快要干涸的水坑上；
+    让跌下烟囱的烟灰落上它的背， 它溜下台阶，忽地纵身跳跃，
+    |  看到这是一个温柔的十月的夜，
+    |  于是便在房子附近蜷伏起来安睡。（查译）
+
+    | 黄色的雾在窗玻璃上蹭着它的背， 黄色的烟在窗玻璃上擦着鼻子和嘴，
+    把舌头舔进黄昏的各个角落， 在阴沟里的水塘上面流连，
+    让烟囱里飘落的烟炱跌个仰面朝天， 悄悄溜过平台，猛地一跳，
+    |  眼见这是个温柔的十月之夜，
+    |  围着房子绕了一圈便沉入了睡乡。（汤译）
+
+这一段用拟人化的手法，描写了弥漫着夜雾的城市的黄昏，给人一种颓败的感觉。第15行和第16行将雾和烟都形容成黄色的，让人联想到工业化造成的空气污染，而且这种烟雾还是无所不在的（Licked
+its tongue into the corners of the evening）。
+
+第18行中的the pools that stand in
+drains，pool是一滩水的意思，drain是排水沟，查译”快要干涸的水坑”有错。
+
+第19行也是为了压韵，将介词短语提前了，正确的句序应该是Let the soot that
+falls from chimneys fall upon its back
+，汤译这一句为”让烟囱里飘落的烟炱跌个仰面朝天”，译者显然错误的认为its是指代the
+soot。
+
+第20行中的terrace是阳台的意思，查译错译成台阶。
+
+第21行为什么要用seeing，而不象前面一样直接用过去式saw？我猜想可能是音韵方面的考虑，所以加了个And，来保持尾韵（
+Licked / Lingered / Let / Slipped / And / Curled ）。
+
+第22行”围着房子绕了一圈”（Curled once about the
+house），查译在这里显然没理解once的意思，错译成”在房子附近蜷伏起来”。
+
+这一行同时也暗示普鲁弗洛克已经来到了他所要参加晚会的那所房子。
+
+引用:
+
+    23 And indeed there will be time
+
+    24 For the yellow smoke that slides along the street,
+
+    25 Rubbing its back upon the window-panes;
+
+    26 There will be time, there will be time
+
+    27 To prepare a face to meet the faces that you meet;
+
+    28 There will be time to murder and create,
+
+    29 And time for all the works and days of hands
+
+    30 That lift and drop a question on your plate;
+
+    31 Time for you and time for me,
+
+    32 And time yet for a hundred indecisions,
+
+    33 And for a hundred visions and revisions,
+
+    34 Before the taking of a toast and tea.
+
+    | 呵，确实地，总会有时间 看黄色的烟沿着街滑行，
+    在窗玻璃上擦着它的背； 总会有时间，总会有时间
+    装一副面容去会见你去见的脸； 总会有时间去暗杀和创新，
+    总会有时间让举起问题又丢进你盘里的 双手完成劳作与度过时日；
+    有的是时间，无论你，无论我， 还有的是时间犹豫一百遍，
+    |  或看到一百种幻景再完全改过，
+    |  在吃一片烤面包和饮茶以前。（查译）
+
+    | 准会有足够的时间 让黄色的烟雾溜过大街 在窗玻璃上蹭它的背脊；
+    准会有时间，准会有时间 准备好一副面孔去会见你要会见的那些面孔；
+    会有时间去干谋杀和创造， 也会有时间去让那些在你的盘子里
+    拿起或放上一个疑问的庄稼汉干活和过节； 有你的时间，也有我的时间，
+    还有让你犹豫不决一百次的时间，
+    |  一百次想入非非又作出修正的时间，
+    |  在你吃一片烤面包和喝茶之前。（汤译）
+
+这一段反复在重复”还有时间”（there will be time），节奏感很强。
+
+这句话正是普鲁弗洛克在内心不断告诫自己的声音，他对自己说”还有时间呢，放松一点。”但是，在这个声音背后，正反映了他变得越来越紧张。
+
+第24行和第25行，表明他在看着窗外，排遣心中的烦躁。
+
+从27行起，作者开始揭示了普鲁弗洛克内心的矛盾，原来他不喜欢这个晚会，不愿意违心的在人前装出一付面孔，但是他没有办法不这样做，所以他安慰自己：”还有时间准备呢”（To
+prepare a face to meet the faces that you meet）。
+
+第28行，”谋杀”指的是消灭内心的自我，”创造”指的是装出一付假面孔。
+
+第29行中的works and
+days是古希腊诗人赫西奥德（Hesiod）一首表现乡村生活的诗歌的名字。这里可能是指普鲁弗洛克对虚伪的城市生活感到厌倦，更向往乡村生活，然后他看着放点心的盘子，内心的那个问题不断的跳出来（lift
+and drop a question on your
+plate）。这一句是跟第10行中的”一个压倒一切的问题”（an overwhelming
+question）相呼应的。那时普鲁弗洛克劝自己不要多想，赶路重要，而现在他又告诫自己，还有时间，不用这么着急的面对这个问题。
+
+第29行和第30行，查译是”总会有时间让举起问题又丢进你盘里的 /
+双手完成劳作与度过时日”，汤译是”也会有时间去让那些在你的盘子里 /
+拿起或放上一个疑问的庄稼汉干活和过节”，都很费解。
+
+第32行和第33行表明普鲁弗洛克内心激烈的思想活动，他犹豫不决（indecisions），一会想这样，一会又想那样（visions
+and revisions），可以有100次之多。
+
+第34行表明社交时间已经到了，他没有时间犹豫了，必须去和别人交谈了（Before
+the taking of a toast and tea）。
+
+引用:
+
+    35 In the room the women come and go
+
+    36 Talking of Michelangelo.
+
+    | 在客厅里女士们来回地走，
+    |  谈着画家米开朗基罗。（查译）
+
+    | 房间里的女人们来往穿梭
+    |  谈论着米凯朗琪罗（汤译）
+
+第35行和第36行，同第13行和第14行是一样的。但是前一处是虚写，是普鲁弗洛克想像中的情景；而这一处是实写，是真实的场面，一群谈论着米开朗基罗的无聊的夫人们。
+
+引用:
+
+    37 And indeed there will be time
+
+    38 To wonder, “Do I dare?” and, “Do I dare?”
+
+    39 Time to turn back and descend the stair,
+
+    40 With a bald spot in the middle of my hair —
+
+    41 (They will say: ‘How his hair is growing thin!”)
+
+    42 My morning coat, my collar mounting firmly to the chin,
+
+    43 My necktie rich and modest, but asserted by a simple pin —
+
+    44 (They will say: “But how his arms and legs are thin!”)
+
+    45 Do I dare
+
+    46 Disturb the universe?
+
+    47 In a minute there is time
+
+    48 For decisions and revisions which a minute will reverse.
+
+    | 呵，确实地，总还有时间 来疑问，”我可有勇气？”“我可有勇气？”
+    总还有时间来转身走下楼梯， 把一块秃顶暴露给人去注意——
+    （她们会说：”他的头发变得多么稀！”）
+    我的晨礼服，我的硬领在腭下笔挺，
+    我的领带雅致而多彩，用一个简朴的别针固定——
+    （她们会说：”可是他的胳膊腿多么细！”） 我可有勇气 搅乱这个宇宙？
+    |  在一分钟里总还有时间
+    |  决定和变卦，过一分钟再变回头。（查译）
+
+    | 准会有时间 让你怀疑，”我敢吗？”“我敢吗？”
+    会有时间掉转身子走下楼去， 带着我头发中央那块秃斑——
+    （他们准会说：”瞧他的头发变得多稀！”）
+    我的大礼服，我的硬领紧紧地顶着我的下巴，
+    我的领带又贵重又朴素，但只凭一根简朴的别针表明它的存在——
+    （他们准会说：”可是他的胳膊和大腿多细！”） 我敢惊扰 这个世界吗？
+    |  一分钟里有足够的时间
+    |  作出一分钟就会变更的决定和修正。（汤译）
+
+普鲁弗洛克对这种场合深恶痛绝，他问自己有没有勇气同它决裂（To wonder, “Do
+I dare?” and, “Do I dare?”）。他想扭身离开（Time to turn back and
+descend the
+stair），但是他显然又放不下别人的反应，他想到别人会说他头发少，会说他胳膊细。
+
+我们可以看到，在这样内心的重大时刻，他居然还有空想到头发（With a bald
+spot in the middle of my hair），想到他的外衣样子可能不太好（My morning
+coat, my collar mounting firmly to the
+chin），想到领结虽然本身还不错，但是用了大头针，不太合适（My necktie
+rich and modest, but asserted by a simple pin
+）。从这些细节上，我们就可以知道普鲁弗洛克不是一个很纯粹和坚定的人，他在内心对这种社交场合还是看重的。
+
+第45行和第46行，作者终于提出了那个一直困扰普鲁弗洛克的重大问题，”我敢搅乱这个宇宙”吗？我不喜欢它，但我有勇气对它说不吗？第38行的”我敢吗？”（”Do
+I dare?” and, “Do I dare?”），是对这一句的一个补充。
+
+第47行和第48行表明普鲁弗洛克有多么不坚决。在这个一分钟里，他做出的决定，在下一个一分钟里就可以推翻它。他的软弱和优柔寡断开始表现出来了。
+
+| （未完待续）
+|  阮一峰，2006年1月12日
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2006/01/j.html>`__
+
+Evernote
+
+**
+
+Highlight
+
+Remove Highlight
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2006/01/j.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

@@ -1,0 +1,119 @@
+.. _200312_post_1:
+
+马克.吐温的青蛙
+==================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2003/12/post_1.html>`__
+
+1865年，马克.吐温30岁。
+
+据说他在那一年，受到一只青蛙的启发，写出了著名的幽默小说《卡拉韦拉斯县驰名的跳蛙》，从此一举成名，开始了大作家生涯。
+
+|frog2.jpg|
+
+据有关说法，这只启发马克.吐温灵感的青蛙不是普通的青蛙，而是一种濒临灭绝的珍稀蛙类，上一次有人报告看到这种蛙类是在1969年。34年以后，这种青蛙终于又出现了。
+
+下面先看看马克.吐温是如何描写这种青蛙的。
+
+    “有一天，他逮着一只跳蛙带回家去，说是要好好训一训；足足有三个月，他什么事都不干，光呆在后院里头教那只跳蛙蹦高。
+
+    果不其然，他把跳蛙训出来了。只要他从后头点跳蛙一下，你就看吧，那跳蛙像翻煎饼一样在空中打个转——兴许翻一个筋斗，要是起得好，也许能翻两个，然后稳稳当当地爪朝下落地，就像一只猎。
+
+    他还训那跳蛙逮苍蝇，勤学苦练，练得那跳蛙不论苍蝇飞出去多远，只要瞧得见，回回都能逮得着。
+
+    嘿，我就瞧见过他把丹尼尔·韦伯斯特放在这儿的地板上——那跳蛙叫丹尼尔·韦伯斯特——大喊一声：”苍蝇，丹尼尔，苍蝇！”快得让你来不及眨眼，跳蛙就噌曾地照直跳起来，把那边柜台上的一只苍蝇吞下去了，然后像一摊泥”扑嗒”落在地上，拿后腿抓耳挠腮，没事人似的，好像觉得自个儿比别的跳蛙也强不到哪儿去。别看它有能耐，你还真找不着比它更朴实，更爽快的跳蛙了。
+
+    只要是从平地上规规矩矩地往上跳，它比你见过的所有跳蛙都跳得高一个身子。从平地往上跳是它的拿手好戏，你明白吗？只要比这一项，斯迈雷就一路把注押上去。斯迈雷把他的跳蛙看成宝贝；要说也是，那些见多识广的老江湖都说，从来也没见过这么棒的跳蛙。”
+
+下面是美联社的报道。
+
+|frog1.jpg|
+
+| **Mark Twain’s Frog Makes Rare Appearance**
+|  By DON THOMPSON, Associated Press Writer
+
+SACRAMENTO, Calif. - A threatened species of frog thought to have
+inspired Mark Twain’s tale of “The Celebrated Jumping Frog of Calaveras
+County” has been rediscovered in the county, 34 years after the frogs
+were last seen in the area.
+
+The children of a cattle rancher found the California red-legged frogs
+while playing around watering holes on their property, wildlife
+officials said Tuesday. They asked that the location not be disclosed as
+researchers work to protect the frogs and their habitat.
+
+| 
+|  A Fish and Wildlife Service biologist verified the discovery,
+locating one male and two female frogs in October. The last such
+sighting in Calaveras County was in 1969.
+
+| 
+|  Robert Stack of the Jumping Frog Research Institute in Angels Camp,
+about 60 miles southeast of Sacramento, joked that the frogs are direct
+descendants of “Dan’l Webster” — Twain’s fictional frog.
+
+| 
+|  The wildlife service is offering to work with nearby property owners
+to see if the frogs survive there as well. Stack is seeking grants to
+develop a captive-breeding program to protect a population he estimates
+at 10-20 frogs, by nurturing some of the eggs next year. He hopes to use
+the remnant frogs to one day repopulate the county.
+
+| 
+|  As a threatened species, the frog enjoys protections that have caused
+some trepidation for property owners and developers who fear intrusive
+government oversight or a drop in land values. The wildlife service
+removed Calaveras County from its protection plan for the species after
+local officials objected.
+
+| 
+|  Warren “Buck” King, the unofficial “Frogtown mayor” who managed the
+Calaveras County Fair and Frog Jumping Jubilee until he retired this
+year, led local opposition to Stack’s reintroduction plans. He feared it
+would force landowners to kill off the competing bullfrog, brought in
+from east of the Rockies more than a century ago after San Franciscans
+devoured much of the state’s red-legged frog population.
+
+| 
+|  The bullfrogs since have taken over much of the red-legged frog’s
+habitat, and are the preferred frog used at the annual jumping contest
+named after Twain’s fictional 1865 challenge in the Angels Camp Hotel
+bar. Twain frequented the bar while he lived in nearby Jackass Hill.
+
+| 
+|  Most remaining red-legged frogs are along California’s north-central
+coast.
+
+| 
+|  \_\_\_
+
+| 
+|  On the Net:
+
+| 
+| `www.jumpingfrog.org <http://www.jumpingfrog.org>`__
+
+| 
+| `www.frogtown.org <http://www.frogtown.org>`__
+
+| 
+| `www.r1.fws.gov/news <http://www.r1.fws.gov/news>`__
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2003/12/post_1.html>`__
+
+Evernote
+
+**
+
+Highlight
+
+Remove Highlight
+
+.. |frog2.jpg| image:: http://home.bomoo.com/mt-archives/images/frog2.jpg
+.. |frog1.jpg| image:: http://home.bomoo.com/mt-archives/images/frog1.jpg
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2003/12/post_1.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

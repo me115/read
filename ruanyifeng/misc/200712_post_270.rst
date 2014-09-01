@@ -1,0 +1,29 @@
+.. _200712_post_270:
+
+图书馆的墙
+=============================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2007/12/post_270.html>`__
+
+在英国的卡迪夫市（cardiff）和美国的堪萨斯城（kansas
+city），有一些巨大的”书”。
+
+请看照片。
+
+**卡迪夫公共图书馆（cardiff public library）**
+
+照片背景中的大楼，是卡迪夫市的新图书馆。很显然，”书墙”只是暂时性的工地围墙。其实照我说，这面墙可以永久保存。
+
+**堪萨斯城图书馆（kansas city library）**
+
+当地正在评选与这个城市有关的最著名的书，所有获得提名的书都被画上了图书馆停车场的外墙。
+
+原文网址：\ `deputydog.com <http://deputy-dog.com/2007/11/30/can-you-spot-the-library/>`__\ （中国大陆用户需使用代理）
+
+（完）
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2007/12/post_270.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

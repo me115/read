@@ -1,0 +1,59 @@
+.. _200506_2600:
+
+古希腊女诗人萨福2600年前佚诗被发现
+=====================================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2005/06/2600.html>`__
+
+两千多年来，萨福一直被认为是古希腊最伟大的诗人之一。
+
+上周，她的一首失传的诗歌被重新发现，并且首次公开发表。这首诗写于2600多年前，共计101个单词，内容是关于一个老年人追忆过往的青春和爱情时的复杂心情。
+
+|RobiMSapph1M.jpg|
+
+柏拉图曾赞美萨福不仅是伟大的诗人，而且简直还是一个艺术女神。但是，她的作品传世的非常少，我们现在所知的完整诗歌只有3首，再加上63行单句和264个残句。这首佚诗将成为她存世的第四首完整作品，它的发现经过非常曲折和不寻常。
+
+这首诗是在一具古埃及木乃伊的包裹布上发现的。包裹布中含有植物纤维，可以在上面书写和绘画。去年两位学者宣布，他们发现这块包裹布是一卷诗集的一部分，里面含有萨福的作品。抄写时间大约为公元前3世纪，比萨福的写作时间晚了将近300年左右。进一步的研究显示，这首诗歌与1922年发现的萨福诗歌的片断相吻合，这增加了这首诗歌的可信度。
+
+牛津大学的著名希腊文学教授马丁·韦斯特（Martin
+West），将这首诗译成了英语，发表在了2005年6月21日的《泰晤士报》文学副刊上。
+
+韦斯特教授写道，虽然萨福一贯被认为是个同性恋者，她的大多数作品都是描写两个女人之间的爱恋。但是，这首佚诗至少在表面上是有关一个女子对青年男子的爱情的。
+
+提托诺斯是个长相俊美的男青年，黎明女神选他作为自己的丈夫。她恳求宙斯赐予他永生，但是她却忘记请求使他同时也永葆青春。随着岁月流逝，提托诺斯变得衰老和虚弱，他无力走出自己的房间，只好在那里无尽的喃喃自语追忆逝去的青春。
+
+（阮一峰，2005-6-27）
+
+注：本文将发表在本周的《文汇读书周报》上。
+
+
+=============================================
+
+部分英语资源：
+
+萨福的详细介绍（维基百科）：\ `http://en.wikipedia.org/wiki/Sappho <http://en.wikipedia.org/wiki/Sappho>`__
+
+英国《卫报》关于此事的报道：\ `http://books.guardian.co.uk/news/articles/0,6109,1513491,00.html <http://books.guardian.co.uk/news/articles/0,6109,1513491,00.html>`__
+
+《泰晤士报》文学附刊上马丁·韦斯特教授的原文：\ `http://www.the-tls.co.uk/this\_week/story.aspx?story\_id=2111206 <http://www.the-tls.co.uk/this_week/story.aspx?story_id=2111206>`__
+
+|25679630IFIZNWSoYu\_ph.jpg|
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2005/06/2600.html>`__
+
+Evernote
+
+**
+
+Highlight
+
+Remove Highlight
+
+.. |RobiMSapph1M.jpg| image:: http://www.ruanyifeng.com/mt-archives/images/RobiMSapph1M.jpg
+.. |25679630IFIZNWSoYu\_ph.jpg| image:: http://www.ruanyifeng.com/mt-archives/images/25679630IFIZNWSoYu_ph.jpg
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2005/06/2600.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

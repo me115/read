@@ -1,0 +1,173 @@
+.. _200607_hamlet_2:
+
+《哈姆莱特》（Hamlet）：摘录（第三部分）
+===========================================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2006/07/hamlet_2.html>`__
+
+99.
+
+**你应该接受你自己的常识的指导.**
+
+[原文] let your own discretion be your tutor.(III.2)
+
+100.
+
+**要是表演得过分了或者太懈怠了，虽然可以博外行的观众一笑，明眼之士却要因此而皱眉；你必须看重这样一个卓识者的批评甚于满场观众盲目的毁誉。**
+
+| [原文] this overdone,or come tardy off, though it make the unskilful
+laugh, cannot but make the judicious grieve; the
+|  censure of the which one must in your allowance
+|  o’erweigh a whole theatre of others. (III.2)
+
+101.
+
+**给我一个不为感情所奴役的人，我愿意把他珍藏在我的心坎.**
+
+[原文] Give me that man That is not passion’s slave, and I will wear him
+In my heart’s core.(III.2)
+
+102.
+
+**愿日月继续他们的周游，让我们再厮守三十春秋！**
+
+| [原文] So many journeys may the sun and moon
+|  Make us again count o’er ere love be done!(III.2)
+
+103.
+
+**国王的一声叹息，总是随着全国的呻吟。**
+
+[原文] Never alone Did the king sigh, but with a general groan.(III.3)
+
+104.
+
+**我要把一面镜子放在你的面前，让你看一看你自己的灵魂。**
+
+| [原文] You go not till I set you up a glass
+|  Where you may see the inmost part of you.(III.4)
+
+105.
+
+**最柔弱的人最容易受幻想的激动。**
+
+[原文] Conceit in weakest bodies strongest works.(III.4)
+
+106.
+
+**不幸已经开始，更大的灾祸还在接踵而至。**
+
+[原文] bad begins and worse remains behind.(III.4)
+
+107.
+
+**一个人要是把生活的幸福和目的，只看作吃吃睡睡，他还算是个什么东西？简直不过是一头畜生！**
+
+| [原文] What is a man,If his chief good and market of his time
+|  Be but to sleep and feed? a beast, no more.(IV.4)
+
+108.
+
+**不幸的事情总是接踵而来。**
+
+[原文] When sorrows come, they come not single spies But in battalions.
+(IV.5)
+
+109.
+
+**什么良心，什么礼貌，都给我滚下无底的深渊里去！**
+
+[原文] Conscience and grace, to the profoundest pit!(IV.5)
+
+110.
+
+**我的立场已经坚决：今生怎样，来生怎样，我一概不顾。**
+
+[原文] To this point I stand,That both the worlds I give to
+negligence,Let come what comes.(IV.5)
+
+111.
+
+**不管这是我的好处或是我的致命的弱点，我的生命和灵魂是这样跟她连结在一起。**
+
+| [原文] My virtue or my plague, be it either which—
+|  She’s so conjunctive to my life and soul.（IV.6）
+
+112.
+
+**我们所要做的事，应该一想到就做；因为人的想法是会变化的，有多少舌头、多少手、多少意外，就会有多少犹豫、多少迟延。**
+
+| [原文] we would do We should do when we would; for this ‘would’
+changes
+|  And hath abatements and delays as many
+|  As there are tongues, are hands, are accidents;（IV.6）
+
+113.
+
+**要是我们用想像推测下去，谁知道亚历山大的高贵的尸体，不就是塞在酒桶口上的泥土？**
+
+| [原文] Why may not imagination trace the noble dust of Alexander,
+|  till he find it stopping a bung-hole?（V.1）
+
+114.
+
+**平静的时间不久就会到来；现在我们必须耐着心把一切安排。**
+
+| [原文] An hour of quiet shortly shall we see;
+|  Till then, in patience our proceeding be.（V.1）
+
+115.
+
+**在我的心里有一种战争，使我不能睡眠。**
+
+| [原文] in my heart there was a kind of fighting,
+|  That would not let me sleep.(V.2)
+
+116.
+
+**有时候一时孟浪，往往反而可以做出一些为我们的深谋密虑所做不成功的事。**
+
+| [原文] Our indiscretion sometimes serves us well,
+|  When our deep plots do pall.(V.2)
+
+117.
+
+**我们的结果早已有一种冥冥中的力量把它布置好了。**
+
+[原文] There’s a divinity that shapes our ends.(V.2)
+
+118.
+
+**两个强敌猛烈争斗的时候，不自量力的微弱之辈，却去插身在他们的刀剑中间，这样的事情是最危险不过的。**
+
+| [原文] ‘Tis dangerous when the baser nature comes Between the pass and
+fell incensed points
+|  Of mighty opposites.(V.2)
+
+119.
+
+**注定在今天，就不会是明天，不是明天，就是今天；逃过了今天，明天还是逃不了，随时准备着就是了。**
+
+| [原文] If it be now, ‘tis not to come; if it be not to come, it will
+be
+|  now; if it be not now, yet it will come: the readiness is all.(V.2)
+
+120.
+
+**一颗高贵的心现在碎裂了！**
+
+[原文] Now cracks a noble heart. (V.2)
+
+121.
+
+**我虽然准备接受我的幸运，我的心里却充满了悲哀。**
+
+[原文] with sorrow I embrace my fortune.(V.2)
+
+（完）
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2006/07/hamlet_2.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

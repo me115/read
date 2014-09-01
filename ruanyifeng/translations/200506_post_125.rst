@@ -1,0 +1,120 @@
+.. _200506_post_125:
+
+索尔仁尼琴在哈佛大学的演讲
+=============================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2005/06/post_125.html>`__
+
+前不久，有朋友在”读书公园”\ `论坛 <http://forum.bomoo.com>`__\ 上，贴出了诺贝尔文学奖得主索尔仁尼琴1978年在哈佛大学毕业典礼上的\ `演讲 <http://forum.bomoo.net/showthread.php?t=681>`__\ 。
+
+索尔仁尼琴在演讲中批评了西方社会的弊端。这其实很不容易，因为他那时是流亡者，全靠西方的支持生活。人家想听他说苏联的专制，但是他偏偏讲西方的阴暗面，所以当时很多人不高兴，主流媒体都对他的这篇演讲给出负面评论。但是索尔仁尼琴不管，他照讲不误，这才是真正的知识分子，才能在秘密警察和铁窗生活的压力下坚贞不屈。
+
+我翻译了部分片断，英语全文请看\ `这里 <http://www.columbia.edu/cu/augustine/arch/solzhenitsyn/harvard1978.html>`__\ 。
+
+
+===========================================
+
+索尔仁尼琴先讲了，西方文明的强势地位。
+
+    How short a time ago, relatively, the small new European world was
+    easily seizing colonies everywhere, not only without anticipating
+    any real resistance, but also usually despising any possible values
+    in the conquered peoples’ approach to life. On the face of it, it
+    was an overwhelming success, there were no geographic frontiers to
+    it.
+
+    与其他文明相比，欧洲文明的历史较短，面积也较小。但是，工业革命后新崛起的欧洲国家，轻易地就在全球建立了很多殖民地。这并不是很久远的事。它们不仅没有遇到真正的抵抗，而且鄙视被征服人们的价值观。它们横扫一切，获得巨大成功，任何地理疆界都无法阻碍。
+
+    And all of a sudden in the twentieth century came the discovery of
+    its fragility and friability. We now see that the conquests proved
+    to be short lived and precarious, and this in turn points to defects
+    in the Western view of the world which led to these conquests.
+
+    进入二十世纪，突然之间，西方文明发现了自己的脆弱。我们现在看到了，那些征服被证明是短命和摇摇欲坠的，这反过来表明西方世界作为征服者是有弱点的。
+
+    But the blindness of superiority continues in spite of all and
+    upholds the belief that vast regions everywhere on our planet should
+    develop and mature to the level of present day Western systems which
+    in theory are the best and in practice the most attractive.
+    …Countries are judged on the merit of their progress in this
+    direction.
+
+    但是尽管如此，盲目的优越感仍然存在，仍然有人相信，我们这颗星球广饶地域的每个角落，都应该发展和培育整个当今西方世界的那套系统，因为那是理论和实践上最有吸引力的系统。……人们判断一个国家是否进步，就看它类似西方国家的程度。
+
+    However, it is a conception which developed out of Western
+    incomprehension of the essence of other worlds, out of the mistake
+    of measuring them all with a Western yardstick. The real picture of
+    our planet’s development is quite different.
+
+    这种看法的源头，是西方世界对于其他文明了解不够，以及错误地采用西方的标准衡量一切。
+
+然后，他讲了物质主义主导了西方社会。
+
+    Every citizen has been granted the desired freedom and material
+    goods in such quantity and of such quality as to guarantee in theory
+    the achievement of happiness… however… the constant desire to have
+    still more things and a still better life and the struggle to obtain
+    them imprints many Western faces with worry and even depression…”
+
+    每个公民都得到了所要的自由和物质，理论上足以保证能够获得幸福。……但是，.追求更多物质、更好生活的欲望和斗争，在许多西方人脸上都打下了焦虑、甚至消沉的烙印。
+
+    Everything beyond physical well-being and accumulation of material
+    goods, all other human requirements and characteristics of a subtler
+    and higher nature, were left outside the area of attention of state
+    and social systems, as if human life did not have any superior
+    sense.
+
+    除了物质以外的其他东西，包括人类那些微妙和高尚的天性，都被排斥在政治和社会系统以外，就好像人类生活中从来不存在这些非物质的东西一样。
+
+消费至上的观念导致信息泛滥。
+
+    [in addition to the right to know] people also have the right not to
+    know, and it is a much more valuable one. The right not to have
+    their divine souls stuffed with gossip, nonsense, vain talk. A
+    person who works and leads a meaningful life does not need this
+    excessive burdening flow of information.
+
+    除了知情权以外，人也应该拥有不知情权，后者的价值要大得多。它意味着我们高尚的灵魂不必被那些废话和空谈充斥。过度的信息对于一个过着充实生活的人来说，是一种不必要的负担。
+
+在法律规范之外，缺乏道德规范。
+
+    I have spent all my life under a communist regime and I will tell
+    you that a society without any objective legal scale is a terrible
+    one indeed. But a society with no other scale but the legal one is
+    not quite worthy of man either.
+
+    我在共产主义社会中度过了一生，我可以告诉你们，没有任何客观公正的法律规范的社会是一个十分可怕的社会。但是，一个只有法律规范的社会对人类来说，也同样可怕。
+
+    (in a legalistic society) If one is right from a legal point of
+    view, nothing more is required, nobody may mention that one could
+    still not be entirely right, and urge self-restraint, a willingness
+    to renounce such legal rights, sacrifice and selfless risk: it would
+    sound simply absurd. One almost never sees voluntary self-restraint.
+
+    在一个法权社会中，如果一个人是合法的，那么其他人对他就不能有更多的要求了，谈论他是否全部合理就没有意义了。在法权之外的自我控制和自我牺牲就变得很荒唐了。我们可能永远都看不到这种人的出现。
+
+追求更高度的精神生活，才是生命的意义。
+
+    If humanism were right in declaring that man is born to be happy, he
+    would not be born to die. Since his body is doomed to die, his task
+    on earth evidently must be of a more spiritual nature. It cannot
+    [be] unrestrained enjoyment of everyday life. It cannot be the
+    search for the best ways to obtain material goods and then
+    cheerfully get the most out of them. It has to be the fulfillment of
+    a permanent, earnest duty so that one’s life journey may become an
+    experience of moral growth, so that one may leave life a better
+    human being than one started it.”“…we shall have to rise to a new
+    height of vision, to a new level of life where our physical nature
+    will not be cursed as in the Middle Ages, but, even more
+    importantly, our spiritual being will not be trampled upon as in the
+    Modern era.
+
+    人道主义观点认为人应该生而快乐，如果这是正确的，那么人就不是为了死亡而出生的。因为我们注定要死，所以我们活在地球上的任务就一定是去寻找更多的精神追求。这种追求不可能是日常生活中无节制的享乐，也不可能是去设法追求物质财富并愉快的享受它们。它一定表现为完成某种永久和重要的使命，只有这样，一个人的生命才能变成某种精神成长的经历，才能在死去时成为一个比出生时更好的人类……我们一定要有一种更宽广的眼界，追求一种生命的新高度，在那里我们的物质生活不会像中世纪那样贫乏，但是更重要的是，在那里我们的精神生活不会像现代社会中那样受践踏。
+
+（完）
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2005/06/post_125.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

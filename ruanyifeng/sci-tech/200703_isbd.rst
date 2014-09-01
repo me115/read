@@ -1,0 +1,68 @@
+.. _200703_isbd:
+
+国际标准书目著录（isbd）
+===========================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2007/03/isbd.html>`__
+
+我最近想找一套可以描述书籍的\ `元数据 <http://www.ruanyifeng.com/blog/2007/03/metadata.html>`__\ 。这个其实是不难的，只要参考现成资料就可以了，因为每个图书馆都必然有一套登记书目的标准。
+
+现在世界上通行的文献著录标准主要有两种，一种是《国际标准书目著录》（International
+Standard Bibliographic
+Description，简称ISBD），另一种是《英美编目条例第二版》（Anglo-American
+Cataloging Rules:
+2，简称AACR2）。前者是国际图书馆联合会（IFLA）搞的，后者在北美和英国通行。
+
+ISBD的著录规则简单来说是这样的，每种资料的描述大致可以分为8个部分：
+
+\* Area 1（题目和责任者）: title and statement of responsibility (for
+example: author, editor, artist).
+
+\* Area 2（版本）: edition.
+
+\* Area 3（内容的范围）: material- (or type of resource-) specific
+information (for example, the scale of a map or the numbering of a
+periodical).
+
+\* Area 4（出版和发行）: publication and distribution.
+
+\* Area 5（物理形态）: physical description (for example: number of
+pages in a book or number of CDs in the same jewel case).
+
+\* Area 6（丛书信息）: series.
+
+\* Area 7（附注）: notes.
+
+\* Area 8（标准编号）: standard number (ISBN, ISSN).
+
+请看下面这个例子，这是图书馆中的一张目录卡：
+
+    Comics & sequential art / by Will Eisner. — [Expanded edition]. —
+    Tamarac, Florida : Poorhouse Press : North Light Books
+    [distributor], 1990. — 164 p. : ill. ; 29 cm. — Includes index. —
+    ISBN 0-9614728-1-2 (paperback) ; ISBN 0-9614728-0-4 (hardcover)
+
+其中，”Comics & sequential art / by Will Eisner.”是第一区，”[Expanded
+edition]”是第二区，”Tamarac, Florida : Poorhouse Press : North Light
+Books [distributor], 1990.”是第四区，”164 p. : ill. ;
+29 cm.”是第五区，”Includes index.”是第七区，”ISBN 0-9614728-1-2
+(paperback) ; ISBN 0-9614728-0-4 (hardcover)”是第八区。
+
+再看一个简化的例子：
+
+    Comics & sequential art / by Will Eisner. — 2nd ed. — Tamarac,
+    Florida : Poorhouse Press, 1990.
+
+在这个书目信息中，只包含第一区、第二区和第四区。
+
+[参考链接]
+
+\* `ISBD 官方主页 <http://www.ifla.org/VI/3/nd1/isbdlist.htm>`__
+
+（完）
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2007/03/isbd.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com

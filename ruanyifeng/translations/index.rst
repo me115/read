@@ -1,0 +1,48 @@
+.. _translations:
+
+译文集
+========
+
+.. toctree::
+
+
+	201106_sirleaf_s_speech_in_harvard_commencement_2011
+	201007_how_to_live_in_an_absurd_world
+	201006_remarks_of_david_souter_in_harvard_commencement_2010
+	200907_live_not_by_lies
+	200906_errata_of_steven_chus_harvard_commencement_speech
+	200906_remarks_of_stenven_chu_in_harvard_commencement_2009
+	200811_john_mccains_concession_speech
+	200806_remarks_of_jk_rowling_in_harvard_commencement_2008
+	200806_hillary_suspending_campaign_speech
+	200805_life_before_death_part_ii
+	200802_shelley_powers_talks_of_2008_election
+	200802_memorandum_of_conversation_between_mao_and_ford_in_1975_part_iii
+	200802_memorandum_of_conversation_between_mao_and_ford_in_1975_part_ii
+	200802_memorandum_of_conversation_between_mao_and_ford_in_1975
+	200712_farewell_letter_of_book_people_mailing_list
+	200711_international_military_tribunal_for_the_far_east_judgment
+	200710_answerscom_creative_writing_challenge
+	200708_richard_nixons_farewell_speech_to_white_house_staff
+	200708_ocean_deep
+	200708_remarks_of_bill_gates_in_harvard_commencement_2007
+	200706_my_life_closed_twice_before_its_close_by_emily_dickinson
+	200705_cruel_season_to_come
+	200702_before_sunset
+	200608_go_and_catch_a_falling_star
+	200606_post_248
+	200604_tiny_dancer
+	200603_post_197
+	200603_post_186
+	200601_its_a_wonderful_life
+	200601_j
+	200510_before_sunrise
+	200509_post_145
+	200507_post_129
+	200507_beatleshey_jude
+	200506_stingevery_breath_you_take
+	200506_post_125
+	200506_cranberries_dreams
+	200505_post_122
+	200503_post_106
+	200406_post_77

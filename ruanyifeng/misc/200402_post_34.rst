@@ -1,0 +1,83 @@
+.. _200402_post_34:
+
+一次移植八个器官
+===================================
+
+`ruanyifeng.com <http://www.ruanyifeng.com/blog/2004/02/post_34.html>`__
+
+今天早上，听到新闻里说德国对一名病人同时进行了８个器官的移植手术，病人状况一切良好，正在等待出院。
+
+8个器官，太了不起了！不知道是怎么解决排斥反应的，莫非都是来自一个捐献者……医学水平真是越来越高了，现在除了大脑以外，人体所有部分都能移植了。会不会有一天，大脑也可以移植？
+
+
+================================
+
+下面是新华社的报道。
+
+**德成功完成8个器官同时移植手术**
+
+（2004-02-06 11:09:06） 来源：新华网
+
+新华网柏林２月５日电（记者郑汉根）德国柏林夏里特医院５日宣布，该医院对一名病人同时进行了８个器官的移植手术，并获得成功。
+
+| 接受手术的是来自下萨克森州一名３６岁的妇女。两个月前，在一次长达１２个小时的手术中，夏里特医院为她同时移植了肝、胰腺、胃、十二指
+| 
+肠、小肠、大肠、右肾等８个器官。医院称，目前所有被移植器官运转正常，该妇女不久也将康复出院。
+
+１９８８年以来，这名妇女身体多个器官都发生疾病，令她苦不堪言。２００２年４月以后，她只能靠静脉注射维持生命，前后接受过２０多次不同手术。
+
+| 夏里特医院说，这是欧洲范围内第一例获得成功的对８个器官同时进行移植的手术。（完）
+| 夏里特医院说，这是欧洲范围内第一例获得成功的对８个器官同时进行移植的手术。（完）
+|  =================================
+
+下面是路透社的报道：
+
+**German Doctors Transplant 8 Vital Organs at Once**
+
+| Fri 6 February, 2004 17:23 
+|  By Brian Swint
+
+BERLIN (Reuters) - German doctors have completed Europe’s first
+simultaneous transplant of eight vital organs but only announced the
+results on Friday after waiting to make sure it succeeded.
+
+Andreas Paschner, a doctor at Berlin’s Charite hospital, said the daring
+operation in late November had been attempted no more than twice before,
+in the United States.
+
+A secretary identified only as Stefanie H., 36, got a new liver,
+pancreas, stomach, duodenum, small intestine, partial large intestine,
+kidney and adrenal gland in surgery that lasted 12 hours.
+
+“The patient is recovering well,” said Paschner, one of a team of four
+doctors to perform the operation.
+
+“The patient is on a more or less normal diet,” he said. “Her intestinal
+disorder is gone, but she will experience problems all transplant
+patients typically have.”
+
+All of the transplanted organs are now fully functional, and the woman
+may be able to return to work in about six months.
+
+She suffered for more than 20 years from Crohn’s disease, a severe
+variant of inflammatory bowel disease in which the body’s immune system
+causes intestines to swell along the digestive tract. She had been in
+hospital since November 2001.
+
+The operation became necessary after her liver and pancreas failed due
+to long term intravenous feeding while she was waiting for a small
+intestine transplant. She fell into a coma.
+
+Doctors found her entire stomach region had hardened from abscesses,
+bleeding and the build-up of scar tissue, a condition doctors call a
+“frozen abdomen,” from more than 20 operations. “This operation was last
+possible treatment for a patient who suffered from an intestinal
+disorder with severe and life-threatening complications,” Paschner said.
+
+（完）
+
+.. note::
+    原文地址: http://www.ruanyifeng.com/blog/2004/02/post_34.html 
+    作者: 阮一峰 
+
+    编辑: 木书架 http://www.me115.com
