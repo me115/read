@@ -1,10 +1,7 @@
-.. redis documentation master file, created by
-   sphinx-quickstart on Thu Aug 14 09:52:32 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. _read_me115:
 
-互联网博客文集 - 木书架
-=================================
+互联网博文集 - 木书架
+=====================
 
 Contents:
 
@@ -12,11 +9,10 @@ Contents:
     :maxdepth: 1
 
     ruanyifeng/index
+    pongba/index
 
-Indices and tables
-==================
+搜索页面
+========
 
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 

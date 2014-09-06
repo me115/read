@@ -1,6 +1,9 @@
 .. _book_ruanyifeng:
 
 .. image:: /_static/cover.jpg
+    :width: 800px
+    :align: center
+
 
 阮一峰 - 博客十年
 =================================
