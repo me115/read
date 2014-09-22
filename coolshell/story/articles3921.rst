@@ -1,0 +1,29 @@
+.. _articles3921:
+
+中国仍是IE6的重灾区
+===================
+
+2011年3月10日 `陈皓 <http://coolshell.cn/articles/author/haoel>`__
+
+“IE6于10年前诞生，现在应该是我们同IE6告别的时候了。”微软公司日前推出IE6倒计时网站（the
+Internet Explorer 6
+Countdown，网址为\ `www.ie6countdown.com <http://www.ie6countdown.com/>`__\ ），旨在尽早淘汰IE6，让用户升级到新版IE浏览器。
+
+值得注意一点的是，在这张百分比图上所显示的目前仍在使用IE6浏览器上网的百分比第一的是中国——34.5%，这个符合我国国情——什么都要争第一。我国人口世界第一占全世界1/4，网民也是世界第一，还在使用IE6的网民占全世界的1/3，可以我国网民的严重落后。根据\ `CNNIC今年的报告 <http://www.cnnic.net.cn/dtygg/dtgg/201101/t20110118_20250.html>`__\ ，我国现有4.5亿网民，34%也就是1.5亿用户，也就是说你身边每三个人中就有一个在用IE6。而中国的IE6网民占全世界使用IE6网民的一半。
+
+另外，我发现亚洲是重灾区啊，包括中日韩台印都很猛啊，看来微软在亚洲的营销的确不错。
+
+|image0|
+
+我查看了一下Coolshell.cn的2011年到今天为止访问统计，排名第一是的Chrome(41.5%)，第二位的是Firefox(23.22%)，第三位的是IE8(10.7%)，第四位的是IE6(4.8%)。IE6的IP数有6400+。
+
+看来，在我国程序员这个人群中，越来越多的人使用Chrome+Firefox，挺喜人的，但是IE6还有4.8%，还不如土耳其，马来西亚，印尼等国家。
+
+.. |image0| image:: /coolshell/static/20140922113410600000.png
+.. |image7| image:: /coolshell/static/20140922113410942000.jpg
+
+.. note::
+    原文地址: http://coolshell.cn/articles/3921.html 
+    作者: 陈皓 
+
+    编辑: 木书架 http://www.me115.com

@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/default/files/garland_favicon.ico" type="image/x-icon" />
+    <title>Page not found | Spring Python</title>
+    <link type="text/css" rel="stylesheet" media="all" href="/modules/aggregator/aggregator.css?D" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?D" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/poll/poll.css?D" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?D" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?D" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?D" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?D" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/img_assist/img_assist.css?D" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/tableofcontents/tableofcontents.css?D" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/forum/forum.css?D" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/color/garland-237886a9/style.css?D" />
+<link type="text/css" rel="stylesheet" media="print" href="/themes/garland/print.css?D" />
+    <script type="text/javascript" src="/misc/jquery.js?D"></script>
+<script type="text/javascript" src="/misc/drupal.js?D"></script>
+<script type="text/javascript" src="/sites/all/modules/img_assist/img_assist.js?D"></script>
+<script type="text/javascript" src="/sites/all/modules/tableofcontents/jquery.scrollTo-min.js?D"></script>
+<script type="text/javascript" src="/sites/all/modules/tableofcontents/jquery.localscroll-min.js?D"></script>
+<script type="text/javascript" src="/sites/all/modules/tableofcontents/tableofcontents.js?D"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/" });
+//--><!]]>
+</script>
+    <!--[if lt IE 7]>
+      <link type="text/css" rel="stylesheet" media="all" href="/themes/garland/fix-ie.css" />    <![endif]-->
+  </head>
+  <body>
+
+<!-- Layout -->
+  <div id="header-region" class="clear-block"></div>
+
+    <div id="wrapper">
+    <div id="container" class="clear-block">
+
+      <div id="header">
+        <div id="logo-floater">
+        <h1><a href="/" title="Spring Python"><img src="/sites/default/files/garland_logo.png" alt="Spring Python" id="logo" /><span>Spring Python</span></a></h1>        </div>
+
+                                                    
+      </div> <!-- /header -->
+
+      
+      <div id="center"><div id="squeeze"><div class="right-corner"><div class="left-corner">
+                                        <h2>Page not found</h2>                                                  <div class="clear-block">
+            The requested page could not be found.          </div>
+                    <div id="footer">This project takes the concepts of <a href="http://springframework.org">Spring</a> and applies it to the language and environment of Python. This includes pragmatic libraries and useful abstractions that quickly gets you back to working on the code that makes you money.<div id="block-system-0" class="clear-block block block-system">
+
+
+  <div class="content"><a href="http://drupal.org"><img src="/misc/powered-blue-80x15.png" alt="Powered by Drupal, an open source content management system" title="Powered by Drupal, an open source content management system" width="80" height="15" /></a></div>
+</div>
+</div>
+      </div></div></div></div> <!-- /.left-corner, /.right-corner, /#squeeze, /#center -->
+
+      
+    </div> <!-- /container -->
+  </div>
+<!-- /layout -->
+
+    </body>
+</html>

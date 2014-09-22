@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="google-site-verification" content="Br-vdo-tI_IepKZayqb0UzGTgoz5otEAdD-MLQv_OYU" />
+    <meta name="author" content="Andrew Hoyer" />
+    <meta name="description" content="Personal playground for Andrew Hoyer" />
+
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300' rel='stylesheet' type='text/css'>
+    <link rel="icon" href="/resources/images/me_tiny.png" type="image/png">
+    <link rel="stylesheet" href="/resources/css/main.css" type="text/css" />
+
+    <title>Andrew Hoyer</title>
+
+    <link rel="alternate" type="application/atom+xml" title="Recent Entries" href="" />
+
+    <script src="/resources/js/modernizr.js"></script>
+    <script src="/resources/js/header.js"></script>
+</head>
+<body class="four-o-four">
+    <header>
+        <svg></svg>
+        <div class="me">
+            <img alt="me" src="/resources/images/me_tiny.png">
+            <p>My name is Andrew Hoyer. I am a software engineer in my mid-twenties living in (sometimes) sunny San Francisco. I enjoy walking, eating, and occasionally coding. I do not enjoy angry music, pickles, or the word cyberspace. I sometimes miss Canada.</p>
+        </div>
+    </header>
+
+    <section class="content">
+        <h2>Ruh roh!</h2>
+<p>Looks like that URL doesn't map to anything</p>
+<div class="gif"></div>
+<p>Not quite sure who to blame on this one...</p>
+<p><a href="/">head on home</a></p>
+    </section>
+
+    <footer>
+        <svg></svg>
+        <div>
+            <p>Feel free to contact me via <a class="twitter" target="_blank" href="http://twitter.com/ndrwhr">the twitter</a>, <a class="github" target="_blank" href="http://github.com/ndrwhr">the github</a> or <a class="email" target="_blank" href="mailto:me@andrew-hoyer.com">the email</a>.</p>
+        </div>
+    </footer>
+
+
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-15032423-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+</body>
+</html>

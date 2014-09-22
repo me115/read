@@ -1,0 +1,163 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns:fb="http://ogp.me/ns/fb#" xmlns="http://www.w3.org/1999/xhtml" class=" js no-flexbox no-touch" style="">
+<head>
+<!-- metas -->
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">		
+<title>Page not found</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+<!-- css -->
+<link href="/www.idge/css/normalize.css?v=" rel="stylesheet">
+<link href="/www.idge/css/prettify.css?v=" rel="stylesheet">	
+<link href="/www.idge/css/sitewrapper.css?v=" rel="stylesheet">
+<link href="/www.idge/css/static.css?v=" rel="stylesheet">
+<link href="/www.idge/css/print.css?v=" rel="stylesheet">
+<link rel="stylesheet" href="/www.idge.ctw/css/sitewrapper.css?v=" />
+<link rel="stylesheet" href="/www.idge.ctw/css/static.css?v=" />
+<link href="/www.idge/css/webfonts/ss-social.css?v=" rel="stylesheet">
+<link href="/www.idge/css/webfonts/ss-standard.css?v=" rel="stylesheet">
+<!--[if lte IE 8]>  
+<link href="/www.idge/css/webfonts/ss-ie8.css" rel="stylesheet" />
+<![endif]--> 
+<link href="" rel="stylesheet" type="text/css" />
+
+
+	<script type="text/javascript" src="http://fonts.staticworld.net/cav2eef.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+<link href="/www.idge/css/search-style.css?v=" rel="stylesheet">
+
+<!--  fav and touch icons -->
+<link rel="shortcut icon" type="image/x-icon" href="http://idge.staticworld.net/ctw/favicon.ico"/>
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://idge.staticworld.net/ctw/computerworld-logo144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://idge.staticworld.net/ctw/computerworld-logo114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://idge.staticworld.net/ctw/computerworld-logo72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://idge.staticworld.net/ctw/computerworld-logo57x57.png" />
+<link rel="apple-touch-icon" href="http://idge.staticworld.net/ctw/computerworld-logo300x300.png" />
+
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-300704-1']);
+_gaq.push(['_setDomainName', 'computerworld.com']);
+_gaq.push(['_trackPageview']);
+(function() { 
+	var ga = document.createElement('script');
+	ga.type = 'text/javascript';
+	ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(ga, s); }
+)();
+</script>
+
+<script src="/www.idge/js/mule/modernizr.js?v="></script>
+<script src="/www.idge/js/mule/respond.min.js?v="></script>
+
+</head>
+<body class="static" id="errorPage">
+<!-- BEGIN PAGE HEADER -->
+<header id="banner">  
+    <div class="main-header">
+	    <section class="main">
+	        <div class="wrapper">
+	            <div class="masthead">
+	                <a href="/"><span class="ir logo">computerworld</span></a>
+	            </div>
+	            <div id="reading-tools-wrapper"></div>
+	        </div>
+	    </section>
+	</div>
+</header>
+<!-- END PAGE HEADER -->
+		<div id="page-wrapper">
+			<section role="main">
+				<section class="bodee">
+				  <div class="main-col" id="search">
+				  <h1>Page not found</h1>
+				  <p>The Computerworld page that you have requested cannot be found by our friendly robots. The page you are looking for may have been removed, had its name changed, or may be temporarily unavailable. If you followed this link from outside our site, we'd appreciate if you'd let the owner of the referring site know.</p>
+          <h2>Try searching for similar articles here:</h2>
+          <div >
+            <div class="search-form">
+            	<form class="search" id="search-form" action="/search">
+            		<input name="query" id="banner-search-term" value="" type="text">
+            		<input name="contentType" value="article,resource" type="hidden">
+            		<input id="banner-search-submit" value="Go" type="submit">
+            	</form>
+            </div><!-- /.search-form -->
+          </div><!-- /#search -->
+        </div><!-- /.main-col -->
+        <div class="right-rail">
+          <img src="http://idge.staticworld.net/idge/friendly-robot.png" />
+        </div>
+				</section><!-- /.bodee -->
+			</section><!-- /role=main -->
+		</div><!-- /#page-wrapper -->
+    <!-- SiteCatalyst code version: H.25.
+    Copyright 1996-2012 Adobe, Inc. All Rights Reserved
+    More info available at http://www.omniture.com -->
+
+	<!-- SiteCatalyst code version: H.26.2.
+	Copyright 1996-2013 Adobe, Inc. All Rights Reserved
+	More info available at http://www.omniture.com -->
+	<script language="JavaScript" type="text/javascript">
+	var omniture_account="computerworldcom";
+	</script>
+	<script language="JavaScript" type="text/javascript" src="/www.idge/js/analytics/s_code.js?v="></script>
+	<script language="JavaScript" type="text/javascript" id="omniVars"><!--
+	g_sOmnitureReportSuite = "computerworldcom";  
+	
+	//BEGIN OMNITURE VARS 
+    /* You may give each page an identifying name, server, and channel on
+    the next lines. */
+    s.pageName="404 Page not found";
+    s.pageType="errorPage";
+    s.prop10="404";
+    s.prop18="errorPage";
+    s.prop41=location.href;
+    s.prop43="404";
+
+    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+    var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+    <script language="JavaScript" type="text/javascript"><!--
+    if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+    //--></script><noscript><img src="http://idgenterprise.112.2o7.net/b/ss/computerworldcom/1/H.25--NS/0"
+    height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+    <!-- End SiteCatalyst code version: H.26.2. -->
+</body>
+</html>
+
+

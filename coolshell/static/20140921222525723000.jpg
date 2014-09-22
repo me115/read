@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>Coding Horror</title>
+<meta name="description" content="programming and human factors"/>
+<meta name="HandheldFriendly" content="True"/>
+<meta name="MobileOptimized" content="320"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<link rel="shortcut icon" href="/assets/images/favicon.ico?v=df77f54e32">
+<link rel="apple-touch-icon" href="/assets/images/codinghorror-app-icon.png?v=df77f54e32">
+<meta name="google-site-verification" content="sl0m9SU_4V0JcvjWlOX4dUFBR6VS2P4tlxjJMo0gphU"/>
+<link rel="stylesheet" type="text/css" href="/assets/css/screen.css?v=df77f54e32"/>
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700"/>
+<link rel="alternate" type="application/rss+xml" title="Coding Horror" href="http://feeds.feedburner.com/codinghorror">
+</head>
+<body class="home-template">
+<header class="site-head">
+<div class="site-head-content">
+<a class="blog-logo" href="http://blog.codinghorror.com"><img src="/assets/images/codinghorror-app-icon.png?v=df77f54e32" alt="Coding Horror Logo" width="158" height="158"/></a>
+<h1 class="blog-title"><a href="http://blog.codinghorror.com">Coding Horror</a></h1>
+<h2 class="blog-description">programming and human factors</h2>
+<div class="site-search">
+<script>
+                  (function() {
+                    var cx = '016956275695630057531:lqveu9tah7y';
+                    var gcse = document.createElement('script');
+                    gcse.type = 'text/javascript';
+                    gcse.async = true;
+                    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//www.google.com/cse/cse.js?cx=' + cx;
+                    var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(gcse, s);
+                  })();
+                </script>
+<gcse:search></gcse:search>
+</div>
+</div>
+</header>
+<div class="wrap clearfix">
+<div class="clearfix"></div>
+<main class="content" role="main">
+<article class="post">
+<header class="post-header">
+<span class="post-meta"><time datetime="2014-09-05">5 Sep 2014</time> </span>
+<h2 class="post-title"><a href="/standard-markdown-is-now-common-markdown/">Standard Markdown is now Common Markdown</a></h2>
+</header>
+<section class="post-content">
+<p>Let me open with an apology to John Gruber for <a href="http://blog.codinghorror.com/standard-flavored-markdown/">my previous blog post</a>.</p>
+<p>We've been working on the Standard Markdown project for about two years now. We invited John Gruber, the original creator of Markdown, to join the project via email in November 2012, but never heard back. As we got closer to being ready for public feedback, we emailed John on August 19th with a link to the Standard Markdown spec, asking him for his feedback. Since John MacFarlane was the primary author of most of the work, we suggested that he be the one to reach out.</p>
+<p>We then waited two weeks for a response.</p>
+<p>There was no response, so we assumed that John Gruber was either OK with the project (and its name), or didn't care. So we proceeded.</p>
+<p>There was lots of internal discussion about what to name our project. Strict Markdown? XMarkdown? Markdown Pro? Markdown Super Hyper Turbo Pro Alpha Diamond Edition? </p>
+<p>As we were finalizing the name, we noticed on this podcast, at 1:15 &hellip;</p>
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/159439009&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<p>&hellip; that John seemed OK with the name "GitHub Flavored Markdown". So I originally wrote the blog post and the homepage using that terminology &ndash; "Standard Flavored Markdown" &ndash; and even kept that as the title of the blog post to signify our intent. We were building Yet Another Flavor of Markdown, one designed to remove ambiguity by specifying a standard, while preserving as much as possible the spirit of Markdown and compatibility with existing documents.</p>
+<p>Before we went live, I asked for feedback internally, and one of the bits of feedback I got was that it was inconsistent to say Standard Flavored Markdown on the homepage and blog when the spec says Standard Markdown throughout. So I changed them to match Standard Markdown, and that's what we launched with.</p>
+<p>It was a bit of a surprise to get an email last night, addressed to both me and John MacFarlane, from John Gruber indicating that the name Standard Markdown was "infuriating". </p>
+<p>I'm sorry the name is so infuriating. <strong>I assure you that we did <em>not</em> choose the name to make you, or anyone else, angry.</strong> We were simply trying to pick a name that correctly and accurately reflected our goal &ndash; to build an unambiguous flavor of Markdown. If the name we chose made inappropriate overtures about Standard Markdown being anything more than a highly specified flavor of Markdown, I apologize. Standard does have certain particular computer science meanings, as in IETF Standard, ECMA Standard. That was not our intent, it was more of an aspirational element of "what if, together, we could eventually..". What can I say? We're programmers. We name things literally. And <a href="http://blog.codinghorror.com/i-shall-call-it-somethingmanager/">naming is hard</a>.</p>
+<p>John Gruber was also very upset, and I think rightfully so, that the word Markdown was not capitalized throughout the spec. This was an oversight on our part &ndash; and also my fault because I <em>did</em> notice Markdown wasn't capitalized as I copied snippets of the spec to the homepage and blog post, and I definitely thought it was odd, too. You'll note that I took care to manually capitalize Markdown in the parts of the spec I copied to the blog post and home page &ndash; but I neglected to mention this to John MacFarlane as I should have. We corrected this immediately when it was brought to our attention. </p>
+<p>John then made three requests:</p>
+<ol>
+<li><p>Rename the project.</p></li>
+<li><p>Shut down the standardmarkdown.com domain, and don't redirect it.</p></li>
+<li><p>Apologize.</p></li>
+</ol>
+<p>All fair. Happy to do all of those things.</p>
+<p>Starting with the name. In his email John graciously indicated that he would "probably" approve a name like "Strict Markdown" or "Pedantic Markdown". Given the very public earlier miscommunication about naming, that consideration is appreciated.</p>
+<p>We replied with the following suggestions:</p>
+<ul>
+<li>Compatible Markdown</li>
+<li>Regular Markdown</li>
+<li>Community Markdown</li>
+<li>Common Markdown</li>
+<li>Uniform Markdown</li>
+<li>Vanilla Markdown</li>
+</ul>
+<p>We haven't heard back after replying last night, and I'm not sure we ever will, so in the interest of moving ahead and avoiding conflict, we're immediately renaming the project to <strong>Common Markdown</strong>.</p>
+<p>We hope that is an acceptable name; it was independently suggested to us several times in several different feedback areas. The intention is to avoid any unwanted overtones of ownership; we have only ever wanted to be Yet Another Flavor of Markdown.</p>
+<ol>
+<li><p>The project name change is already in progress.</p></li>
+<li><p>This is our public apology.</p></li>
+<li><p>I'll shut down the standardmarkdown.com domain as soon as I can, probably by tomorrow.</p></li>
+</ol>
+<p>John, we deeply apologize for the miscommunication. It's our fault, and we want to fix it. But even though we made mistakes, I hope it is clear that everything we've done, we did solely out of a shared love of Markdown (and its simple, unencumbered old-school ASCII origins), and the desire to ensure the success of Markdown as a stable format for future generations.</p>
+<p>Edit: after a long and thoughtful email from John Gruber &ndash; which is greatly appreciated &ndash; he indicated that no form of the word "Markdown" is acceptable to him in this case. We are now using the name <a href="http://commonmark.org"><strong>CommonMark</strong></a>.</p>
+<table>
+<tr><td class="welovecodinghorror">
+[advertisement] <a href="http://careers.stackoverflow.com/" rel="nofollow">Stack Overflow Careers</a> matches the best developers (you!) with the best employers. You can search our <a href="http://careers.stackoverflow.com/jobs" rel="nofollow">job listings</a> or <a href="http://careers.stackoverflow.com/cv" rel="nofollow">create a profile</a> and even let employers find you.
+</td></tr>
+</table>
+<b><a href="http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/#discourse-comments">Discussion</a></b>
+</section>
+</article>
+<article class="post">
+<header class="post-header">
+<span class="post-meta"><time datetime="2014-09-03">3 Sep 2014</time> </span>
+<h2 class="post-title"><a href="/standard-flavored-markdown/">Standard Flavored Markdown</a></h2>
+</header>
+<section class="post-content">
+<p>In 2009 I <a href="http://blog.codinghorror.com/responsible-open-source-code-parenting/">lamented the state of Markdown</a>:</p>
+<blockquote>
+<p>Right now we have the worst of both worlds. Lack of leadership from the top, and a bunch of fragmented, poorly coordinated community efforts to advance Markdown, none of which are officially canon. This isn't merely incovenient for anyone trying to find accurate information about Markdown; it's actually harming the project's future. </p>
+</blockquote>
+<p>In late 2012, David Greenspan from <a href="https://www.meteor.com/">Meteor</a> approached me and proposed we move forward, and <a href="http://blog.codinghorror.com/the-future-of-markdown/">a project crystallized</a>:</p>
+<blockquote>
+<p>I propose that Stack Exchange, GitHub, Meteor, Reddit, and any other company with lots of traffic and a strategic investment in Markdown, all work together to <strong>come up with an official Markdown specification, and standard test suites to validate Markdown implementations</strong>. We've all been working at cross purposes for too long, accidentally fragmenting Markdown while popularizing it.</p>
+</blockquote>
+<p>We formed a small private working group with key representatives from GitHub, from Reddit, from Stack Exchange, from the open source community. We spent months hashing out the details and agreeing on the necessary changes to turn Markdown into a language you can parse without feeling like you just walked through a sewer &ndash; while preserving the simple, clear, ASCII email inspired spirit of Markdown.</p>
+<p>We really struggled with this at <a href="http://www.discourse.org">Discourse</a>, which is also based on Markdown, but an even more complex dialect than the one we built at Stack Overflow. In Discourse, you can mix <em>three</em> forms of markup interchangeably:</p>
+<ul>
+<li>Markdown</li>
+<li>HTML (safe subset)</li>
+<li>BBCode (subset)</li>
+</ul>
+<p>Discourse is primarily a JavaScript app, so naturally we needed a nice, compliant implementation of Markdown in JavaScript. Surely such a thing exists, yes? Nope. Even in 2012, we found <em>zero</em> JavaScript implementations of Markdown that could pass the only Markdown test suite I know of, <a href="https://github.com/michelf/mdtest/">MDTest</a>. It isn't authoritative, it's a community created initiative that embodies its own decisions about rendering ambiguities in Markdown, but it's all we've got. We contributed many <a href="https://github.com/evilstreak/markdown-js/commits/master">upstream fixes to markdown.js</a> to make it pass MDTest &ndash; but it still only passes in our locally extended version.</p>
+<p>As an open source project ourselves, we're perfectly happy contributing upstream code to improve it for everyone. But it's an indictment of the state of the Markdown ecosystem that any remotely popular implementation wasn't already testing itself against a formal spec and test suite. But who can blame them, because <i>it didn't exist!</i></p>
+<p>Well, now it does.</p>
+<p>It took a while, but I'm pleased to announce that <a href="http://standardmarkdown.com"><strong>Standard Markdown</strong></a> is now finally ready for public review.</p>
+<p><strong><a href="http://standardmarkdown.com">standardmarkdown.com</a></strong></p>
+<p>It's a spec, including embedded examples, and implementations in portable C and JavaScript. We strived mightily to stay true to the spirit of Markdown in writing it. The primary author, John MacFarlane, <a href="http://spec.standardmarkdown.com">explains in the introduction to the spec</a>:</p>
+<blockquote>
+<p>Because Gruber’s syntax description leaves many aspects of the syntax undetermined, writing a precise spec requires making a large number of decisions, many of them somewhat arbitrary. In making them, I have appealed to existing conventions and considerations of simplicity, readability, expressive power, and consistency. I have tried to ensure that “normal” documents in the many incompatible existing implementations of markdown will render, as far as possible, as their authors intended. And I have tried to make the rules for different elements work together harmoniously. In places where different decisions could have been made (for example, the rules governing list indentation), I have explained the rationale for my choices. In a few cases, I have departed slightly from the canonical syntax description, in ways that I think further the goals of markdown as stated in that description.</p>
+</blockquote>
+<p>Part of my contribution to the project is to host the discussion / mailing list for Standard Markdown in a Discourse instance. </p>
+<p><strong><a href="http://talk.standardmarkdown.com">talk.standardmarkdown.com</a></strong></p>
+<p>Fortunately, Discourse itself <a href="http://blog.discourse.org/2014/08/introducing-discourse-1-0/">just reached version 1.0</a>. If the only thing Standard Markdown does is help save a few users from the continuing horror that is mailing list web UI, we all win.</p>
+<p>What I'm most excited about is that we got a massive contribution from the one person who, in my mind, was the most perfect person in the world to work on this project: <a href="http://johnmacfarlane.net/">John MacFarlane</a>. He took our feedback and wrote the entire Standard Markdown spec and both implementations.</p>
+<p><a href="http://johnmacfarlane.net/"><img src="/content/images/2014/Sep/JohnPinhole.jpg" alt="" title=""/></a></p>
+<p>A lot of people know of John through his <a href="http://johnmacfarlane.net/pandoc/">Pandoc</a> project, which is amazing in its own right, but I found out about him because he built <a href="http://johnmacfarlane.net/babelmark2/faq.html">Babelmark</a>. I learned to refer to Babelmark extensively while working on Stack Overflow and MarkdownSharp, a C# implementation of Markdown.</p>
+<p>Here's how crazy Markdown is: to decide what the "correct" behavior is, you provide sample Markdown input to 20+ different Markdown parsers &hellip; and then pray that some consensus emerges in all their output. That's what Babelmark does.</p>
+<p>Consider this simple Markdown example:</p>
+<pre><code># Hello there
+
+This is a paragraph.
+
+- one
+- two
+- three
+- four
+
+1. pirate
+2. ninja
+3. zombie
+</code></pre>
+<p>Just for that, I count <a href="http://johnmacfarlane.net/babelmark2/?text=%23+Hello+there%0A%0AThis+is+a+paragraph.%0A%0A-+one%0A-+two%0A-+three%0A-+four%0A%0A1.+pirate%0A2.+ninja%0A3.+zombie"><em>fifteen</em> different rendered outputs</a> from 22 different Markdown parsers.</p>
+<p><a href="http://en.wikipedia.org/wiki/Tower_of_Babel"><img src="/content/images/2014/Sep/Confusion_of_Tongues.png" alt="" title=""/></a></p>
+<p>In Markdown, we <em>literally</em> built a <a href="http://en.wikipedia.org/wiki/Tower_of_Babel">Tower of Babel</a>. </p>
+<p>Have I mentioned that it's a good idea for a language to have a formal specification and test suites? Maybe now you can see why that is.</p>
+<p>Oh, and in his spare time, John is also the chair of the department of philosophy at the University of California, Berkeley. <em>No big deal.</em> While I don't mean to minimize the contributions of anyone to the Standard Markdown project, we all owe a special thanks to John.</p>
+<p>Markdown is indeed everywhere. And that's a good thing. But it needs to be sane, parseable, and standard. That's the goal of <a href="http://standardmarkdown.com/">Standard Markdown</a> &mdash; but we need your help to get there. If you use Markdown on a website, <strong>ask what it would take for that site to become compatible with Standard Markdown</strong>; when you see the word "Markdown" you have the right to expect consistent rendering across all the websites you visit. If you implement Markdown, <a href="http://spec.standardmarkdown.com">take a look at the spec</a>, try to <strong>make your parser compatible with Standard Markdown</strong>, and <a href="http://talk.standardmarkdown.com">discuss improvements or refinements</a> to the spec.</p>
+<p><span style="color:red;">Update:</span> The project was renamed <a href="http://commonmark.org">CommonMark</a>. See <a href="http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/">my subsequent blog post</a>.</p>
+<table>
+<tr><td class="welovecodinghorror">
+[advertisement] How are you showing off your awesome? Create a <a href="http://careers.stackoverflow.com/cv" rel="nofollow">Stack Overflow Careers profile</a> and show off all of your hard work from Stack Overflow, Github, and virtually every other coding site. Who knows, you might even get recruited for a great <a href="http://careers.stackoverflow.com/jobs" rel="nofollow">new position</a>!
+</td></tr>
+</table>
+<b><a href="http://blog.codinghorror.com/standard-flavored-markdown/#discourse-comments">Discussion</a></b>
+</section>
+</article>
+<article class="post">
+<header class="post-header">
+<span class="post-meta"><time datetime="2014-07-18">18 Jul 2014</time> </span>
+<h2 class="post-title"><a href="/the-just-in-time-theory/">The &quot;Just In Time&quot; Theory of User Behavior</a></h2>
+</header>
+<section class="post-content">
+<p>I've long believed that the design of your software has a profound impact on how users <em>behave</em> within your software. But there are two sides to this story:</p>
+<ul>
+<li><p>Encouraging the "right" things by making those things intentionally easy to do.</p></li>
+<li><p>Discouraging the "wrong" things by making those things intentionally difficult, complex, and awkward to do.</p></li>
+</ul>
+<p>Whether the software is doing this intentionally, or completely accidentally, it's a fact of life: <a href="http://blog.codinghorror.com/training-your-users/">the path of least resistance is everyone's best friend</a>. Learn to master this path, or others will master it for you.</p>
+<p>For proof, consider Dan Ariely's new and amazing book, <a href="http://www.amazon.com/dp/0062183613?tag=codihorr-20">The (Honest) Truth About Dishonesty: How We Lie to Everyone &ndash; Especially Ourselves</a>.</p>
+<p><a href="http://www.amazon.com/dp/0062183613?tag=codihorr-20"><img src="/content/images/2014/Jul/the-honest-truth-about-dishonesty-cover.png" alt="" title=""/></a></p>
+<p>Indeed, let's be honest: <a href="http://blog.codinghorror.com/every-user-lies/">we all lie, all the time</a>. Not because we're bad people, mind you, but because we <em>have</em> to regularly lie to ourselves as <a href="http://blog.codinghorror.com/the-trap-you-set-for-yourself/">a survival mechanism</a>. You think we should be completely honest all the time? Yeah. <a href="http://blog.codinghorror.com/trust-me-im-lying/">Good luck with that</a>.</p>
+<p>But these healthy little white lies we learn to tell ourselves have a darker side. Have you ever heard <a href="http://online.wsj.com/news/articles/SB10001424052702304840904577422090013997320?mod=wsj_share_tweet">this old adage?</a></p>
+<blockquote>
+<p>One day, Peter locked himself out of his house. After a spell, the locksmith pulled up in his truck and picked the lock in about a minute.</p>
+<p>“I was amazed at how quickly and easily this guy was able to open the door,” Peter said. The locksmith told him that locks are on doors only to keep honest people honest. One percent of people will always be honest and never steal. Another 1% will always be dishonest and always try to pick your lock and steal your television; locks won’t do much to protect you from the hardened thieves, who can get into your house if they really want to.</p>
+<p><strong>The purpose of locks, the locksmith said, is to protect you from the 98% of mostly honest people who might be tempted to try your door if it had no lock.</strong></p>
+</blockquote>
+<p>I had heard this expressed less optimistically before as</p>
+<blockquote>
+<p>10% of people will <em>never</em> steal, 10% of people will <em>always</em> steal, and for everyone else &hellip; it depends.</p>
+</blockquote>
+<p>The "it depends" part is crucial to understanding human nature, and that's what Ariely spends most of the book examining in various tests. If for most people, honesty depends, what exactly does it depend on? The experiments Ariely conducts prove again and again that <strong>most people will consistently and reliably cheat "just a little", to the extent that they can still consider themselves honest people.</strong> The gating factor isn't laws, penalties, or ethics. Surprisingly, that stuff has virtually no effect on behavior. What does, though, is whether they can personally still <em>feel</em> like they are honest people.</p>
+<p>This is because they don't even consider it cheating &ndash; they're just taking a little extra, giving themselves a tiny break, enjoying a minor boost, because well, haven't they been working extra specially hard lately and earned it? Don't they of all people deserve something nice once in a while, and who would even miss this tiny amount? There's so much!</p>
+<p>These little white lies are the path of least resistance. They are everywhere. If laws don't work, if ethics classes don't work, if severe penalties don't work, how do you encourage people to behave in a way that "feels" honest that is actually, you know, <em>honest?</em> Feelings are some pretty squishy stuff.</p>
+<p>It's <a href="http://online.wsj.com/news/articles/SB10001424052702304840904577422090013997320?mod=wsj_share_tweet">easier than you think</a>.</p>
+<blockquote>
+<p>My colleagues and I ran an experiment at the University of California, Los Angeles. We took a group of 450 participants, split them into two groups and set them loose on our usual matrix task. We asked half of them to recall the Ten Commandments and the other half to recall 10 books that they had read in high school.</p>
+<p>Among the group who recalled the 10 books, we saw the typical widespread but moderate cheating. But in the group that was asked to recall the Ten Commandments, we observed no cheating whatsoever. We reran the experiment, reminding students of their schools' honor codes instead of the Ten Commandments, and we got the same result. We even reran the experiment on a group of self-declared atheists, asking them to swear on a Bible, and got the same no-cheating results yet again.</p>
+</blockquote>
+<p>That's the good news: <strong>a simple reminder <em>at the time of the temptation</em></strong> is usually all it takes for people to suddenly "remember" their honesty.</p>
+<p>The bad news is Clippy was right.</p>
+<p><img src="/content/images/2014/Jul/clippy-suicide.png" alt=""/></p>
+<p>In my experience, nobody reads manuals, nobody reads FAQs, and nobody reads tutorials. I am exaggerating a little here for effect, of course. Some A+ students will go out of their way to read these things. That's how they became A+ students, by naturally going the extra mile, and generally being the kind of users who teach themselves perfectly well without needing special resources to get there. When I say "nobody" I mean the vast overwhelming massive majority of people you would really, <em>really</em> want to <a href="http://blog.codinghorror.com/treating-user-myopia/">read things like that</a>. People who don't have the time or inclination to expend any effort at all other than the absolute minimum required, people who are most definitely <em>not</em> going to go the extra mile.</p>
+<p>In other words, the whole world.</p>
+<p>So how do you help people who, like us, just never seem to have the time to figure this stuff out becase they're, like, <em>suuuuper</em> busy and stuff?</p>
+<p>You do it by showing them &hellip;</p>
+<ul>
+<li>the minumum helpful reminder</li>
+<li>at exactly the right time</li>
+</ul>
+<p>This is what I've called the "Just In Time" theory of user behavior for years. Sure, FAQs and tutorials and help centers are great and all, but who has the time for that? We're <a href="http://blog.codinghorror.com/defending-perpetual-intermediacy/">all perpetual intermediates here</a>, at best. </p>
+<p>The closer you can get your software to practical, useful "Just In Time" reminders, the better you can help the users who are most in need. Not the A+ students who already read the FAQ, and studied the help center intently, but those users who <em>never read anything</em>. And now, thanks to Dan Ariely, I have the science to back this up. Even something as simple as putting your name on the top of a form to report auto insurance milage, rather than the bottom, resulted in a mysterious 10% increase in average miles reported. Having that little reminder <em>right at the start</em> that hey, your name is here on this form, inspired additional honesty. It works.</p>
+<p>Did we use this technique on Stack Overflow and Stack Exchange? Indeed we did. Do I use this technique on <a href="http://www.discourse.org">Discourse</a>? You bet, in even more places, because this is social discussion, not technical Q&amp;A. We are rather <a href="http://blog.discourse.org/2013/03/the-universal-rules-of-civilized-discourse/">big on civility</a>, so we like to remind people when they post on Discourse they aren't talking to a computer or a robot, but <a href="http://sivers.org/real">a real person, a lot like you</a>. </p>
+<p>When's the natural time to remind someone of this? Not when they sign up, not when they're reading, but <em>at the very moment they begin typing their first words in their first post</em>. This is the moment of temptation when you might be super mega convinced that <a href="http://xkcd.com/386/">someone is Wrong on the Internet</a>. So we put up a gentle little reminder Just In Time, right above where they are typing:</p>
+<p><a href="http://discourse.soylent.me/"><img src="/content/images/2014/Jul/discourse-new-user-civility-reminder.png" alt="" title=""/></a></p>
+<p>Then hopefully, as Dan Ariely showed us with honesty, this little reminder will tap into people's natural reserves of friendliness and civility, so cooler heads will prevail &ndash; and a few people are inspired to get along a little better than they did yesterday. Just because you're on the Internet doesn't mean you need to be yelling at folks 24/7.</p>
+<p>We use this same technique a bunch of other places: if you are posting a lot but haven't set an avatar, if you are adding a new post to a particularly old conversation, if you are replying a bunch of times in the same topic, and so forth. Wherever we feel a gentle nudge might help, at the exact time the behavior is occurring.</p>
+<p>It's important to understand that we use these reminders in <a href="http://www.discourse.org">Discourse</a> not because we believe people are dumb; quite the contrary, we use them because <strong>we believe people are smart, civil, and interesting.</strong> Turns out everyone just needs to be reminded of that once in a while for it to continue to be true.</p>
+<table>
+<tr><td class="welovecodinghorror">
+[advertisement] <a href="http://careers.stackoverflow.com/" rel="nofollow">Stack Overflow Careers</a> matches the best developers (you!) with the best employers. You can search our <a href="http://careers.stackoverflow.com/jobs" rel="nofollow">job listings</a> or <a href="http://careers.stackoverflow.com/cv" rel="nofollow">create a profile</a> and even let employers find you.
+</td></tr>
+</table>
+<b><a href="http://blog.codinghorror.com/the-just-in-time-theory/#discourse-comments">Discussion</a></b>
+</section>
+</article>
+<article class="post">
+<header class="post-header">
+<span class="post-meta"><time datetime="2014-05-16">16 May 2014</time> </span>
+<h2 class="post-title"><a href="/the-infinite-space-between-words/">The Infinite Space Between Words</a></h2>
+</header>
+<section class="post-content">
+<p>Computer performance is <a href="">a bit of a shell game</a>. You're always waiting for one of four things:</p>
+<ul>
+<li>Disk</li>
+<li>CPU</li>
+<li>Memory</li>
+<li>Network</li>
+</ul>
+<p>But which one? How long will you wait? And what will you do while you're waiting?</p>
+<p>Did you see <a href="http://www.imdb.com/title/tt1798709">the movie "Her"</a>? If not, you should. It's great. One of my favorite scenes is the AI describing just how difficult it becomes to communicate with humans:</p>
+<blockquote>
+<p>It's like I'm reading a book&hellip; and it's a book I deeply love. But I'm reading it slowly now. So the words are really far apart and the spaces between the words are almost infinite. I can still feel you&hellip; and the words of our story&hellip; but it's in this endless space between the words that I'm finding myself now. It's a place that's not of the physical world. It's where everything else is that I didn't even know existed. I love you so much. But this is where I am now. And this who I am now. And I need you to let me go. As much as I want to, I can't live your book any more.</p>
+</blockquote>
+<p>I have some serious reservations about the work environment pictured in Her where everyone's spending all day creepily whispering to their computers, but there is deep fundamental truth in that one pivotal scene. That infinite space "between" what we humans feel as time is where computers spend <em>all</em> their time. It's an entirely different timescale.</p>
+<p>The book <a href="http://www.amazon.com/dp/0133390098/?tag=codihorr-20">Systems Performance: Enterprise and the Cloud</a> has a great table that illustrates just how enormous these time differentials are. Just translate computer time into arbitrary seconds:</p>
+<table width="600px">
+<tr><td>1 CPU cycle</td><td>0.3 ns</td><td>1 s</td></tr>
+<tr><td>Level 1 cache access</td><td>0.9 ns</td><td>3 s</td></tr>
+<tr><td>Level 2 cache access</td><td>2.8 ns</td><td>9 s</td></tr>
+<tr><td>Level 3 cache access</td><td>12.9 ns</td><td>43 s</td></tr>
+<tr><td>Main memory access</td><td>120 ns</td><td>6 min</td></tr>
+<tr><td>Solid-state disk I/O</td><td>50-150 μs</td><td>2-6 days</td></tr>
+<tr><td>Rotational disk I/O</td><td>1-10 ms</td><td>1-12 months</td></tr>
+<tr><td>Internet: SF to NYC</td><td>40 ms</td><td>4 years</td></tr>
+<tr><td>Internet: SF to UK</td><td>81 ms</td><td>8 years</td></tr>
+<tr><td>Internet: SF to Australia</td><td>183 ms</td><td>19 years</td></tr>
+<tr><td>OS virtualization reboot</td><td>4 s</td><td>423 years</td></tr>
+<tr><td>SCSI command time-out</td><td>30 s</td><td>3000 years</td></tr>
+<tr><td>Hardware virtualization reboot</td><td>40 s</td><td>4000 years</td></tr>
+<tr><td>Physical system reboot</td><td>5 m</td><td>32 millenia</td></tr>
+</table>
+<p>The above Internet times are kind of optimistic. If you look at <a href="http://ipnetwork.bgtmo.ip.att.net/pws/network_delay.html">the AT&amp;T real time US internet latency chart</a>, the time from SF to NYC is more like 70ms. So I'd double the Internet numbers in that chart.</p>
+<p><img src="/content/images/2014/May/internet-latency-usa.png" alt=""/></p>
+<p>Latency is one thing, but it's also worth considering <a href="http://blog.codinghorror.com/the-economics-of-bandwidth/">the cost of that bandwidth</a>.</p>
+<p>Speaking of the late, great <a href="http://en.wikipedia.org/wiki/Jim_Gray_(computer_scientist)">Jim Gray</a>, he also <a href="http://loci.cs.utk.edu/dsi/netstore99/docs/presentations/keynote/sld023.htm">had an interesting way of explaining this</a>. If the CPU registers are how long it takes you to fetch data from your brain, then <strong>going to disk is the equivalent of fetching data from Pluto.</strong></p>
+<p><img src="/content/images/2014/May/storage-latency-how-far-away-is-the-data.png" alt=""/></p>
+<p>He was probably referring to traditional spinning rust hard drives, so let's adjust that extreme endpoint for today:</p>
+<ul>
+<li>Distance to Pluto: 4.67 billion miles.</li>
+<li>Latest fastest spinning HDD performance (<a href="http://www.anandtech.com/show/5729/western-digital-velociraptor-1tb-wd1000dhtz-review/3">49.7</a>) versus latest fastest PCI Express SSD (<a href="http://anandtech.com/show/8006/samsung-ssd-xp941-review-the-pcie-era-is-here/6">506.8</a>). That's an improvement of 10x.</li>
+<li>New distance: 467 million miles.</li>
+<li>Distance to Jupiter: 500 million miles.</li>
+</ul>
+<p>So instead of travelling to Pluto to get our data from disk in 1999, <strong>today we only need to travel to &hellip; Jupiter</strong>. </p>
+<p><img src="/content/images/2014/May/solar-system-distances.png" alt=""/></p>
+<p>That's disk performance over the last decade. How much faster did CPUs, memory, and networks get in the same time frame? Would a 10x or 100x improvement really make a dent in these vast infinite spaces in time that computers deal with?</p>
+<p>To computers, we humans work on a completely different time scale, practically <a href="http://en.wikipedia.org/wiki/Timeline_of_the_far_future">geologic time</a>. Which is completely mind-bending. The faster computers get, the bigger this time disparity grows. </p>
+<table>
+<tr><td class="welovecodinghorror">
+[advertisement] <a href="http://careers.stackoverflow.com/" rel="nofollow">Stack Overflow Careers</a> matches the best developers (you!) with the best employers. You can search our <a href="http://careers.stackoverflow.com/jobs" rel="nofollow">job listings</a> or <a href="http://careers.stackoverflow.com/cv" rel="nofollow">create a profile</a> and even let employers find you.
+</td></tr>
+</table>
+<b><a href="http://blog.codinghorror.com/the-infinite-space-between-words/#discourse-comments">Discussion</a></b>
+</section>
+</article>
+<article class="post">
+<header class="post-header">
+<span class="post-meta"><time datetime="2014-04-25">25 Apr 2014</time> </span>
+<h2 class="post-title"><a href="/what-can-men-do/">What Can Men Do?</a></h2>
+</header>
+<section class="post-content">
+<p>(The title references Shanley Kane's <a href="https://medium.com/tech-culture-briefs/a1e93d985af0">post by the same name</a>. This post represents my views on what men can do.)</p>
+<p>It's no secret that programming is an <a href="http://en.wikipedia.org/wiki/Women_in_computing#The_Gender_Gap">incredibly male dominated field</a>.</p>
+<ul>
+<li><p>Figures vary, but somewhere from 20% to 29% of currently working programmers are female.</p></li>
+<li><p>Less than 12% of Computer Science bachelor's degrees were awarded to women at US PhD-granting institutions in 2010.</p></li>
+</ul>
+<p>So, on average, only about 1 out of every 5 working programmers you'll encounter will be female. You could say <a href="http://www.nytimes.com/2014/04/06/technology/technologys-man-problem.html?_r=0">technology has a man problem</a>.</p>
+<p>In an earlier post I noted that <a href="http://blog.codinghorror.com/software-developers-and-aspergers-syndrome/">many software developers I've known have traits of Aspergers</a>. Aspergers is a spectrum disorder; the more severe the symptoms, the closer it is to autism. And did you know that autism <a href="http://en.wikipedia.org/wiki/Epidemiology_of_autism">skews heavily towards males at a 4:1 ratio</a>?</p>
+<p>Interesting. I might even go so far as to say some of those traits are <a href="http://www.amazon.com/dp/046500556X?tag=codihorr-20">what makes one good at programming</a>. </p>
+<p>That's the way it currently is. But is that the way it <em>should be?</em> I remember noticing that the workforce of the maternity ward at the hospital where our children were born was incredibly female dominated. Is there something inherently wrong with professions that naturally skew heavily male or female?</p>
+<p><a href="http://www.cbs.nl/en-GB/menu/themas/arbeid-sociale-zekerheid/publicaties/artikelen/archief/2005/2005-1825-wm.htm"><img src="/content/images/2014/Apr/male-vs-female-dominated-fields-2004.png" alt="" title=""/></a></p>
+<p>Consider <a href="http://www.cbs.nl/en-GB/menu/themas/arbeid-sociale-zekerheid/publicaties/artikelen/archief/2005/2005-1825-wm.htm">this list</a> of the most male and female dominated occupations in the Netherlands from 2004. It notes that:</p>
+<blockquote>
+<p>In higher and academic level positions, men and women are more often represented equally. This pattern of employment has hardly changed over the last years.</p>
+</blockquote>
+<p>Is programming a higher and academic level occupation? I'm not so sure, given that <a href="http://blog.codinghorror.com/please-dont-learn-to-code/">I've compared programmers to auto mechanics and plumbers in the past</a>. And you'll notice squarely where those occupations are on the above graphs. There's nothing wrong with being an auto mechanic or a plumber (or a programmer, for that matter), but is there anything about those particular professions that demands, in the name of social justice, that there must be 50% male plumbers and 50% female plumbers?</p>
+<p>For a counterpoint, here's a blog post from Sara J. Chipps. When I've e-mailed her in the past with my stupid questions on topics like this, she tries her best to educate me with empathy and compassion. That's why I love her. </p>
+<p>This is an <a href="http://sarajchipps.com/post/55986333661/in-which-i-answer-all-of-the-questions">excerpt from a blog post she wrote in 2012</a> which answered my question:</p>
+<blockquote>
+<p>Many people I meet ask me a variant of the question “I understand we want more women in technology, but why?” It’s a great question, and not at all something we should be offended by. Often men are afraid to ask questions like this for fear there will be backlash, and I think that fear can lead to stifling an important conversation.</p>
+<p>Frankly, the Internet is thriving without women building it, why should that change? Three reasons:</p>
+<p><strong>1) Diversity leads to better products and results</strong></p>
+<p>As illustrated in <a href="http://web.mit.edu/cortiz/www/Diversity/PDFs/Jehn%20et%20al%201999.pdf">this Cornell study</a> along with many others, diversity improves performance, morale, and end product. More women engineers means building a better internet, and improving software that can service society as a whole. Building a better Internet is why I started doing software development in the first place. I think we can all agree this is of utmost importance.</p>
+<p><strong>2) The Internet is the largest recording of human history ever built</strong></p>
+<p>Right now the architecture for that platform is being built disproportionally by white and asian males. You’ve heard the phrase “he who writes history makes history”? We don’t yet know how this will affect future generations. </p>
+<p>How can architecture be decidedly male? I like to refer to the anecdotal story of the Apple Store glass stairs. While visually appealing, there was one unforeseen consequence to their design: the large groups of strange men that spend hours each day standing under them looking up. As a woman, the first time I saw them I thought “thank god I’m not wearing a skirt today.” Such considerations were not taken in designing these stairs. I think it’s probable, if not easily predictable, that in a few years we will see such holes in the design of the web. </p>
+<p><strong>3) Women in 10 years need to be able to provide for themselves, and their families</strong></p>
+<p>Now, this reason is purely selfish on the part of women, but we all have mothers, and sisters, so I hope we can relate. </p>
+<p>This year there are 6 million information technology jobs in the US, up from 628,600 in 1987 and 1.34 million in 1997. Right now jobs in technology have half the unemployment rate of the rest of the workforce. There is no sign this will change anytime soon. If growth continues at the current rate, it will not be long until women will not be able to sustain themselves if not involved in a technical field. </p>
+<p>We have to start educating young girls about this now, or they may ultimately become the poorest demographic among us. </p>
+</blockquote>
+<p>These are good reasons. I'm particularly fond of #1. Diversity in social perspectives is hugely valuable when building social software intended for, y'know, human beings of all genders, like <a href="http://www.discourse.org">Discourse</a> and <a href="http://www.stackexchange.com">Stack Exchange</a>. Also, I get really, really tired of all the aggressive mansplaining in software development. Yes, even my own. Sometimes it would be good to get some ladysplaining all mixed up in there for variety.</p>
+<p>I suppose any effort to encourage more women to become software engineers should ideally start in childhood.</p>
+<p><a href="http://www.smbc-comics.com/?id=1883"><img src="/content/images/2014/Apr/boy-toys-vs-girl-toys.png" alt="boy toys vs girl toys" title=""/></a></p>
+<p>Dolls? Pshaw. In our household, every child, male or female, is issued a regulation iPad at birth. You know, the best, most complex toy there is: a computer. And, shocker, I'm kind of weird about it &ndash; I <em>religiously</em> refer to it as <strong>a computer</strong>, never as an iPad. Never. Not once. Not gonna happen in my house. Branding is for marketing weasels. So the twin girls will run around, frantically calling out for their so-called "'puter". It puts a grin on my face every time. And when anything isn't here, Maisie has gotten in the habit of saying "dada chargin'". Where's the milk, Maisie? "dada chargin'".</p>
+<p>But not everyone has the luxury of spawning their own processes and starting from boot. (You really should, though. It will <a href="http://blog.codinghorror.com/on-parenthood/">kick your ass</a>.)</p>
+<h3 id="whatcanyoudo">What can you do?</h3>
+<p>If you're reading this, there's about an 80% chance that you're a man. So after you give me the secret man club handshake, let's talk about what we men can do, right now, today, to make programming a more welcoming profession for women.</p>
+<ol>
+<li><p><strong>Abide by the Hacker School Rules</strong></p>
+<p>Let's start with the <a href="https://www.hackerschool.com/manual#sec-environment">freaking brilliant Hacker School rules</a>. This cuts directly to the unfortunate but oh-so-common Aspergers tendencies in programmers I mentioned earlier:</p>
+<ul><li>No feigning surprise. "I can't believe you don't know what the <em>stack</em> is!"</li>
+<li>No <a href="http://tirania.org/blog/archive/2011/Feb-17.html">well-actuallys</a>. "Well, actually, you can do that without a regular expression."</li>
+<li>No back seat driving. Don't intermittently lob advice across the room.</li>
+<li>No subtle sexism via public debate. </li></ul>
+<p>Does any of this sound familiar? Because it should. Oh <em>God</em> does this sound familar. Just read the whole set of Hacker School guidelines and recognize your natural tendencies, and try to rein them in. That's all I'm proposing.</p>
+<p>Well, actually, I'll be proposing a few more things.</p></li>
+<li><p><strong>Really listen. What? I SAID LISTEN.</strong> </p>
+<p>Remember <a href="https://www.youtube.com/watch?v=UHJdCO6Aa6s">this scene</a> in Fight Club?</p>
+<blockquote>
+<p>This is why I loved the support groups so much, if people thought you were dying, they gave you their full attention. If this might be the last time they saw you, they really saw you. Everything else about their checkbook balance and radio songs and messy hair went out the window. You had their full attention. <strong>People listened instead of just waiting for their turn to speak.</strong> And when they spoke, they weren't just telling you a story. When the two of you talked, you were building something, and afterward you were both different than before.</p>
+</blockquote>
+<p>Guilty as charged.</p>
+<p>My wife is a scientist, and she complains about this happening a lot at her work. I don't even think this one is about sexism, it's about basic respect. What does respect mean? Well, a bunch of things, but let's start with openly listening to people and giving them our full attention when they talk to us &ndash; rather than just waiting for our turn to speak.</p>
+<p>Let's shut up and listen quietly with the same thoughtfulness that we wish others would listen to us. We'll get our turn. We always do, don't we?</p></li>
+<li><p><strong>If you see bad behavior from other men, speak up.</strong></p>
+<p>It's not other people's job to make sure that everyone enjoys a safe, respectful, civil environment at work and online.</p>
+<p>It's my job. It's your job. It is <em>our job</em>.</p>
+<p>There is no mythical men's club where it is OK to be a jerk to women. If you see any behavior that gives you pause, behavior that makes you wonder "is that OK?", behavior that you'd be uncomfortable with directed toward your sister, your wife, your daughter &ndash; speak up. Honestly, as one man to another. And if that doesn't work for whatever reason, escalate.</p></li>
+<li><p><strong>Don't attempt romantic relationships at work.</strong></p>
+<p>Do you run a company? Institute a no-dating rule as policy. Yeah, I know, you can't truly enforce it, but it should still be the official company policy. And whether the place where you work has this policy or not, <em>you</em> should have it on a personal level.</p>
+<p>I'm sorry I have to be that guy who dumps on true love, but let's be honest: the odds of any random office romance working out are pretty slim. And when it doesn't, how will you handle showing up to work every day and seeing this person? Will there be Capulet vs Montague drama? The women usually get the rough end of this deal, too, because men aren't good at handling the inevitable rejection.</p>
+<p>Just don't do it. Have all the romantic relationships you want outside work, but do not bring it to work.</p></li>
+<li><p><strong>No drinking at work events.</strong></p>
+<p>I think it is very, very unwise for companies to have a culture associated with drinking and the lowered inhibitions that come with drinking. I've heard some terrifyingly awful stories that I don't even want to link to here. Men, plus women, plus alcohol is a great recipe for college. That's about all I remember from college, in fact. But as a safe work environment for women? Not so much.</p>
+<p>If you want to drink, be my guest. Drink. You're a grown up. I'm not the boss of you. But don't drink in a situation or event that is officially connected with work in <em>any</em> way. That should absolutely be your personal <em>and</em> company policy &ndash; no exceptions.</p></li>
+</ol>
+<p>There you have it. Five relatively simple things you, I, and all other working male programmers can do to help encourage a better environment for men <em>and</em> women in software plumbing. I mean engineering.</p>
+<p>So let's get to it.</p>
+<p>(I haven't listed anything here about mentoring. That's because <a href="https://twitter.com/codinghorror/status/25955094175">I am an awful mentor</a>. But please <em>do</em> feel free to mention good resources, like <a href="http://www.girldevelopit.com/">Girl Develop It</a>, that encourage mentoring of female software engineers by people that <em>are</em> actually good at it, in the comments.)</p>
+<table>
+<tr><td class="welovecodinghorror">
+[advertisement] How are you showing off your awesome? Create a <a href="http://careers.stackoverflow.com/cv" rel="nofollow">Stack Overflow Careers profile</a> and show off all of your hard work from Stack Overflow, Github, and virtually every other coding site. Who knows, you might even get recruited for a great <a href="http://careers.stackoverflow.com/jobs" rel="nofollow">new position</a>!
+</td></tr>
+</table>
+<b><a href="http://blog.codinghorror.com/what-can-men-do/#discourse-comments">Discussion</a></b>
+</section>
+</article>
+<nav class="pagination" role="navigation">
+<span class="page-number">Page 1 of 277</span>
+<a class="older-posts" href="/page/2/">Older Posts &rarr;</a>
+</nav>
+</main>
+<script type="text/javascript">
+  var discourseUrl = "http://discourse.codinghorror.com/";
+
+  (function() {
+    var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+    d.src = discourseUrl + 'javascripts/count.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+  })();
+</script>
+<aside class="sidebar">
+<div id="carbonads-container"><div class="carbonad"><div id="azcarbon"></div><script type="text/javascript">var z = document.createElement("script"); z.type = "text/javascript"; z.async = true; z.src = "http://engine.carbonads.com/z/56742/azcarbon_2_1_0_VERT"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(z, s);</script></div></div>
+<div id="hireme" class="hireme codinghorror" style="min-height: 220px; margin-bottom: 15px;"></div>
+<script>
+        setTimeout(function () {
+            var a = document.createElement("script");
+            var b = document.getElementsByTagName('script')[0];
+            a.src = "http://careers.stackoverflow.com/ad/js";
+            a.async = true; 
+            a.type = "text/javascript"; 
+            b.parentNode.insertBefore(a, b);
+        }, 5);
+    </script>
+<div class="welovecodinghorror" style="margin-bottom:15px">
+[ad] Enjoy the blog? Read <b><a href="http://www.hyperink.com/Effective-Programming-More-Than-Writing-Code-b1559">Effective Programming: More than Writing Code</a></b> and <b><a href="http://www.hyperink.com/How-To-Stop-Sucking-And-Be-Awesome-Instead-b9A74B5CBA6">How to Stop Sucking and Be Awesome Instead</a></b> on your Kindle, iPad, Nook, or as a PDF.
+</div>
+<h3>Resources</h3>
+<ul>
+<li><a href="/about-me/">About Me</a></li>
+<li><a href="http://twitter.com/codinghorror">@codinghorror</a></li>
+<li><a href="http://www.discourse.org/">discourse.org</a></li>
+<li><a href="http://stackexchange.com/">stackexchange.com</a></li>
+<li><a href="/recommended-reading-for-developers/">Recommended Reading</a></li>
+</ul>
+<ul>
+<li><a href="http://feeds.feedburner.com/codinghorror" class="icon-feed">&nbsp;Subscribe in a reader</a></li>
+<li><a href="http://feedburner.google.com/fb/a/mailverify?uri=codinghorror&amp;loc=en_US" class="icon-email">&nbsp;Subscribe via email</a></li>
+</ul>
+<p>Coding Horror has been continuously published since 2004</p>
+<ul>
+<li><img src="http://feeds.feedburner.com/~fc/codinghorror?bg=EEEEEE&amp;fg=111111&amp;anim=0" height="26" width="88" style="border:0" alt="Count of RSS readers"></li>
+<li><a href="http://my.statcounter.com/project/standard/stats.php?project_id=2600027&amp;guest=1">Traffic Stats</a></li>
+</ul>
+<footer class="site-footer">
+<section class="copyright">Copyright <a rel="author" href="https://profiles.google.com/codinghorror1">Jeff Atwood</a> &copy; 2014<br/>
+Logo image &copy; 1993 Steven C. McConnell <br/>
+Proudly published with <a class="icon-ghost" href="http://ghost.org">Ghost</a></section>
+</footer></aside>
+</div>
+<script src="/public/jquery.min.js?v=df77f54e32"></script>
+<script type="text/javascript" src="/assets/js/jquery.fitvids.js?v=df77f54e32"></script>
+<script type="text/javascript" src="/assets/js/index.js?v=df77f54e32"></script>
+<script async src="http://www.statcounter.com/counter/counter.js"></script>
+<noscript><a href="http://www.statcounter.com/"><img src="http://c26.statcounter.com/counter.php?sc_project=2600027&amp;java=0&amp;security=dcff5548&amp;invisible=0" alt="web metrics"></a> </noscript>
+ 
+<script>
+    document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js'%3E%3C/script%3E"));
+    </script>
+<script>
+    COMSCORE.beacon({
+      c1: 2,
+      c2: "6035669",
+      c3: "",
+      c4: "http://www.codinghorror.com/blog/",
+      c5: "",
+      c6: "",
+      c15: ""
+    });
+    </script>
+<noscript>
+<img src="http://b.scorecardresearch.com/b?c1=2&amp;c2=6035669&amp;c3=&amp;c4=http%3A%2F%2Fwww.codinghorror.com%2Fblog%2F&amp;c5=&amp;c6=&amp;c15=&amp;cv=1.3&amp;cj=1" style="display:none" width="0" height="0" alt=""/>
+</noscript>
+<img src="/view.gif?page=/" alt="" style="display:none" hidden />
+</body>
+</html>

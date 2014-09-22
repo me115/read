@@ -10,6 +10,7 @@ Contents:
 
     ruanyifeng/index
     pongba/index
+    coolshell/index
 
 搜索页面
 ========
